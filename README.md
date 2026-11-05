@@ -4,6 +4,16 @@
 
 Nhóm so sánh bốn phương pháp: **Dummy Classifier, Logistic Regression, Random Forest và Multilayer Perceptron (MLP) bằng PyTorch**.
 
+## Thành viên nhóm
+
+| STT | Họ và tên | Trường | 
+|---|---|---|
+| 1 | Nguyễn Hoàng Nhân | Ho Chi Minh city University of Technology, VNU-HCM |
+| 2 | Bùi Quang Nhân | Ho Chi Minh city University of Technology, VNU-HCM |
+| 3 | Phạm Gia Khiêm | Ho Chi Minh city University of Technology, VNU-HCM |
+| 4 | Bùi Đình Hoàng Hùng | Ho Chi Minh city University of Technology, VNU-HCM | 
+
+
 ## 1. Tổng quan bài toán
 
 Đây là bài toán **học có giám sát (supervised learning)** thuộc nhóm **phân loại đa lớp (multiclass classification)**.
