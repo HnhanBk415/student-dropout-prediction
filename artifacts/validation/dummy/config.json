@@ -1,0 +1,7 @@
+{
+  "model": "dummy",
+  "seed": 42,
+  "best_params": {},
+  "cv_macro_f1": null,
+  "split_file_sha256": "3451572d30025be38f8886fe64b20e0b3af7f59007e942014c3d3d14e9e7f7f5"
+}
