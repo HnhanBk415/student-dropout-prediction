@@ -1,0 +1,8 @@
+numpy>=1.26,<3
+pandas>=2.2,<4
+scikit-learn>=1.4,<2
+# Dùng cho nhánh MLP. Bản CPU mặc định đủ cho project vì dữ liệu chỉ 4424 dòng.
+# Muốn chạy GPU thì cài theo index CUDA riêng ở pytorch.org/get-started/locally.
+torch>=2.2,<3
+matplotlib>=3.9,<4
+ipykernel>=6.29,<8
