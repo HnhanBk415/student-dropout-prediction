@@ -1,0 +1,3 @@
+model,accuracy,macro_f1,dropout_recall,dropout_precision,dropout_f2
+Logistic Regression,0.7319277108433735,0.6937997613696273,0.7417840375586855,0.8020304568527918,0.7530981887511916
+Dummy (most_frequent),0.5,0.2222222222222222,0.0,0.0,0.0
