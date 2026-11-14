@@ -1,0 +1,39 @@
+{
+  "model": "LogisticRegression",
+  "created_utc": "2026-11-13T02:26:42Z",
+  "notebook": "notebooks/models/logistic/02_logistic_regression.ipynb",
+  "sklearn_version": "1.9.0",
+  "data_sha256": "19737f02127e85ef29af536e46888a7721b6c530c3e1c6aedfbb09109c030a71",
+  "split_seed": 42,
+  "labels": [
+    "Dropout",
+    "Enrolled",
+    "Graduate"
+  ],
+  "n_features_in": 36,
+  "n_features_after_preprocess": 232,
+  "scale_numeric": true,
+  "best_config": {
+    "penalty": "l2",
+    "solver": "lbfgs",
+    "C": 0.3,
+    "class_weight": "balanced",
+    "l1_ratio": 0.0,
+    "max_iter": 2000,
+    "random_state": 42
+  },
+  "cross_validation": {
+    "n_folds": 5,
+    "n_configs": 42,
+    "selection_metric": "macro_f1",
+    "macro_f1_mean": 0.717950534376926,
+    "macro_f1_std": 0.01848996882300249
+  },
+  "validation": {
+    "accuracy": 0.7319277108433735,
+    "macro_f1": 0.6937997613696273,
+    "dropout_recall": 0.7417840375586855,
+    "dropout_precision": 0.8020304568527918,
+    "dropout_f2": 0.7530981887511916
+  }
+}

@@ -1,0 +1,37 @@
+column,group,missing_on_train,distinct_on_train
+Application order,numeric,0,7
+Previous qualification (grade),numeric,0,97
+Admission grade,numeric,0,576
+Age at enrollment,numeric,0,45
+Curricular units 1st sem (credited),numeric,0,20
+Curricular units 1st sem (enrolled),numeric,0,22
+Curricular units 1st sem (evaluations),numeric,0,31
+Curricular units 1st sem (approved),numeric,0,22
+Curricular units 1st sem (grade),numeric,0,621
+Curricular units 1st sem (without evaluations),numeric,0,11
+Curricular units 2nd sem (credited),numeric,0,18
+Curricular units 2nd sem (enrolled),numeric,0,21
+Curricular units 2nd sem (evaluations),numeric,0,30
+Curricular units 2nd sem (approved),numeric,0,20
+Curricular units 2nd sem (grade),numeric,0,599
+Curricular units 2nd sem (without evaluations),numeric,0,10
+Unemployment rate,numeric,0,10
+Inflation rate,numeric,0,9
+GDP,numeric,0,10
+Marital status,categorical,0,6
+Application mode,categorical,0,18
+Course,categorical,0,17
+Previous qualification,categorical,0,17
+Nacionality,categorical,0,18
+Mother's qualification,categorical,0,27
+Father's qualification,categorical,0,29
+Mother's occupation,categorical,0,31
+Father's occupation,categorical,0,42
+Daytime/evening attendance,binary,0,2
+Displaced,binary,0,2
+Educational special needs,binary,0,2
+Debtor,binary,0,2
+Tuition fees up to date,binary,0,2
+Gender,binary,0,2
+Scholarship holder,binary,0,2
+International,binary,0,2
