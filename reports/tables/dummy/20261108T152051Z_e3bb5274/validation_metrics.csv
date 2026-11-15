@@ -1,0 +1,2 @@
+model,run_id,accuracy,macro_f1,dropout_f2
+dummy,20261108T152051Z_e3bb5274,0.5,0.2222222222222222,0.0
