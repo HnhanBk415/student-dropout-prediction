@@ -1,6 +1,6 @@
 {
   "model": "MLP (PyTorch)",
-  "created_utc": "2026-11-14T13:15:06Z",
+  "created_utc": "2026-11-15T05:31:54Z",
   "notebook": "notebooks/models/mlp/04_mlp.ipynb",
   "torch_version": "2.15.0+cpu",
   "sklearn_version": "1.9.1",
