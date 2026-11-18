@@ -1,0 +1,2657 @@
+model,row_index,y_true,y_pred,probability_Dropout,probability_Enrolled,probability_Graduate
+Dummy,2791,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3588,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3304,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1550,Graduate,Graduate,0.0,0.0,1.0
+Dummy,919,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3144,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1191,Graduate,Graduate,0.0,0.0,1.0
+Dummy,433,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3721,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2,Dropout,Graduate,0.0,0.0,1.0
+Dummy,477,Dropout,Graduate,0.0,0.0,1.0
+Dummy,976,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1463,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3402,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2766,Graduate,Graduate,0.0,0.0,1.0
+Dummy,309,Dropout,Graduate,0.0,0.0,1.0
+Dummy,905,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3799,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4022,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1852,Graduate,Graduate,0.0,0.0,1.0
+Dummy,536,Dropout,Graduate,0.0,0.0,1.0
+Dummy,217,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2990,Graduate,Graduate,0.0,0.0,1.0
+Dummy,617,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3442,Graduate,Graduate,0.0,0.0,1.0
+Dummy,598,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3501,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2841,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4358,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2000,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1205,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3653,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4077,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1350,Graduate,Graduate,0.0,0.0,1.0
+Dummy,245,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3059,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2814,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3882,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3580,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3824,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2749,Dropout,Graduate,0.0,0.0,1.0
+Dummy,414,Graduate,Graduate,0.0,0.0,1.0
+Dummy,144,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2507,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3130,Graduate,Graduate,0.0,0.0,1.0
+Dummy,770,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4061,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4181,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2615,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1068,Graduate,Graduate,0.0,0.0,1.0
+Dummy,189,Graduate,Graduate,0.0,0.0,1.0
+Dummy,138,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,420,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2581,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2297,Graduate,Graduate,0.0,0.0,1.0
+Dummy,429,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1302,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3082,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3178,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2431,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3393,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2291,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3590,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2828,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4334,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4323,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3181,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4317,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3999,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1405,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3834,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1591,Dropout,Graduate,0.0,0.0,1.0
+Dummy,791,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3099,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3917,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1800,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1837,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3297,Dropout,Graduate,0.0,0.0,1.0
+Dummy,807,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1853,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1053,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1866,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2417,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1224,Graduate,Graduate,0.0,0.0,1.0
+Dummy,988,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4033,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1152,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3995,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1375,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2800,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2479,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1735,Graduate,Graduate,0.0,0.0,1.0
+Dummy,295,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1864,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3730,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2282,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2271,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1321,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2548,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4093,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1171,Graduate,Graduate,0.0,0.0,1.0
+Dummy,423,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3885,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2927,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1968,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3676,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2329,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2775,Graduate,Graduate,0.0,0.0,1.0
+Dummy,701,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3564,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3312,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2020,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3557,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3237,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2206,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3029,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3480,Graduate,Graduate,0.0,0.0,1.0
+Dummy,367,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3280,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1398,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1199,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3415,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3935,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3860,Dropout,Graduate,0.0,0.0,1.0
+Dummy,21,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1954,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,707,Graduate,Graduate,0.0,0.0,1.0
+Dummy,108,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3937,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3528,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1836,Graduate,Graduate,0.0,0.0,1.0
+Dummy,843,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3647,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1706,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2340,Dropout,Graduate,0.0,0.0,1.0
+Dummy,551,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2837,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4006,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3605,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3978,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3249,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2952,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2294,Dropout,Graduate,0.0,0.0,1.0
+Dummy,499,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1566,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1538,Dropout,Graduate,0.0,0.0,1.0
+Dummy,383,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3194,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,667,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1344,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1150,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3930,Graduate,Graduate,0.0,0.0,1.0
+Dummy,750,Graduate,Graduate,0.0,0.0,1.0
+Dummy,201,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1811,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3719,Dropout,Graduate,0.0,0.0,1.0
+Dummy,902,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3476,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1397,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2523,Dropout,Graduate,0.0,0.0,1.0
+Dummy,492,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1663,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4170,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1378,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2398,Graduate,Graduate,0.0,0.0,1.0
+Dummy,977,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3847,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4150,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4396,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2504,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4018,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3209,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4230,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3954,Dropout,Graduate,0.0,0.0,1.0
+Dummy,760,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4278,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3271,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2407,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2403,Graduate,Graduate,0.0,0.0,1.0
+Dummy,364,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3697,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2716,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3220,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3896,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1410,Dropout,Graduate,0.0,0.0,1.0
+Dummy,361,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3592,Dropout,Graduate,0.0,0.0,1.0
+Dummy,743,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1431,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2726,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1899,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1599,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4373,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1095,Dropout,Graduate,0.0,0.0,1.0
+Dummy,809,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4026,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2248,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1919,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3471,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2806,Graduate,Graduate,0.0,0.0,1.0
+Dummy,629,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4213,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1829,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2691,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1425,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1606,Graduate,Graduate,0.0,0.0,1.0
+Dummy,547,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1401,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2024,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3649,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2643,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3926,Graduate,Graduate,0.0,0.0,1.0
+Dummy,673,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3128,Graduate,Graduate,0.0,0.0,1.0
+Dummy,969,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4082,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2752,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2781,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1993,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3100,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3408,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1213,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2770,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1087,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2247,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4081,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1560,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1748,Dropout,Graduate,0.0,0.0,1.0
+Dummy,600,Dropout,Graduate,0.0,0.0,1.0
+Dummy,662,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1623,Dropout,Graduate,0.0,0.0,1.0
+Dummy,300,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1856,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1936,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4276,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1572,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1683,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1360,Dropout,Graduate,0.0,0.0,1.0
+Dummy,331,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1862,Dropout,Graduate,0.0,0.0,1.0
+Dummy,632,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1212,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3276,Dropout,Graduate,0.0,0.0,1.0
+Dummy,482,Dropout,Graduate,0.0,0.0,1.0
+Dummy,205,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2496,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1006,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2382,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3222,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3831,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1428,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,973,Graduate,Graduate,0.0,0.0,1.0
+Dummy,838,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1728,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3290,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3684,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1097,Graduate,Graduate,0.0,0.0,1.0
+Dummy,421,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3764,Graduate,Graduate,0.0,0.0,1.0
+Dummy,747,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3753,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2861,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1530,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3858,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2472,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3158,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,799,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,273,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2320,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2209,Dropout,Graduate,0.0,0.0,1.0
+Dummy,76,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2924,Graduate,Graduate,0.0,0.0,1.0
+Dummy,955,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1338,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1276,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2812,Graduate,Graduate,0.0,0.0,1.0
+Dummy,782,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1412,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1774,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3921,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2619,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3423,Dropout,Graduate,0.0,0.0,1.0
+Dummy,852,Graduate,Graduate,0.0,0.0,1.0
+Dummy,511,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3482,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1119,Graduate,Graduate,0.0,0.0,1.0
+Dummy,226,Graduate,Graduate,0.0,0.0,1.0
+Dummy,215,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,233,Graduate,Graduate,0.0,0.0,1.0
+Dummy,167,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2467,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1314,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3866,Dropout,Graduate,0.0,0.0,1.0
+Dummy,730,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4180,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3105,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2401,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1761,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1346,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2834,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3287,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4291,Graduate,Graduate,0.0,0.0,1.0
+Dummy,837,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2777,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1031,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3238,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1315,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1859,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,289,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3620,Dropout,Graduate,0.0,0.0,1.0
+Dummy,356,Graduate,Graduate,0.0,0.0,1.0
+Dummy,84,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1518,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3089,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3338,Dropout,Graduate,0.0,0.0,1.0
+Dummy,637,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1158,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4402,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,260,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4352,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1208,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2801,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3123,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4129,Graduate,Graduate,0.0,0.0,1.0
+Dummy,56,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3891,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1336,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,966,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2996,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1582,Dropout,Graduate,0.0,0.0,1.0
+Dummy,354,Dropout,Graduate,0.0,0.0,1.0
+Dummy,85,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2965,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1614,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2587,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2220,Graduate,Graduate,0.0,0.0,1.0
+Dummy,77,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1732,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2550,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3675,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3045,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2396,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4407,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2596,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2725,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1843,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2499,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1347,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4189,Graduate,Graduate,0.0,0.0,1.0
+Dummy,330,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3523,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,742,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2107,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2664,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1901,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3017,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1846,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2198,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3699,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3174,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3572,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2433,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1454,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4325,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4205,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3349,Dropout,Graduate,0.0,0.0,1.0
+Dummy,484,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1577,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2035,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4235,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2446,Dropout,Graduate,0.0,0.0,1.0
+Dummy,431,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2428,Dropout,Graduate,0.0,0.0,1.0
+Dummy,703,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4415,Dropout,Graduate,0.0,0.0,1.0
+Dummy,274,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3240,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3034,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4247,Graduate,Graduate,0.0,0.0,1.0
+Dummy,651,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1383,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3321,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3076,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1947,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2413,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3561,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4178,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3190,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2760,Dropout,Graduate,0.0,0.0,1.0
+Dummy,921,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2811,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1041,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2211,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3570,Graduate,Graduate,0.0,0.0,1.0
+Dummy,796,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1820,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1250,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2870,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4322,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2439,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3843,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3263,Graduate,Graduate,0.0,0.0,1.0
+Dummy,731,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1009,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1545,Graduate,Graduate,0.0,0.0,1.0
+Dummy,199,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,52,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,713,Graduate,Graduate,0.0,0.0,1.0
+Dummy,459,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1422,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2213,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1787,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4175,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2046,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2368,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1680,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3002,Dropout,Graduate,0.0,0.0,1.0
+Dummy,186,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,351,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3275,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2133,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4209,Graduate,Graduate,0.0,0.0,1.0
+Dummy,618,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4195,Graduate,Graduate,0.0,0.0,1.0
+Dummy,737,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3299,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4259,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2236,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,728,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1001,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1002,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3970,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2347,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2322,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4184,Graduate,Graduate,0.0,0.0,1.0
+Dummy,658,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4012,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3003,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1181,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1675,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3350,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1508,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3363,Dropout,Graduate,0.0,0.0,1.0
+Dummy,865,Graduate,Graduate,0.0,0.0,1.0
+Dummy,230,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1010,Graduate,Graduate,0.0,0.0,1.0
+Dummy,699,Dropout,Graduate,0.0,0.0,1.0
+Dummy,26,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1909,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1717,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,463,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1365,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3640,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2289,Dropout,Graduate,0.0,0.0,1.0
+Dummy,387,Graduate,Graduate,0.0,0.0,1.0
+Dummy,862,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3326,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2048,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1981,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3633,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3906,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4217,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4320,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1388,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1139,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3740,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2909,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3919,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3150,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2265,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1561,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,18,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1166,Dropout,Graduate,0.0,0.0,1.0
+Dummy,191,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3909,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3230,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2989,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2700,Dropout,Graduate,0.0,0.0,1.0
+Dummy,820,Graduate,Graduate,0.0,0.0,1.0
+Dummy,777,Dropout,Graduate,0.0,0.0,1.0
+Dummy,723,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3642,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4246,Dropout,Graduate,0.0,0.0,1.0
+Dummy,308,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2253,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2610,Graduate,Graduate,0.0,0.0,1.0
+Dummy,216,Graduate,Graduate,0.0,0.0,1.0
+Dummy,540,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3627,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3895,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2082,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3394,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3314,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4050,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1785,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2484,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1669,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3587,Graduate,Graduate,0.0,0.0,1.0
+Dummy,950,Graduate,Graduate,0.0,0.0,1.0
+Dummy,652,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2190,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3918,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1442,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4311,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,168,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1438,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2616,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3104,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1567,Graduate,Graduate,0.0,0.0,1.0
+Dummy,677,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1418,Graduate,Graduate,0.0,0.0,1.0
+Dummy,839,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4020,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3929,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3927,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3094,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1113,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,418,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3897,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3678,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1860,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1472,Graduate,Graduate,0.0,0.0,1.0
+Dummy,939,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3458,Graduate,Graduate,0.0,0.0,1.0
+Dummy,633,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1656,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3786,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3934,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1727,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1468,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2196,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2028,Graduate,Graduate,0.0,0.0,1.0
+Dummy,242,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4194,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2069,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3462,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1406,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3714,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3285,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2367,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4135,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4003,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3577,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4392,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4112,Graduate,Graduate,0.0,0.0,1.0
+Dummy,156,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1813,Graduate,Graduate,0.0,0.0,1.0
+Dummy,664,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1187,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2192,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2111,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2126,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2554,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2159,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2879,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1017,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3211,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3971,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4128,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4126,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,517,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2978,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1817,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3439,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3972,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1815,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3518,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2440,Dropout,Graduate,0.0,0.0,1.0
+Dummy,891,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3080,Graduate,Graduate,0.0,0.0,1.0
+Dummy,176,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3212,Graduate,Graduate,0.0,0.0,1.0
+Dummy,641,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1012,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3172,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3308,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1809,Graduate,Graduate,0.0,0.0,1.0
+Dummy,680,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2968,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1408,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3641,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2855,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2973,Graduate,Graduate,0.0,0.0,1.0
+Dummy,286,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4044,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1013,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3183,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3301,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1648,Dropout,Graduate,0.0,0.0,1.0
+Dummy,323,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2851,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1271,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4272,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1471,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,75,Dropout,Graduate,0.0,0.0,1.0
+Dummy,621,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3762,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2593,Dropout,Graduate,0.0,0.0,1.0
+Dummy,871,Dropout,Graduate,0.0,0.0,1.0
+Dummy,565,Graduate,Graduate,0.0,0.0,1.0
+Dummy,776,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4015,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1457,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,4177,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1756,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1796,Graduate,Graduate,0.0,0.0,1.0
+Dummy,591,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,3487,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1783,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,89,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,696,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4149,Graduate,Graduate,0.0,0.0,1.0
+Dummy,908,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,869,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2106,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,1502,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2724,Graduate,Graduate,0.0,0.0,1.0
+Dummy,252,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3380,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3942,Graduate,Graduate,0.0,0.0,1.0
+Dummy,450,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1149,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2710,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1965,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4204,Dropout,Graduate,0.0,0.0,1.0
+Dummy,4169,Dropout,Graduate,0.0,0.0,1.0
+Dummy,335,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3379,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2468,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2397,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,2687,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2804,Graduate,Graduate,0.0,0.0,1.0
+Dummy,475,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2639,Graduate,Graduate,0.0,0.0,1.0
+Dummy,806,Graduate,Graduate,0.0,0.0,1.0
+Dummy,4085,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3134,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,54,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2259,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2657,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,133,Dropout,Graduate,0.0,0.0,1.0
+Dummy,2203,Dropout,Graduate,0.0,0.0,1.0
+Dummy,446,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1038,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1206,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2846,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1100,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1359,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1256,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2676,Dropout,Graduate,0.0,0.0,1.0
+Dummy,3226,Graduate,Graduate,0.0,0.0,1.0
+Dummy,890,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3303,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3259,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2186,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,778,Enrolled,Graduate,0.0,0.0,1.0
+Dummy,734,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1692,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2054,Graduate,Graduate,0.0,0.0,1.0
+Dummy,3096,Graduate,Graduate,0.0,0.0,1.0
+Dummy,2873,Graduate,Graduate,0.0,0.0,1.0
+Dummy,1892,Dropout,Graduate,0.0,0.0,1.0
+Dummy,1439,Graduate,Graduate,0.0,0.0,1.0
+Dummy,502,Enrolled,Graduate,0.0,0.0,1.0
+Logistic Regression,2791,Graduate,Graduate,0.012026971840167952,0.1253640800855649,0.8626089480742672
+Logistic Regression,3588,Graduate,Graduate,0.33306388287477323,0.29344603850099604,0.3734900786242308
+Logistic Regression,3304,Graduate,Graduate,0.011896486393707975,0.059183406153503135,0.928920107452789
+Logistic Regression,1550,Graduate,Graduate,0.011720723553049647,0.001007731062227338,0.987271545384723
+Logistic Regression,919,Graduate,Graduate,0.06518319017527774,0.2578911308866019,0.6769256789381204
+Logistic Regression,3144,Graduate,Graduate,0.008220893244247632,0.0258307074524084,0.9659483993033441
+Logistic Regression,1191,Graduate,Graduate,0.10404726789006503,0.2718010741874499,0.6241516579224851
+Logistic Regression,433,Dropout,Dropout,0.8537865921023582,0.1447687891294918,0.001444618768149991
+Logistic Regression,3721,Dropout,Dropout,0.998106651588408,0.0018874209342597357,5.927477332467065e-06
+Logistic Regression,2,Dropout,Dropout,0.9957564479781424,0.0042178685672925155,2.568345456513365e-05
+Logistic Regression,477,Dropout,Dropout,0.9995193283771399,0.0004204767154020883,6.019490745819725e-05
+Logistic Regression,976,Graduate,Graduate,0.03665570235161859,0.22223165285150173,0.7411126447968795
+Logistic Regression,1463,Dropout,Enrolled,0.30633835917036595,0.6917681882875086,0.0018934525421254397
+Logistic Regression,3402,Graduate,Graduate,0.021216161129770823,0.21120080987658443,0.7675830289936447
+Logistic Regression,2766,Graduate,Graduate,0.2278496226949088,0.18021056224645246,0.5919398150586388
+Logistic Regression,309,Dropout,Dropout,0.9636199762684293,0.03603284054901181,0.0003471831825588569
+Logistic Regression,905,Graduate,Graduate,0.008485354454447624,0.08174593336990645,0.909768712175646
+Logistic Regression,3799,Dropout,Dropout,0.9831658545587916,0.01681772736689975,1.6418074308692342e-05
+Logistic Regression,4022,Graduate,Graduate,0.03378846907328455,0.16144307569798755,0.804768455228728
+Logistic Regression,1852,Graduate,Graduate,0.02165641433273664,0.19192188199928464,0.7864217036679787
+Logistic Regression,536,Dropout,Dropout,0.8674233440385398,0.1323016052442378,0.0002750507172224099
+Logistic Regression,217,Dropout,Dropout,0.7567106705380205,0.24184894475854554,0.001440384703433806
+Logistic Regression,2990,Graduate,Graduate,0.20383018047261467,0.22233987356523482,0.5738299459621504
+Logistic Regression,617,Graduate,Graduate,0.026166338626842717,0.14539599741655534,0.8284376639566019
+Logistic Regression,3442,Graduate,Graduate,0.18469361039596147,0.2567363635297876,0.558570026074251
+Logistic Regression,598,Graduate,Graduate,0.06855730246406623,0.26586371056121055,0.6655789869747232
+Logistic Regression,3501,Dropout,Dropout,0.8981286318019265,0.10066244537324034,0.0012089228248331864
+Logistic Regression,2841,Graduate,Graduate,0.013181963321106438,0.020829661493403918,0.9659883751854897
+Logistic Regression,4358,Dropout,Enrolled,0.40495477373820304,0.5945265355379438,0.0005186907238531472
+Logistic Regression,2000,Dropout,Enrolled,0.4258108700069647,0.5700287924673855,0.004160337525649822
+Logistic Regression,1205,Graduate,Enrolled,0.3441643193097642,0.3946254069021269,0.26121027378810885
+Logistic Regression,3653,Enrolled,Graduate,0.10556372654280581,0.41751529174776725,0.4769209817094269
+Logistic Regression,4077,Dropout,Dropout,0.9724618516979772,0.0267307383362186,0.0008074099658042671
+Logistic Regression,1350,Graduate,Graduate,0.30727066919638785,0.345659203433409,0.34707012737020315
+Logistic Regression,245,Graduate,Graduate,0.007822216136116653,0.031292171117590604,0.9608856127462927
+Logistic Regression,3059,Graduate,Graduate,0.02060758716524359,0.15456861982600525,0.8248237930087512
+Logistic Regression,2814,Graduate,Enrolled,0.36169433260743195,0.39428284000077596,0.24402282739179215
+Logistic Regression,3882,Dropout,Dropout,0.8059388154503542,0.18503369393715735,0.00902749061248833
+Logistic Regression,3580,Graduate,Graduate,0.09480845803008633,0.4110388715846326,0.49415267038528105
+Logistic Regression,3824,Enrolled,Enrolled,0.459565229315328,0.5352026347470865,0.005232135937585461
+Logistic Regression,2749,Dropout,Enrolled,0.2052741543801022,0.5128709745630323,0.28185487105686546
+Logistic Regression,414,Graduate,Graduate,0.0055008533978233645,0.05724141063451165,0.937257735967665
+Logistic Regression,144,Graduate,Graduate,0.011533398291141132,0.12286907403913289,0.865597527669726
+Logistic Regression,2507,Graduate,Graduate,0.13553793045335552,0.2770536375326731,0.5874084320139714
+Logistic Regression,3130,Graduate,Graduate,0.049128447042008715,0.3765349252408725,0.5743366277171188
+Logistic Regression,770,Graduate,Graduate,0.010841152440873117,0.1058630063403751,0.8832958412187518
+Logistic Regression,4061,Graduate,Enrolled,0.1574276073211791,0.48787542077631985,0.35469697190250116
+Logistic Regression,4181,Dropout,Dropout,0.9776144444220864,0.02238211261902227,3.4429588913012222e-06
+Logistic Regression,2615,Dropout,Dropout,0.7604133912811153,0.19937910209762225,0.0402075066212624
+Logistic Regression,1068,Graduate,Graduate,0.012431947315335324,0.2377182967147959,0.7498497559698688
+Logistic Regression,189,Graduate,Graduate,0.09038492046212393,0.10158076389823807,0.808034315639638
+Logistic Regression,138,Enrolled,Graduate,0.04327862024023601,0.4263286738454679,0.5303927059142961
+Logistic Regression,420,Graduate,Graduate,0.006018330817507636,0.17325650995880845,0.8207251592236838
+Logistic Regression,2581,Dropout,Dropout,0.9844038100126536,0.015576011201165701,2.0178786180622294e-05
+Logistic Regression,2297,Graduate,Graduate,0.10748782414276026,0.31112930496905233,0.5813828708881874
+Logistic Regression,429,Graduate,Enrolled,0.0994579501611192,0.6696825552959607,0.23085949454292007
+Logistic Regression,1302,Graduate,Enrolled,0.40728413448939443,0.5228510604294753,0.06986480508113029
+Logistic Regression,3082,Graduate,Graduate,0.010365848815990968,0.07087765613188231,0.9187564950521266
+Logistic Regression,3178,Graduate,Graduate,0.017859610534209546,0.4533934582210974,0.5287469312446931
+Logistic Regression,2431,Graduate,Graduate,0.034076470854599146,0.17345611653671292,0.7924674126086878
+Logistic Regression,3393,Graduate,Graduate,0.027770745713638814,0.1905337785636378,0.7816954757227234
+Logistic Regression,2291,Graduate,Enrolled,0.05545893254901276,0.5060191164058319,0.4385219510451553
+Logistic Regression,3590,Enrolled,Dropout,0.7754175610913159,0.22309629414747165,0.0014861447612126127
+Logistic Regression,2828,Enrolled,Graduate,0.022781917073243084,0.26656187743453597,0.7106562054922209
+Logistic Regression,4334,Graduate,Graduate,0.025212383257329496,0.1195165944868204,0.85527102225585
+Logistic Regression,4323,Dropout,Dropout,0.771341519191611,0.22826922398709176,0.00038925682129728196
+Logistic Regression,3181,Dropout,Dropout,0.630520361080956,0.35094022001351793,0.01853941890552605
+Logistic Regression,4317,Graduate,Graduate,0.025986069007509303,0.12502585049437243,0.8489880804981182
+Logistic Regression,3999,Dropout,Graduate,0.03840616637456493,0.10017704942290424,0.8614167842025308
+Logistic Regression,1405,Dropout,Enrolled,0.45784925063411314,0.5420800137347741,7.073563111285321e-05
+Logistic Regression,3834,Graduate,Enrolled,0.12178196932846387,0.5049810254445708,0.37323700522696535
+Logistic Regression,1591,Dropout,Dropout,0.4220687779591528,0.35438339314269696,0.22354782889815022
+Logistic Regression,791,Dropout,Dropout,0.9730621742968367,0.02693171690608822,6.108797075058268e-06
+Logistic Regression,3099,Dropout,Dropout,0.6120390110210876,0.38761632752574915,0.0003446614531633245
+Logistic Regression,3917,Graduate,Graduate,0.05981557532849427,0.30066809498687286,0.6395163296846329
+Logistic Regression,1800,Dropout,Enrolled,0.12479783281632024,0.8246869564787794,0.050515210704900324
+Logistic Regression,1837,Enrolled,Enrolled,0.2348943136801804,0.5881060061675648,0.1769996801522547
+Logistic Regression,3297,Dropout,Dropout,0.5840498323133305,0.4102205644812919,0.00572960320537745
+Logistic Regression,807,Enrolled,Dropout,0.7130389482696189,0.27589438046751863,0.011066671262862407
+Logistic Regression,1853,Graduate,Graduate,0.032668559839534844,0.260398679370023,0.7069327607904422
+Logistic Regression,1053,Graduate,Enrolled,0.02433866066945113,0.8283022494659241,0.14735908986462487
+Logistic Regression,1866,Dropout,Dropout,0.9624981253954531,0.0373674865040016,0.00013438810054521586
+Logistic Regression,2417,Graduate,Graduate,0.08168928255554687,0.07546776136172735,0.8428429560827257
+Logistic Regression,1224,Graduate,Graduate,0.006777721492315886,0.0833603496494152,0.9098619288582689
+Logistic Regression,988,Dropout,Enrolled,0.30702948410624376,0.6875197741267725,0.005450741766983771
+Logistic Regression,4033,Dropout,Dropout,0.5129126533675082,0.2759198290982693,0.2111675175342224
+Logistic Regression,1152,Enrolled,Enrolled,0.09377610569491862,0.8632707041230951,0.042953190181986164
+Logistic Regression,3995,Dropout,Dropout,0.7727948854459141,0.22575992738555847,0.0014451871685274796
+Logistic Regression,1375,Dropout,Dropout,0.5084424149666527,0.21850013567010565,0.27305744936324167
+Logistic Regression,2800,Graduate,Graduate,0.02142759556950924,0.14957434428448757,0.8289980601460032
+Logistic Regression,2479,Dropout,Enrolled,0.23018175890746712,0.6940125870301422,0.07580565406239065
+Logistic Regression,1735,Graduate,Enrolled,0.11692956287761884,0.540008046626679,0.34306239049570214
+Logistic Regression,295,Graduate,Graduate,0.023382478531671524,0.24624896248702144,0.7303685589813069
+Logistic Regression,1864,Dropout,Dropout,0.9485077991174602,0.050753013428962726,0.0007391874535770235
+Logistic Regression,3730,Graduate,Enrolled,0.15407488193515828,0.5296177147600073,0.31630740330483437
+Logistic Regression,2282,Dropout,Dropout,0.6780442426837967,0.28104802814407426,0.04090772917212898
+Logistic Regression,2271,Graduate,Graduate,0.06218592747763494,0.2779909828598228,0.6598230896625422
+Logistic Regression,1321,Enrolled,Graduate,0.11859274821927424,0.43443101770680054,0.4469762340739252
+Logistic Regression,2548,Graduate,Graduate,0.025114409920328394,0.11703514503655152,0.8578504450431201
+Logistic Regression,4093,Graduate,Graduate,0.06942627243568661,0.13976253436769878,0.7908111931966146
+Logistic Regression,1171,Graduate,Graduate,0.03236590375378195,0.10878096503122055,0.8588531312149975
+Logistic Regression,423,Graduate,Graduate,0.005949253224366722,0.07946485593273676,0.9145858908428964
+Logistic Regression,3885,Graduate,Graduate,0.020987031837607754,0.15993882219080005,0.8190741459715921
+Logistic Regression,2927,Graduate,Enrolled,0.0328674713946671,0.5099892328993768,0.45714329570595613
+Logistic Regression,1968,Enrolled,Dropout,0.5072336483113059,0.488400675889392,0.004365675799302029
+Logistic Regression,3676,Graduate,Dropout,0.7023939575652232,0.2963956176670437,0.0012104247677332321
+Logistic Regression,2329,Dropout,Dropout,0.9932506549587726,0.006742952464803228,6.392576424242847e-06
+Logistic Regression,2775,Graduate,Graduate,0.020819572303292132,0.23183173034224724,0.7473486973544606
+Logistic Regression,701,Dropout,Dropout,0.4229244104669057,0.41221796649173675,0.1648576230413574
+Logistic Regression,3564,Dropout,Dropout,0.9655344608369302,0.034461453467566724,4.085695502968922e-06
+Logistic Regression,3312,Enrolled,Enrolled,0.12714198177771374,0.7447140826788398,0.12814393554344644
+Logistic Regression,2020,Dropout,Dropout,0.9769718370457988,0.02300863986921413,1.9523084987059927e-05
+Logistic Regression,3557,Dropout,Dropout,0.9944817310342292,0.005481686150501295,3.658281526958319e-05
+Logistic Regression,3237,Enrolled,Enrolled,0.21528287835561905,0.5830320380057218,0.20168508363865928
+Logistic Regression,2206,Dropout,Dropout,0.986241301883815,0.013648884767572462,0.00010981334861243422
+Logistic Regression,3029,Graduate,Enrolled,0.20194904353431975,0.4060655413109508,0.3919854151547295
+Logistic Regression,3480,Graduate,Graduate,0.006294547320630676,0.10044777829896895,0.8932576743804004
+Logistic Regression,367,Enrolled,Enrolled,0.11182170739730435,0.7177127827366222,0.17046550986607348
+Logistic Regression,3280,Graduate,Graduate,0.03560595611941849,0.22263756518495045,0.7417564786956311
+Logistic Regression,1398,Graduate,Graduate,0.0663539797002884,0.16102136466710681,0.7726246556326047
+Logistic Regression,1199,Graduate,Graduate,0.02080610924599265,0.11310195050937924,0.866091940244628
+Logistic Regression,3415,Enrolled,Enrolled,0.17249742532987672,0.493151243773977,0.33435133089614616
+Logistic Regression,3935,Enrolled,Enrolled,0.3310402768700221,0.4436703771571992,0.2252893459727787
+Logistic Regression,3860,Dropout,Enrolled,0.39609321512755014,0.5822456449460577,0.02166113992639223
+Logistic Regression,21,Enrolled,Graduate,0.06517397612299713,0.21686271268127352,0.7179633111957293
+Logistic Regression,1954,Enrolled,Enrolled,0.15045409756237751,0.8001368064418194,0.049409095995803086
+Logistic Regression,707,Graduate,Graduate,0.027473472283991784,0.011097232158122345,0.9614292955578859
+Logistic Regression,108,Dropout,Graduate,0.2774940411783321,0.30758819266259135,0.4149177661590765
+Logistic Regression,3937,Enrolled,Enrolled,0.3517279786463772,0.6243389010045597,0.02393312034906321
+Logistic Regression,3528,Dropout,Enrolled,0.2513173576789476,0.721597707391997,0.027084934929055265
+Logistic Regression,1836,Graduate,Graduate,0.06585778251671497,0.43638642704207886,0.4977557904412063
+Logistic Regression,843,Graduate,Graduate,0.028464374384105106,0.3093035270632399,0.662232098552655
+Logistic Regression,3647,Dropout,Dropout,0.9216220246593977,0.07691486297773295,0.0014631123628693178
+Logistic Regression,1706,Dropout,Dropout,0.6071469935537872,0.18007972401552697,0.21277328243068597
+Logistic Regression,2340,Dropout,Dropout,0.9962783203804255,0.0037080585502340313,1.3621069340485814e-05
+Logistic Regression,551,Dropout,Dropout,0.9188021314762784,0.07809001669435979,0.0031078518293617833
+Logistic Regression,2837,Enrolled,Enrolled,0.12886242707668463,0.7131313165791071,0.1580062563442083
+Logistic Regression,4006,Graduate,Graduate,0.029319733694863955,0.10721840400176212,0.863461862303374
+Logistic Regression,3605,Graduate,Dropout,0.6177394491423608,0.35079149654052855,0.031469054317110626
+Logistic Regression,3978,Graduate,Graduate,0.03662206206282037,0.15726814711047915,0.8061097908267005
+Logistic Regression,3249,Graduate,Graduate,0.031230419616486253,0.09471989925542003,0.8740496811280937
+Logistic Regression,2952,Enrolled,Enrolled,0.31073070024154203,0.49338329705208844,0.1958860027063695
+Logistic Regression,2294,Dropout,Dropout,0.8303742122578522,0.1334384759801502,0.03618731176199751
+Logistic Regression,499,Graduate,Graduate,0.010059919204999957,0.164571036432135,0.825369044362865
+Logistic Regression,1566,Graduate,Graduate,0.00471901943913785,0.048086074897687785,0.9471949056631744
+Logistic Regression,1538,Dropout,Dropout,0.9531459970833015,0.04680540806701169,4.859484968678689e-05
+Logistic Regression,383,Graduate,Graduate,0.043356523067052254,0.18939536021086542,0.7672481167220824
+Logistic Regression,3194,Enrolled,Enrolled,0.23617365216672795,0.6424894793776944,0.12133686845557766
+Logistic Regression,667,Graduate,Graduate,0.0019920274433542795,0.004520328167660389,0.9934876443889853
+Logistic Regression,1344,Dropout,Enrolled,0.3790709085127321,0.4306693566050532,0.19025973488221476
+Logistic Regression,1150,Graduate,Graduate,0.02873232543515815,0.20382808942332215,0.7674395851415197
+Logistic Regression,3930,Graduate,Graduate,0.01544677647546339,0.06574575933723928,0.9188074641872974
+Logistic Regression,750,Graduate,Enrolled,0.20919013103058778,0.45961548850609124,0.33119438046332084
+Logistic Regression,201,Graduate,Graduate,0.005307059169588726,0.03598211947203258,0.9587108213583787
+Logistic Regression,1811,Graduate,Graduate,0.008843389039123718,0.04857494889933237,0.9425816620615439
+Logistic Regression,3719,Dropout,Dropout,0.872651288056592,0.11151455780272336,0.01583415414068451
+Logistic Regression,902,Graduate,Graduate,0.04646179755486996,0.08271057321749602,0.870827629227634
+Logistic Regression,3476,Graduate,Graduate,0.01775696496441564,0.027494935285497315,0.9547480997500871
+Logistic Regression,1397,Graduate,Graduate,0.10836572748094685,0.17943544449287574,0.7121988280261774
+Logistic Regression,2523,Dropout,Dropout,0.9495208312285062,0.050216426911007146,0.00026274186048680316
+Logistic Regression,492,Graduate,Graduate,0.055922123230681894,0.4084917211335069,0.5355861556358112
+Logistic Regression,1663,Graduate,Graduate,0.005330772448368867,0.059358424357711485,0.9353108031939198
+Logistic Regression,4170,Enrolled,Dropout,0.6657804687290998,0.3283384999643426,0.00588103130655755
+Logistic Regression,1378,Dropout,Dropout,0.9853892860477957,0.014560081156860092,5.063279534421801e-05
+Logistic Regression,2398,Graduate,Graduate,0.08911613103652254,0.1715495133362965,0.739334355627181
+Logistic Regression,977,Graduate,Graduate,0.01668336602530051,0.2586471639822011,0.7246694699924984
+Logistic Regression,3847,Dropout,Dropout,0.9749410394985859,0.025039221054773308,1.9739446640783195e-05
+Logistic Regression,4150,Graduate,Graduate,0.04766455267217412,0.02471852494123277,0.9276169223865931
+Logistic Regression,4396,Graduate,Graduate,0.016678685115613698,0.11454934403573717,0.8687719708486492
+Logistic Regression,2504,Dropout,Dropout,0.9665558019267488,0.0331475648730828,0.0002966332001683422
+Logistic Regression,4018,Graduate,Graduate,0.02262325834011193,0.04930684002513511,0.9280699016347529
+Logistic Regression,3209,Graduate,Enrolled,0.19098590399738916,0.5966834899899932,0.21233060601261775
+Logistic Regression,4230,Graduate,Graduate,0.012876374700640665,0.2750304568401549,0.7120931684592045
+Logistic Regression,3954,Dropout,Enrolled,0.3940887832005063,0.60551896358442,0.00039225321507379554
+Logistic Regression,760,Graduate,Graduate,0.02923090859240982,0.0703680662300686,0.9004010251775216
+Logistic Regression,4278,Graduate,Graduate,0.10357834116081065,0.23968523411867204,0.6567364247205173
+Logistic Regression,3271,Graduate,Graduate,0.0341032368174977,0.09521516505778355,0.8706815981247188
+Logistic Regression,2407,Dropout,Dropout,0.9834299368475234,0.016548350431004496,2.171272147208287e-05
+Logistic Regression,2403,Graduate,Graduate,0.04130075138222986,0.2979957930425128,0.6607034555752573
+Logistic Regression,364,Enrolled,Enrolled,0.11317159536439284,0.5569959858462703,0.329832418789337
+Logistic Regression,3697,Enrolled,Enrolled,0.40759519557198587,0.5562383434578211,0.036166460970193104
+Logistic Regression,2716,Enrolled,Dropout,0.9105559853484093,0.088810815934617,0.0006331987169737004
+Logistic Regression,3220,Dropout,Dropout,0.8421147177100452,0.157616284019112,0.0002689982708428272
+Logistic Regression,3896,Enrolled,Dropout,0.8622480202482524,0.13742615732295183,0.0003258224287957004
+Logistic Regression,1410,Dropout,Dropout,0.9123100881653396,0.08715121012287642,0.00053870171178407
+Logistic Regression,361,Dropout,Enrolled,0.4217190522790778,0.575517801260953,0.0027631464599692838
+Logistic Regression,3592,Dropout,Dropout,0.915855862709567,0.06277627565396585,0.02136786163646719
+Logistic Regression,743,Dropout,Enrolled,0.3016388211389764,0.6576495174839293,0.04071166137709428
+Logistic Regression,1431,Dropout,Dropout,0.8373244839772518,0.16095022858053623,0.0017252874422120138
+Logistic Regression,2726,Graduate,Graduate,0.06139886754103386,0.22288491434839347,0.7157162181105726
+Logistic Regression,1899,Graduate,Graduate,0.029663221459031303,0.4350266205064708,0.5353101580344979
+Logistic Regression,1599,Dropout,Dropout,0.689555143683972,0.2869437364653576,0.023501119850670424
+Logistic Regression,4373,Enrolled,Enrolled,0.11217800748014699,0.681547805125165,0.20627418739468806
+Logistic Regression,1095,Dropout,Dropout,0.9648704438188003,0.03486476382885652,0.0002647923523433276
+Logistic Regression,809,Enrolled,Graduate,0.0284890683660692,0.19872278412325053,0.7727881475106804
+Logistic Regression,4026,Graduate,Enrolled,0.09640590764433747,0.7441244017171139,0.15946969063854866
+Logistic Regression,2248,Dropout,Dropout,0.9650580494964295,0.034936315391681606,5.635111888871745e-06
+Logistic Regression,1919,Enrolled,Enrolled,0.13501825826374925,0.6248510390060943,0.24013070273015635
+Logistic Regression,3471,Graduate,Graduate,0.3458454064781268,0.1079079885314455,0.5462466049904277
+Logistic Regression,2806,Graduate,Graduate,0.07406985540926246,0.1896848750313633,0.7362452695593743
+Logistic Regression,629,Graduate,Enrolled,0.148709274826966,0.534493328564179,0.3167973966088551
+Logistic Regression,4213,Graduate,Graduate,0.2518970713802773,0.3057828623730638,0.44232006624665887
+Logistic Regression,1829,Enrolled,Graduate,0.029052237690989465,0.38232988176869526,0.5886178805403154
+Logistic Regression,2691,Graduate,Graduate,0.1146535753156654,0.3157337400145298,0.5696126846698047
+Logistic Regression,1425,Graduate,Graduate,0.17615195358946198,0.3084994233943884,0.5153486230161496
+Logistic Regression,1606,Graduate,Graduate,0.22223039015761537,0.36425234875904955,0.4135172610833351
+Logistic Regression,547,Enrolled,Enrolled,0.22463890946837897,0.7345721155897211,0.04078897494189971
+Logistic Regression,1401,Graduate,Graduate,0.041614646625993325,0.18665967131429145,0.7717256820597151
+Logistic Regression,2024,Enrolled,Enrolled,0.18550813621439066,0.779043195725852,0.03544866805975727
+Logistic Regression,3649,Dropout,Dropout,0.7411908253768359,0.25175219550806677,0.0070569791150973315
+Logistic Regression,2643,Dropout,Enrolled,0.4833046051773325,0.48605505486502465,0.030640339957642822
+Logistic Regression,3926,Graduate,Graduate,0.0065135590186961734,0.05173187551018173,0.941754565471122
+Logistic Regression,673,Graduate,Graduate,0.05917180296175901,0.4027003534487351,0.5381278435895058
+Logistic Regression,3128,Graduate,Graduate,0.11328008326709255,0.4405071001688372,0.44621281656407014
+Logistic Regression,969,Enrolled,Enrolled,0.23319649625440947,0.7588988607148988,0.007904643030691784
+Logistic Regression,4082,Enrolled,Enrolled,0.40083255283838143,0.4396285451612195,0.1595389020003991
+Logistic Regression,2752,Dropout,Dropout,0.9337600227387561,0.06430331497027089,0.0019366622909730393
+Logistic Regression,2781,Dropout,Dropout,0.9624836843320579,0.037481553519313295,3.4762148628760405e-05
+Logistic Regression,1993,Graduate,Graduate,0.026703859756739654,0.25191158208979125,0.7213845581534691
+Logistic Regression,3100,Graduate,Graduate,0.011479253729559654,0.21901781687371427,0.769502929396726
+Logistic Regression,3408,Dropout,Dropout,0.9102447655485365,0.08966827119953621,8.69632519272604e-05
+Logistic Regression,1213,Graduate,Graduate,0.4013048793608374,0.1234851299477153,0.4752099906914472
+Logistic Regression,2770,Graduate,Graduate,0.02699049402712639,0.08859203038979299,0.8844174755830807
+Logistic Regression,1087,Graduate,Enrolled,0.1303205662217355,0.4532235385547048,0.4164558952235597
+Logistic Regression,2247,Enrolled,Enrolled,0.35608312246735335,0.6430230486860052,0.0008938288466414111
+Logistic Regression,4081,Enrolled,Enrolled,0.0830504922420002,0.8717045283307489,0.04524497942725085
+Logistic Regression,1560,Enrolled,Enrolled,0.08363656407749541,0.8179722547569327,0.0983911811655719
+Logistic Regression,1748,Dropout,Dropout,0.9942525391589984,0.0057386009921977475,8.859848803870936e-06
+Logistic Regression,600,Dropout,Dropout,0.9948663334977953,0.004776285339037721,0.0003573811631670375
+Logistic Regression,662,Graduate,Graduate,0.07644050036300643,0.09460999084218451,0.8289495087948091
+Logistic Regression,1623,Dropout,Enrolled,0.3021886727268483,0.6792221621819785,0.018589165091173043
+Logistic Regression,300,Graduate,Graduate,0.038984772251875244,0.17326953534564826,0.7877456924024764
+Logistic Regression,1856,Graduate,Enrolled,0.2638748435396728,0.47406738037470586,0.2620577760856213
+Logistic Regression,1936,Graduate,Enrolled,0.310457588981185,0.36295886443868014,0.326583546580135
+Logistic Regression,4276,Dropout,Dropout,0.9612044959275542,0.03866158362137872,0.0001339204510671459
+Logistic Regression,1572,Dropout,Dropout,0.9986498928998385,0.0013438076947040428,6.29940545748012e-06
+Logistic Regression,1683,Dropout,Enrolled,0.1351859195172309,0.707951336029566,0.15686274445320317
+Logistic Regression,1360,Dropout,Dropout,0.5036414739400263,0.4958776377758997,0.00048088828407389847
+Logistic Regression,331,Dropout,Dropout,0.7660480697169975,0.23378637767620156,0.00016555260680105636
+Logistic Regression,1862,Dropout,Dropout,0.9768462434444835,0.023147132644204087,6.623911312550309e-06
+Logistic Regression,632,Graduate,Graduate,0.006235477031601502,0.05983032145861239,0.9339342015097861
+Logistic Regression,1212,Graduate,Graduate,0.0022261490813318694,0.04578854963657911,0.951985301282089
+Logistic Regression,3276,Dropout,Dropout,0.668750898093946,0.29499049799201604,0.03625860391403811
+Logistic Regression,482,Dropout,Dropout,0.7974175458050295,0.20221095246836246,0.0003715017266078486
+Logistic Regression,205,Graduate,Dropout,0.5514622028452901,0.05649679151717838,0.39204100563753164
+Logistic Regression,2496,Graduate,Graduate,0.2881030253198249,0.23748680661307026,0.4744101680671049
+Logistic Regression,1006,Graduate,Graduate,0.023810852024353606,0.11671127780831606,0.8594778701673302
+Logistic Regression,2382,Dropout,Enrolled,0.28093516870716373,0.43226080995450317,0.28680402133833305
+Logistic Regression,3222,Graduate,Graduate,0.010935125080402723,0.076475634920993,0.9125892399986044
+Logistic Regression,3831,Enrolled,Enrolled,0.21337395744521545,0.43893859002669333,0.34768745252809125
+Logistic Regression,1428,Enrolled,Enrolled,0.09839951037790667,0.6784754695821139,0.2231250200399794
+Logistic Regression,973,Graduate,Dropout,0.6887361371784386,0.2542256490893512,0.0570382137322101
+Logistic Regression,838,Dropout,Dropout,0.9861550033142154,0.013801884541673597,4.311214411121941e-05
+Logistic Regression,1728,Dropout,Dropout,0.9960240117780788,0.003929777609925892,4.6210611995299354e-05
+Logistic Regression,3290,Dropout,Dropout,0.8590025332231843,0.14040781707762207,0.0005896496991935726
+Logistic Regression,3684,Dropout,Enrolled,0.4249765308715114,0.4564179393846462,0.11860552974384232
+Logistic Regression,1097,Graduate,Enrolled,0.27017903553496486,0.4767192899560534,0.2531016745089817
+Logistic Regression,421,Graduate,Graduate,0.12618368726146356,0.3831520043563799,0.49066430838215647
+Logistic Regression,3764,Graduate,Graduate,0.019888206161791266,0.2667454201818812,0.7133663736563275
+Logistic Regression,747,Graduate,Enrolled,0.002439974801133572,0.707862641812008,0.2896973833868583
+Logistic Regression,3753,Graduate,Graduate,0.05947831742130673,0.2706559724532757,0.6698657101254175
+Logistic Regression,2861,Graduate,Graduate,0.014103972070297134,0.34078665839400013,0.6451093695357027
+Logistic Regression,1530,Enrolled,Enrolled,0.15754282337498426,0.8338647838543934,0.008592392770622221
+Logistic Regression,3858,Dropout,Dropout,0.9491578249198911,0.04992747965890413,0.0009146954212047055
+Logistic Regression,2472,Dropout,Enrolled,0.38789771125613,0.5605774572623874,0.05152483148148259
+Logistic Regression,3158,Enrolled,Enrolled,0.24040930051274265,0.7062850290714235,0.05330567041583383
+Logistic Regression,799,Enrolled,Enrolled,0.15415583091585897,0.7101410579986157,0.13570311108552532
+Logistic Regression,273,Graduate,Graduate,0.011939138366277911,0.1816335052213876,0.8064273564123345
+Logistic Regression,2320,Dropout,Dropout,0.5984725357762859,0.39277651085457765,0.008750953369136467
+Logistic Regression,2209,Dropout,Dropout,0.9928611334912132,0.007125836077274314,1.3030431512624163e-05
+Logistic Regression,76,Dropout,Dropout,0.7886366138262219,0.205915485044411,0.005447901129367207
+Logistic Regression,2924,Graduate,Graduate,0.010883586544547809,0.14367454579993666,0.8454418676555154
+Logistic Regression,955,Dropout,Dropout,0.8604678730788095,0.12319603185094602,0.016336095070244628
+Logistic Regression,1338,Dropout,Enrolled,0.21584027360877026,0.6426360099742693,0.14152371641696046
+Logistic Regression,1276,Graduate,Enrolled,0.25159408480108114,0.439243998204056,0.30916191699486284
+Logistic Regression,2812,Graduate,Graduate,0.011793944844480552,0.05294304599311047,0.935263009162409
+Logistic Regression,782,Graduate,Graduate,0.005154247701055989,0.09412341480891252,0.9007223374900315
+Logistic Regression,1412,Graduate,Graduate,0.07855156931773886,0.2840660667946302,0.6373823638876309
+Logistic Regression,1774,Enrolled,Enrolled,0.37103464326620833,0.5891462644403052,0.03981909229348646
+Logistic Regression,3921,Graduate,Graduate,0.022628523921545796,0.07983272353061364,0.8975387525478407
+Logistic Regression,2619,Graduate,Graduate,0.008935863618165089,0.048097111117877504,0.9429670252639575
+Logistic Regression,3423,Dropout,Graduate,0.06399904949440645,0.12926725064613753,0.8067336998594561
+Logistic Regression,852,Graduate,Graduate,0.004044032808765732,0.029913136068208574,0.9660428311230257
+Logistic Regression,511,Dropout,Dropout,0.9781574650737032,0.021781479634902064,6.105529139478449e-05
+Logistic Regression,3482,Dropout,Dropout,0.8262847198352815,0.1733882840448027,0.0003269961199156693
+Logistic Regression,1119,Graduate,Graduate,0.03327175386732322,0.21950430445735325,0.7472239416753235
+Logistic Regression,226,Graduate,Graduate,0.158574016937507,0.10821043389263585,0.7332155491698572
+Logistic Regression,215,Enrolled,Graduate,0.031676498636724275,0.28795179808911076,0.680371703274165
+Logistic Regression,233,Graduate,Graduate,0.13190529700869424,0.30207739979531084,0.566017303195995
+Logistic Regression,167,Graduate,Enrolled,0.17212015806297448,0.6017448138674162,0.22613502806960925
+Logistic Regression,2467,Enrolled,Graduate,0.046731010195910846,0.32723667857720007,0.6260323112268892
+Logistic Regression,1314,Enrolled,Enrolled,0.3207056230242923,0.49442604556571723,0.18486833140999054
+Logistic Regression,3866,Dropout,Dropout,0.919698992500431,0.08025687353743624,4.4133962132717246e-05
+Logistic Regression,730,Dropout,Dropout,0.7215339208495415,0.27465568319895894,0.003810395951499519
+Logistic Regression,4180,Enrolled,Enrolled,0.4545458380804479,0.5419612967780071,0.003492865141545069
+Logistic Regression,3105,Dropout,Graduate,0.029796452831241688,0.22858945832978908,0.7416140888389692
+Logistic Regression,2401,Graduate,Graduate,0.17797165875907117,0.39994023916707616,0.4220881020738526
+Logistic Regression,1761,Dropout,Graduate,0.2706206495523721,0.268777077869193,0.46060227257843483
+Logistic Regression,1346,Graduate,Graduate,0.04724950600403715,0.055249954751589114,0.8975005392443738
+Logistic Regression,2834,Graduate,Graduate,0.10690938569715976,0.3900960037242834,0.502994610578557
+Logistic Regression,3287,Dropout,Dropout,0.9805110807693628,0.015337930752324685,0.004150988478312688
+Logistic Regression,4291,Graduate,Dropout,0.4274760534324767,0.3141363540310128,0.25838759253651056
+Logistic Regression,837,Enrolled,Enrolled,0.12525519925774156,0.8674602497450837,0.007284550997174729
+Logistic Regression,2777,Enrolled,Enrolled,0.09276518630230855,0.6247106407587589,0.28252417293893245
+Logistic Regression,1031,Enrolled,Enrolled,0.4255766099204466,0.4823953037592372,0.09202808632031605
+Logistic Regression,3238,Graduate,Graduate,0.028779794565673405,0.11444160771154122,0.8567785977227853
+Logistic Regression,1315,Graduate,Graduate,0.05098784414813003,0.3799509087615312,0.5690612470903388
+Logistic Regression,1859,Enrolled,Dropout,0.5212723449913903,0.45927053305124166,0.01945712195736799
+Logistic Regression,289,Graduate,Graduate,0.008730376980657619,0.09444823040607356,0.8968213926132688
+Logistic Regression,3620,Dropout,Enrolled,0.026482321009386942,0.8385118036624613,0.13500587532815184
+Logistic Regression,356,Graduate,Graduate,0.050972983193301666,0.17378369112720193,0.7752433256794964
+Logistic Regression,84,Graduate,Enrolled,0.040865312877324866,0.4802031070104819,0.4789315801121932
+Logistic Regression,1518,Enrolled,Graduate,0.3716567795849358,0.2418975754726809,0.3864456449423833
+Logistic Regression,3089,Dropout,Dropout,0.9481106843950403,0.05116696085114152,0.000722354753818111
+Logistic Regression,3338,Dropout,Dropout,0.5918732460743577,0.2888723853680657,0.11925436855757675
+Logistic Regression,637,Enrolled,Enrolled,0.24562386014736196,0.683109507001083,0.07126663285155502
+Logistic Regression,1158,Graduate,Graduate,0.08877632212591956,0.3865284338188212,0.5246952440552592
+Logistic Regression,4402,Enrolled,Graduate,0.30382539092871585,0.268738443965062,0.4274361651062222
+Logistic Regression,260,Graduate,Graduate,0.09659706056878853,0.22004863936553004,0.6833543000656815
+Logistic Regression,4352,Dropout,Graduate,0.0970258948341007,0.1497191881118361,0.7532549170540632
+Logistic Regression,1208,Dropout,Dropout,0.9990831396522207,0.0008864003898530305,3.0459957926283846e-05
+Logistic Regression,2801,Dropout,Dropout,0.9487977964127347,0.05110455775515378,9.764583211154405e-05
+Logistic Regression,3123,Graduate,Graduate,0.02759349160165448,0.28269952690269007,0.6897069814956553
+Logistic Regression,4129,Graduate,Graduate,0.061665049544274535,0.3061336193937391,0.6322013310619864
+Logistic Regression,56,Dropout,Dropout,0.9874748706275817,0.012400232808553523,0.00012489656386488164
+Logistic Regression,3891,Enrolled,Graduate,0.03447664100991715,0.15471119464250824,0.8108121643475746
+Logistic Regression,1336,Enrolled,Graduate,0.06145459140701936,0.3971220467146562,0.5414233618783244
+Logistic Regression,966,Dropout,Dropout,0.9574187809104964,0.0425161618758306,6.50572136729002e-05
+Logistic Regression,2996,Graduate,Graduate,0.09801023329892199,0.09563292818556761,0.8063568385155103
+Logistic Regression,1582,Dropout,Enrolled,0.41565046616046925,0.583684875782901,0.0006646580566296886
+Logistic Regression,354,Dropout,Dropout,0.8658641087112792,0.13394919465537541,0.0001866966333454759
+Logistic Regression,85,Graduate,Graduate,0.032326035826172744,0.10492024022472461,0.8627537239491025
+Logistic Regression,2965,Graduate,Graduate,0.08234809446497396,0.3924932151495141,0.5251586903855119
+Logistic Regression,1614,Graduate,Graduate,0.010373316834165001,0.04174937101730004,0.947877312148535
+Logistic Regression,2587,Enrolled,Enrolled,0.24524172446744658,0.7506404301566305,0.0041178453759229145
+Logistic Regression,2220,Graduate,Graduate,0.07210218724155903,0.32943284884716195,0.598464963911279
+Logistic Regression,77,Graduate,Graduate,0.0875480058940539,0.28319265101849483,0.6292593430874512
+Logistic Regression,1732,Dropout,Dropout,0.5664200701024437,0.42969847964535807,0.0038814502521982716
+Logistic Regression,2550,Graduate,Graduate,0.050424223595124704,0.05906889295042783,0.8905068834544475
+Logistic Regression,3675,Graduate,Graduate,0.016394295087625826,0.22286313111203676,0.7607425738003374
+Logistic Regression,3045,Graduate,Enrolled,0.36936439487219597,0.5677387227498939,0.0628968823779102
+Logistic Regression,2396,Dropout,Dropout,0.8443399231448819,0.15548664888283698,0.0001734279722812479
+Logistic Regression,4407,Graduate,Graduate,0.1383123100137508,0.18648178822321843,0.6752059017630307
+Logistic Regression,2596,Dropout,Enrolled,0.19863414548379207,0.6634745573054565,0.13789129721075136
+Logistic Regression,2725,Enrolled,Dropout,0.8134760511870973,0.18117617802675895,0.005347770786143736
+Logistic Regression,1843,Enrolled,Graduate,0.11506043634403802,0.3722144844393501,0.5127250792166118
+Logistic Regression,2499,Dropout,Dropout,0.8559569320345539,0.14198957697916015,0.002053490986285818
+Logistic Regression,1347,Enrolled,Graduate,0.0793142275360632,0.2912097214790947,0.629476050984842
+Logistic Regression,4189,Graduate,Enrolled,0.4105850887593207,0.432736961382351,0.1566779498583284
+Logistic Regression,330,Enrolled,Enrolled,0.10008762361523763,0.705606884981478,0.19430549140328437
+Logistic Regression,3523,Enrolled,Enrolled,0.3072030408953148,0.678284908600566,0.01451205050411915
+Logistic Regression,742,Dropout,Enrolled,0.1523021889423046,0.4661934809536259,0.3815043301040694
+Logistic Regression,2107,Graduate,Graduate,0.10634910655411538,0.35445773362290234,0.5391931598229822
+Logistic Regression,2664,Graduate,Graduate,0.23596052134313827,0.25240917456914364,0.511630304087718
+Logistic Regression,1901,Graduate,Enrolled,0.030097447903002766,0.9073247536421222,0.06257779845487493
+Logistic Regression,3017,Graduate,Graduate,0.005486022654656156,0.17353478236804917,0.8209791949772945
+Logistic Regression,1846,Dropout,Enrolled,0.21953047890440086,0.5163361296829176,0.2641333914126816
+Logistic Regression,2198,Dropout,Dropout,0.4816049810050094,0.4649982296885408,0.053396789306449734
+Logistic Regression,3699,Dropout,Enrolled,0.4331859340096367,0.5649930108588079,0.0018210551315554313
+Logistic Regression,3174,Enrolled,Graduate,0.033272279650602185,0.04634466484561026,0.9203830555037875
+Logistic Regression,3572,Dropout,Dropout,0.9103668257647857,0.08904061616467897,0.0005925580705354522
+Logistic Regression,2433,Enrolled,Enrolled,0.23265755825586673,0.6649923961489485,0.10235004559518483
+Logistic Regression,1454,Enrolled,Enrolled,0.057026979012618856,0.841748750036537,0.10122427095084399
+Logistic Regression,4325,Graduate,Graduate,0.06897759015653479,0.17482631662842538,0.7561960932150399
+Logistic Regression,4205,Graduate,Graduate,0.055051404538331766,0.3056012639626216,0.6393473314990467
+Logistic Regression,3349,Dropout,Dropout,0.7523046944266077,0.24745148169866288,0.00024382387472942344
+Logistic Regression,484,Graduate,Graduate,0.03144844495911532,0.40848367602956726,0.5600678790113174
+Logistic Regression,1577,Enrolled,Enrolled,0.06767393611989354,0.8275619593670587,0.10476410451304771
+Logistic Regression,2035,Enrolled,Dropout,0.7043255408089049,0.2780725199488931,0.017601939242202116
+Logistic Regression,4235,Enrolled,Enrolled,0.3670523353734949,0.466854841697163,0.16609282292934213
+Logistic Regression,2446,Dropout,Graduate,0.11610921240094521,0.1751452840769742,0.7087455035220807
+Logistic Regression,431,Graduate,Graduate,0.09412632950233958,0.3695544332587936,0.5363192372388668
+Logistic Regression,2428,Dropout,Enrolled,0.30936572496239234,0.4208514405980844,0.26978283443952344
+Logistic Regression,703,Dropout,Dropout,0.8798156570063281,0.11988028352535193,0.0003040594683199329
+Logistic Regression,4415,Dropout,Dropout,0.790832767217584,0.20763185259323322,0.0015353801891828714
+Logistic Regression,274,Graduate,Graduate,0.007725290730769292,0.060785303552981694,0.931489405716249
+Logistic Regression,3240,Enrolled,Enrolled,0.13165546096553843,0.7036340697090063,0.1647104693254552
+Logistic Regression,3034,Graduate,Graduate,0.01815102651884899,0.45409492637018184,0.5277540471109693
+Logistic Regression,4247,Graduate,Graduate,0.07289552028382576,0.32668489373059667,0.6004195859855777
+Logistic Regression,651,Enrolled,Dropout,0.5335784724023149,0.43286625038696186,0.033555277210723135
+Logistic Regression,1383,Graduate,Graduate,0.029532579603176973,0.37613644880630526,0.5943309715905178
+Logistic Regression,3321,Dropout,Dropout,0.9566013952938329,0.042080160555492706,0.0013184441506743653
+Logistic Regression,3076,Dropout,Enrolled,0.39611004220700213,0.5482316442407364,0.05565831355226143
+Logistic Regression,1947,Graduate,Enrolled,0.1301009313069512,0.6639113644794616,0.20598770421358706
+Logistic Regression,2413,Graduate,Dropout,0.8799924173761161,0.03359666861053604,0.08641091401334779
+Logistic Regression,3561,Graduate,Graduate,0.052322155965312284,0.18866133305036115,0.7590165109843267
+Logistic Regression,4178,Graduate,Graduate,0.046130976961492515,0.18007056577459815,0.7737984572639093
+Logistic Regression,3190,Dropout,Dropout,0.959409436314221,0.04055531710753931,3.524657823963638e-05
+Logistic Regression,2760,Dropout,Graduate,0.18242013455038028,0.2514616942489443,0.5661181712006754
+Logistic Regression,921,Graduate,Graduate,0.025051185923052326,0.14006862000495263,0.834880194071995
+Logistic Regression,2811,Dropout,Dropout,0.8193414237678558,0.16722478356882828,0.013433792663316055
+Logistic Regression,1041,Graduate,Graduate,0.04386570063845655,0.11313433564022245,0.842999963721321
+Logistic Regression,2211,Graduate,Graduate,0.052077814114354214,0.2872248219711255,0.6606973639145203
+Logistic Regression,3570,Graduate,Enrolled,0.08372359189829541,0.8460433442338309,0.07023306386787363
+Logistic Regression,796,Graduate,Graduate,0.021452660498774475,0.1831173661519395,0.795429973349286
+Logistic Regression,1820,Enrolled,Dropout,0.6527717123387164,0.32705540709623393,0.020172880565049636
+Logistic Regression,1250,Graduate,Graduate,0.02625883969918575,0.24877537918185313,0.724965781118961
+Logistic Regression,2870,Graduate,Graduate,0.003750261729166393,0.022622043130063833,0.9736276951407699
+Logistic Regression,4322,Dropout,Dropout,0.739911300755496,0.244462642783572,0.015626056460932035
+Logistic Regression,2439,Dropout,Dropout,0.9978882796265816,0.0017904431503370129,0.00032127722308153525
+Logistic Regression,3843,Dropout,Enrolled,0.466929189732797,0.5285489699668028,0.00452184030040019
+Logistic Regression,3263,Graduate,Graduate,0.031165589058357753,0.07636220261855052,0.8924722083230918
+Logistic Regression,731,Graduate,Enrolled,0.037285822699878124,0.6780356123618179,0.28467856493830396
+Logistic Regression,1009,Graduate,Graduate,0.03665416750181574,0.14234790127421357,0.8209979312239706
+Logistic Regression,1545,Graduate,Enrolled,0.060818833919549814,0.5934836497827022,0.3456975162977479
+Logistic Regression,199,Enrolled,Enrolled,0.16940584659755425,0.4215042764116119,0.4090898769908339
+Logistic Regression,52,Enrolled,Enrolled,0.293187388031456,0.6806669703240502,0.026145641644493824
+Logistic Regression,713,Graduate,Graduate,0.030854556296934725,0.4745915792034096,0.49455386449965566
+Logistic Regression,459,Graduate,Graduate,0.07011258595261029,0.10757403023571584,0.8223133838116738
+Logistic Regression,1422,Graduate,Graduate,0.0049196568670724205,0.03701177752149138,0.9580685656114362
+Logistic Regression,2213,Dropout,Enrolled,0.24999600195953833,0.4860033218352725,0.2640006762051892
+Logistic Regression,1787,Graduate,Dropout,0.43878649317429497,0.3292474232528906,0.2319660835728145
+Logistic Regression,4175,Graduate,Enrolled,0.017106214507974612,0.6592031944129056,0.32369059107911974
+Logistic Regression,2046,Dropout,Dropout,0.981863059409259,0.01807556316684961,6.137742389130517e-05
+Logistic Regression,2368,Enrolled,Dropout,0.5363653833635602,0.33826911640996377,0.1253655002264759
+Logistic Regression,1680,Enrolled,Enrolled,0.1331838384098891,0.8482211119833247,0.018595049606786197
+Logistic Regression,3002,Dropout,Graduate,0.0712504235147887,0.11287353465307519,0.815876041832136
+Logistic Regression,186,Enrolled,Dropout,0.5188592752586275,0.4637801616320933,0.01736056310927923
+Logistic Regression,351,Graduate,Graduate,0.014404431093927946,0.1579034805267431,0.827692088379329
+Logistic Regression,3275,Graduate,Dropout,0.4251295968827754,0.23513604602717225,0.3397343570900523
+Logistic Regression,2133,Graduate,Graduate,0.018528189420694775,0.126420194692391,0.8550516158869141
+Logistic Regression,4209,Graduate,Graduate,0.03229901908582713,0.2817954886428961,0.6859054922712768
+Logistic Regression,618,Graduate,Graduate,0.015316345235669555,0.14192856767594,0.8427550870883904
+Logistic Regression,4195,Graduate,Graduate,0.20199595066889664,0.3592423902525141,0.43876165907858933
+Logistic Regression,737,Dropout,Dropout,0.5233764728743375,0.4730202512285974,0.003603275897065118
+Logistic Regression,3299,Dropout,Dropout,0.9970883305505399,0.0029038498771200355,7.819572339998246e-06
+Logistic Regression,4259,Dropout,Enrolled,0.2668086602302312,0.7258305702615879,0.007360769508180889
+Logistic Regression,2236,Enrolled,Enrolled,0.42858663032347627,0.5549812524866657,0.016432117189858087
+Logistic Regression,728,Graduate,Enrolled,0.2308474502446983,0.48076495956643905,0.2883875901888625
+Logistic Regression,1001,Dropout,Dropout,0.9920643079345804,0.007842277132165837,9.341493325368855e-05
+Logistic Regression,1002,Graduate,Dropout,0.352041672432085,0.3014326912996651,0.3465256362682499
+Logistic Regression,3970,Graduate,Graduate,0.0777676503657689,0.332475753466248,0.589756596167983
+Logistic Regression,2347,Graduate,Enrolled,0.13293726129578812,0.5214452853960126,0.3456174533081992
+Logistic Regression,2322,Dropout,Dropout,0.7589337822919549,0.23856383209037138,0.002502385617673787
+Logistic Regression,4184,Graduate,Graduate,0.0949847603658821,0.19515151478227322,0.7098637248518447
+Logistic Regression,658,Graduate,Enrolled,0.05746669824484131,0.7031718404501758,0.23936146130498293
+Logistic Regression,4012,Dropout,Dropout,0.9237924781616366,0.07494833738191002,0.0012591844564534382
+Logistic Regression,3003,Dropout,Graduate,0.026804261206812625,0.08612178802736242,0.887073950765825
+Logistic Regression,1181,Graduate,Enrolled,0.10159272421998385,0.6967793414091641,0.20162793437085214
+Logistic Regression,1675,Dropout,Dropout,0.970313218957236,0.029453852386218105,0.00023292865654588664
+Logistic Regression,3350,Enrolled,Graduate,0.044005081103748456,0.2470213818976944,0.7089735369985573
+Logistic Regression,1508,Graduate,Graduate,0.04262728527967063,0.12340605936136945,0.83396665535896
+Logistic Regression,3363,Dropout,Dropout,0.9927611461256746,0.0072339390496632214,4.914824662308304e-06
+Logistic Regression,865,Graduate,Graduate,0.011816729743243343,0.08483919924881618,0.9033440710079406
+Logistic Regression,230,Graduate,Enrolled,0.26755112697356465,0.47600312419292523,0.25644574883351023
+Logistic Regression,1010,Graduate,Enrolled,0.05115202801255317,0.6221141121923942,0.32673385979505276
+Logistic Regression,699,Dropout,Enrolled,0.47688158654031393,0.5207322527328282,0.0023861607268579575
+Logistic Regression,26,Graduate,Graduate,0.040245202008659844,0.15421888326274827,0.805535914728592
+Logistic Regression,1909,Graduate,Enrolled,0.028561580651002696,0.5299382629914531,0.4415001563575443
+Logistic Regression,1717,Enrolled,Dropout,0.7365979583362928,0.2633013116468591,0.0001007300168481632
+Logistic Regression,463,Graduate,Graduate,0.043955332848934964,0.4528564198037618,0.5031882473473033
+Logistic Regression,1365,Dropout,Dropout,0.9966828498928132,0.0032485033560240087,6.864675116278443e-05
+Logistic Regression,3640,Graduate,Graduate,0.03583623755226892,0.0676561028429321,0.896507659604799
+Logistic Regression,2289,Dropout,Dropout,0.8668654713461976,0.13297154079724005,0.00016298785656224555
+Logistic Regression,387,Graduate,Dropout,0.3915601328064823,0.2639204532051021,0.3445194139884156
+Logistic Regression,862,Dropout,Enrolled,0.4577066069455396,0.5070490016582752,0.03524439139618537
+Logistic Regression,3326,Graduate,Enrolled,0.41640806398803226,0.44793405312500484,0.13565788288696293
+Logistic Regression,2048,Graduate,Graduate,0.0148426580012237,0.1481695192523315,0.8369878227464449
+Logistic Regression,1981,Graduate,Graduate,0.013119823974643263,0.15994920213298783,0.826930973892369
+Logistic Regression,3633,Graduate,Graduate,0.243511473728011,0.37412760192650585,0.3823609243454832
+Logistic Regression,3906,Graduate,Graduate,0.04302599290559396,0.19547699631998158,0.7614970107744246
+Logistic Regression,4217,Graduate,Graduate,0.027849925083374093,0.1613676298518735,0.8107824450647524
+Logistic Regression,4320,Enrolled,Enrolled,0.034686926909510515,0.9082424491519272,0.057070623938562215
+Logistic Regression,1388,Dropout,Dropout,0.9565519462910252,0.0433442941676988,0.00010375954127590881
+Logistic Regression,1139,Graduate,Graduate,0.01374132269166662,0.22669795389177813,0.7595607234165552
+Logistic Regression,3740,Dropout,Enrolled,0.040320060059963254,0.8027624346025494,0.15691750533748755
+Logistic Regression,2909,Dropout,Enrolled,0.48016803666726715,0.508179028952519,0.011652934380213779
+Logistic Regression,3919,Graduate,Graduate,0.04132343177715725,0.25653987872977096,0.7021366894930718
+Logistic Regression,3150,Enrolled,Dropout,0.48837956678014116,0.4828203570864975,0.028800076133361264
+Logistic Regression,2265,Enrolled,Enrolled,0.45831110673619885,0.5041709620757108,0.03751793118809029
+Logistic Regression,1561,Enrolled,Dropout,0.4662952217677022,0.35252212101313213,0.18118265721916565
+Logistic Regression,18,Graduate,Enrolled,0.11104643837574235,0.4800732405971342,0.40888032102712357
+Logistic Regression,1166,Dropout,Graduate,0.10929384415246353,0.21558920532159195,0.6751169505259444
+Logistic Regression,191,Enrolled,Enrolled,0.26870832014159135,0.7269140654156478,0.004377614442760763
+Logistic Regression,3909,Dropout,Dropout,0.9781483471025322,0.02174691214875081,0.00010474074871714312
+Logistic Regression,3230,Graduate,Graduate,0.062150420637805674,0.3093886203358462,0.6284609590263481
+Logistic Regression,2989,Enrolled,Enrolled,0.12272380777449966,0.5974627773556744,0.27981341486982586
+Logistic Regression,2700,Dropout,Dropout,0.7027901367796565,0.20608680575229715,0.0911230574680463
+Logistic Regression,820,Graduate,Graduate,0.06651195065989433,0.3830946104701686,0.5503934388699371
+Logistic Regression,777,Dropout,Enrolled,0.05040008636488623,0.7549989724825455,0.19460094115256837
+Logistic Regression,723,Dropout,Dropout,0.9961451990773709,0.0037993589536371663,5.544196899190296e-05
+Logistic Regression,3642,Graduate,Graduate,0.019035755059440267,0.17262025774652828,0.8083439871940316
+Logistic Regression,4246,Dropout,Dropout,0.9247951047298596,0.07159539931438985,0.0036094959557504626
+Logistic Regression,308,Graduate,Graduate,0.038787063236511266,0.013175247321116629,0.9480376894423721
+Logistic Regression,2253,Dropout,Dropout,0.999501914296283,0.0004929641650105265,5.121538706364046e-06
+Logistic Regression,2610,Graduate,Graduate,0.03310209399471625,0.16318622977858005,0.8037116762267037
+Logistic Regression,216,Graduate,Graduate,0.0448788776034967,0.18285667027139774,0.7722644521251055
+Logistic Regression,540,Graduate,Graduate,0.01824054969573873,0.1638136014858116,0.8179458488184497
+Logistic Regression,3627,Enrolled,Graduate,0.12054421191760954,0.24404550944818265,0.6354102786342077
+Logistic Regression,3895,Graduate,Graduate,0.02851449021460145,0.26829841908376906,0.7031870907016294
+Logistic Regression,2082,Graduate,Graduate,0.023439859553963525,0.14754626077778182,0.8290138796682547
+Logistic Regression,3394,Enrolled,Enrolled,0.11872526706757977,0.7773733923033683,0.1039013406290519
+Logistic Regression,3314,Dropout,Dropout,0.965680420669931,0.03428982986334382,2.9749466725147956e-05
+Logistic Regression,4050,Dropout,Dropout,0.9963404650221067,0.0025088022350108143,0.0011507327428824504
+Logistic Regression,1785,Enrolled,Enrolled,0.08440924866549394,0.8925569940348056,0.02303375729970048
+Logistic Regression,2484,Graduate,Graduate,0.09283102213282954,0.25587518157078365,0.6512937962963868
+Logistic Regression,1669,Graduate,Enrolled,0.2693017230935909,0.4338865467251899,0.29681173018121915
+Logistic Regression,3587,Graduate,Graduate,0.008158798424977956,0.20826889962993927,0.7835723019450829
+Logistic Regression,950,Graduate,Enrolled,0.16073446716909193,0.4648908645871361,0.374374668243772
+Logistic Regression,652,Graduate,Graduate,0.10730631015404968,0.20161099995009743,0.6910826898958529
+Logistic Regression,2190,Enrolled,Graduate,0.19113998429362403,0.37038415861821194,0.438475857088164
+Logistic Regression,3918,Enrolled,Enrolled,0.15951977361650657,0.650812871313458,0.18966735507003535
+Logistic Regression,1442,Graduate,Graduate,0.06563274512601147,0.05791633668659623,0.8764509181873924
+Logistic Regression,4311,Enrolled,Enrolled,0.18846874271303424,0.8096440807198112,0.0018871765671544455
+Logistic Regression,168,Graduate,Graduate,0.09196724357921693,0.17995451815260458,0.7280782382681784
+Logistic Regression,1438,Graduate,Graduate,0.033318871605301247,0.08072934317351453,0.8859517852211842
+Logistic Regression,2616,Dropout,Dropout,0.7652534053698871,0.23232043743417571,0.0024261571959370725
+Logistic Regression,3104,Graduate,Graduate,0.01704648531573957,0.07275165815280134,0.910201856531459
+Logistic Regression,1567,Graduate,Enrolled,0.16554780094443391,0.4962506490126931,0.33820155004287294
+Logistic Regression,677,Enrolled,Dropout,0.6277359500823867,0.3021577182596366,0.07010633165797682
+Logistic Regression,1418,Graduate,Graduate,0.08131459822682055,0.26696254740518316,0.6517228543679963
+Logistic Regression,839,Graduate,Enrolled,0.03648709051893975,0.4983977586259914,0.4651151508550687
+Logistic Regression,4020,Dropout,Dropout,0.7022883386948008,0.28839922207196506,0.009312439233234056
+Logistic Regression,3929,Enrolled,Enrolled,0.06896138279334277,0.7756040881267051,0.15543452907995214
+Logistic Regression,3927,Dropout,Dropout,0.8067230175572117,0.10067489346776436,0.09260208897502403
+Logistic Regression,3094,Dropout,Dropout,0.908281873868851,0.09131681587288379,0.00040131025826529304
+Logistic Regression,1113,Enrolled,Enrolled,0.28511134703716995,0.6816417749933823,0.03324687796944774
+Logistic Regression,418,Graduate,Graduate,0.047228633587118214,0.20481303919222188,0.7479583272206599
+Logistic Regression,3897,Graduate,Graduate,0.007299046562514599,0.0801486119016367,0.9125523415358487
+Logistic Regression,3678,Graduate,Graduate,0.024279424276740465,0.13895161914548682,0.8367689565777726
+Logistic Regression,1860,Dropout,Dropout,0.8381750582015065,0.16165482958914532,0.0001701122093482788
+Logistic Regression,1472,Graduate,Graduate,0.05465273167200634,0.10559062069428714,0.8397566476337066
+Logistic Regression,939,Dropout,Dropout,0.8215962028428987,0.10814618219609644,0.0702576149610049
+Logistic Regression,3458,Graduate,Graduate,0.026025826139237485,0.0861080285877456,0.887866145273017
+Logistic Regression,633,Graduate,Enrolled,0.006524814373426026,0.7862475238199378,0.20722766180663615
+Logistic Regression,1656,Graduate,Graduate,0.05790072026717795,0.22558608855051426,0.7165131911823077
+Logistic Regression,3786,Dropout,Dropout,0.470170365051045,0.28437280659577596,0.245456828353179
+Logistic Regression,3934,Dropout,Dropout,0.9378819492472508,0.06168486872256995,0.00043318203017917014
+Logistic Regression,1727,Enrolled,Dropout,0.5863331852185288,0.24724705354559678,0.16641976123587432
+Logistic Regression,1468,Graduate,Graduate,0.018711650163307444,0.08141578964039531,0.8998725601962972
+Logistic Regression,2196,Enrolled,Enrolled,0.26273026917009684,0.6607842812831963,0.07648544954670675
+Logistic Regression,2028,Graduate,Graduate,0.02642807827055888,0.26503533138479674,0.7085365903446443
+Logistic Regression,242,Graduate,Graduate,0.026242149070292094,0.12663380500350357,0.8471240459262043
+Logistic Regression,4194,Dropout,Dropout,0.9500092738102207,0.04995946973388574,3.125645589360083e-05
+Logistic Regression,2069,Dropout,Dropout,0.8110937727905707,0.18096687487434387,0.007939352335085447
+Logistic Regression,3462,Dropout,Dropout,0.9251487725884041,0.07441241189286292,0.00043881551873299667
+Logistic Regression,1406,Graduate,Graduate,0.030503029183451286,0.15244324816037041,0.8170537226561784
+Logistic Regression,3714,Dropout,Dropout,0.9934652792871383,0.006530645877146156,4.074835715653017e-06
+Logistic Regression,3285,Graduate,Graduate,0.06069637479363233,0.45527340596286026,0.4840302192435074
+Logistic Regression,2367,Graduate,Dropout,0.45119557617662426,0.10743724250679335,0.4413671813165823
+Logistic Regression,4135,Graduate,Enrolled,0.06766632860645949,0.5025553511474882,0.42977832024605234
+Logistic Regression,4003,Graduate,Graduate,0.0444133784363352,0.24953485919290866,0.7060517623707562
+Logistic Regression,3577,Dropout,Enrolled,0.3884514667896688,0.611452143715723,9.638949460814077e-05
+Logistic Regression,4392,Enrolled,Graduate,0.049678470189279886,0.45066951781160774,0.4996520119991125
+Logistic Regression,4112,Graduate,Enrolled,0.0372639153353625,0.5533784223804818,0.40935766228415565
+Logistic Regression,156,Graduate,Graduate,0.01465492060753817,0.10302192307034902,0.8823231563221129
+Logistic Regression,1813,Graduate,Graduate,0.11487939996863812,0.314536187513084,0.570584412518278
+Logistic Regression,664,Graduate,Graduate,0.025207875616562757,0.15974447323132393,0.8150476511521133
+Logistic Regression,1187,Dropout,Enrolled,0.3252946857165155,0.6702842599546632,0.004421054328821357
+Logistic Regression,2192,Dropout,Dropout,0.6598000767767748,0.33172500297262253,0.008474920250602692
+Logistic Regression,2111,Graduate,Graduate,0.00707987529640121,0.10610819937457973,0.8868119253290191
+Logistic Regression,2126,Dropout,Graduate,0.03340855687378583,0.10563181485528729,0.8609596282709269
+Logistic Regression,2554,Enrolled,Enrolled,0.23098950966101187,0.7555709698381067,0.013439520500881584
+Logistic Regression,2159,Dropout,Enrolled,0.4754195788496057,0.508741110685976,0.0158393104644183
+Logistic Regression,2879,Dropout,Enrolled,0.40400215869390405,0.4991407810364857,0.09685706026961023
+Logistic Regression,1017,Graduate,Graduate,0.001706534956956739,0.07774138557424996,0.9205520794687932
+Logistic Regression,3211,Enrolled,Enrolled,0.1397730585825937,0.741877512834889,0.11834942858251718
+Logistic Regression,3971,Graduate,Graduate,0.0621372699205721,0.2507613973608381,0.6871013327185899
+Logistic Regression,4128,Graduate,Enrolled,0.32554192657716685,0.6544951413325372,0.01996293209029597
+Logistic Regression,4126,Enrolled,Enrolled,0.04134159089329897,0.5874692216203145,0.3711891874863867
+Logistic Regression,517,Dropout,Dropout,0.565010365651693,0.4082284879214837,0.026761146426823364
+Logistic Regression,2978,Graduate,Graduate,0.1617273602703378,0.3202892476877548,0.5179833920419074
+Logistic Regression,1817,Graduate,Graduate,0.041965408183396946,0.3599676670112275,0.5980669248053756
+Logistic Regression,3439,Dropout,Enrolled,0.4317659606942766,0.567069413517023,0.0011646257887004856
+Logistic Regression,3972,Graduate,Enrolled,0.12559685904380868,0.6539860857147228,0.22041705524146837
+Logistic Regression,1815,Enrolled,Graduate,0.10017745894722747,0.20966112343005833,0.6901614176227142
+Logistic Regression,3518,Dropout,Enrolled,0.21301848749793734,0.7822008732699389,0.0047806392321235605
+Logistic Regression,2440,Dropout,Dropout,0.9921848100974859,0.007721984844974977,9.32050575390361e-05
+Logistic Regression,891,Dropout,Dropout,0.873512002394976,0.0877623127168126,0.03872568488821152
+Logistic Regression,3080,Graduate,Graduate,0.06752615141428522,0.39093865160691105,0.5415351969788037
+Logistic Regression,176,Graduate,Enrolled,0.1007373739106632,0.7872390806364966,0.11202354545284011
+Logistic Regression,3212,Graduate,Graduate,0.020964162891130612,0.3190400744093406,0.6599957626995288
+Logistic Regression,641,Enrolled,Enrolled,0.19702821099456755,0.7856427640666465,0.017329024938785895
+Logistic Regression,1012,Graduate,Graduate,0.015318501040759807,0.21301875727360034,0.7716627416856398
+Logistic Regression,3172,Dropout,Dropout,0.7539688125789129,0.18923620545564565,0.0567949819654413
+Logistic Regression,3308,Graduate,Graduate,0.007451412267360307,0.03700412811057651,0.9555444596220631
+Logistic Regression,1809,Graduate,Graduate,0.11004607051706107,0.21622280414672299,0.6737311253362159
+Logistic Regression,680,Graduate,Graduate,0.04199290273298048,0.10654118815217306,0.8514659091148464
+Logistic Regression,2968,Graduate,Graduate,0.3255306940892987,0.12395066608691506,0.5505186398237862
+Logistic Regression,1408,Dropout,Dropout,0.7855677789106508,0.20730960007002877,0.007122621019320413
+Logistic Regression,3641,Dropout,Dropout,0.9938643763793008,0.0060338809113576666,0.00010174270934161946
+Logistic Regression,2855,Dropout,Graduate,0.04010452777643802,0.2905111755576991,0.6693842966658629
+Logistic Regression,2973,Graduate,Enrolled,0.20325563106781214,0.704345246682458,0.09239912224972997
+Logistic Regression,286,Enrolled,Graduate,0.050762640206375,0.3289627869678809,0.6202745728257442
+Logistic Regression,4044,Graduate,Graduate,0.0014119480151999972,0.13548885411556477,0.8630991978692352
+Logistic Regression,1013,Dropout,Dropout,0.9098417906799391,0.0890778998564621,0.0010803094635989028
+Logistic Regression,3183,Enrolled,Enrolled,0.13984976631146862,0.7471470692826229,0.11300316440590868
+Logistic Regression,3301,Graduate,Graduate,0.005414179237724641,0.08268607865175544,0.9118997421105198
+Logistic Regression,1648,Dropout,Graduate,0.05715944389565256,0.44706634236994314,0.4957742137344041
+Logistic Regression,323,Graduate,Enrolled,0.12032124777386419,0.8410081322343248,0.03867061999181113
+Logistic Regression,2851,Graduate,Graduate,0.06055172817341773,0.39092539252831665,0.5485228792982656
+Logistic Regression,1271,Graduate,Graduate,0.09574103518017031,0.3809713779874876,0.5232875868323421
+Logistic Regression,4272,Graduate,Graduate,0.02916485740323761,0.24315890751937327,0.7276762350773891
+Logistic Regression,1471,Enrolled,Enrolled,0.19034856722304683,0.6837420893868064,0.12590934339014687
+Logistic Regression,75,Dropout,Enrolled,0.25410524874687623,0.7293412345511824,0.01655351670194162
+Logistic Regression,621,Dropout,Enrolled,0.41227391914876016,0.5732956869974511,0.014430393853788684
+Logistic Regression,3762,Graduate,Graduate,0.013817807004333844,0.14065026622881804,0.8455319267668481
+Logistic Regression,2593,Dropout,Graduate,0.031230146745115397,0.38524565113809056,0.583524202116794
+Logistic Regression,871,Dropout,Dropout,0.9696104827113559,0.029177217683389604,0.001212299605254409
+Logistic Regression,565,Graduate,Graduate,0.03826099625909591,0.28507594641502715,0.676663057325877
+Logistic Regression,776,Graduate,Graduate,0.011574510358854716,0.16995275345166616,0.8184727361894792
+Logistic Regression,4015,Dropout,Enrolled,0.21459886564554717,0.698003183813967,0.08739795054048585
+Logistic Regression,1457,Enrolled,Enrolled,0.19330294882337373,0.5440716230174573,0.26262542815916906
+Logistic Regression,4177,Enrolled,Enrolled,0.13109605834293026,0.7368618562683922,0.1320420853886775
+Logistic Regression,1756,Enrolled,Enrolled,0.03976254663196221,0.48887466364716453,0.47136278972087314
+Logistic Regression,1796,Graduate,Graduate,0.004092767637529725,0.028089924073203338,0.967817308289267
+Logistic Regression,591,Enrolled,Enrolled,0.15035447491639622,0.79971032436759,0.04993520071601375
+Logistic Regression,3487,Dropout,Dropout,0.9977589994391601,0.0021613248479115965,7.967571292820792e-05
+Logistic Regression,1783,Enrolled,Enrolled,0.08271937959096723,0.9077197476957752,0.009560872713257541
+Logistic Regression,89,Enrolled,Enrolled,0.43941983593847733,0.5604412289640026,0.00013893509752009267
+Logistic Regression,696,Graduate,Graduate,0.034935723028059355,0.013809888376437224,0.9512543885955034
+Logistic Regression,4149,Graduate,Enrolled,0.04782341262027242,0.8202916632976702,0.13188492408205751
+Logistic Regression,908,Enrolled,Enrolled,0.192243164942133,0.7230217340475091,0.08473510101035778
+Logistic Regression,869,Graduate,Enrolled,0.23206248319759978,0.4355322647882854,0.33240525201411475
+Logistic Regression,2106,Enrolled,Enrolled,0.21937599743549732,0.751712154154275,0.028911848410227817
+Logistic Regression,1502,Graduate,Graduate,0.1837258187165096,0.19729136452390764,0.6189828167595828
+Logistic Regression,2724,Graduate,Enrolled,0.13330596879491433,0.7689822284978387,0.09771180270724703
+Logistic Regression,252,Graduate,Graduate,0.014358872630091947,0.07101636704624145,0.9146247603236666
+Logistic Regression,3380,Dropout,Enrolled,0.27288794362375485,0.7188448066801087,0.008267249696136443
+Logistic Regression,3942,Graduate,Enrolled,0.1008351246510991,0.6129644926702106,0.2862003826786903
+Logistic Regression,450,Graduate,Graduate,0.04362043746478462,0.26763265798012875,0.6887469045550866
+Logistic Regression,1149,Graduate,Graduate,0.03679708959854088,0.29868140365287926,0.6645215067485799
+Logistic Regression,2710,Graduate,Graduate,0.034857141822743846,0.2204196858289045,0.7447231723483516
+Logistic Regression,1965,Graduate,Graduate,0.1221475655273146,0.1131252499911229,0.7647271844815625
+Logistic Regression,4204,Dropout,Graduate,0.3322032444432154,0.13258116397873532,0.5352155915780493
+Logistic Regression,4169,Dropout,Dropout,0.9068701803539363,0.09181081593170667,0.00131900371435696
+Logistic Regression,335,Graduate,Graduate,0.025670511657166113,0.05988758496843292,0.914441903374401
+Logistic Regression,3379,Graduate,Graduate,0.02489259847354332,0.2181635692185665,0.7569438323078902
+Logistic Regression,2468,Dropout,Dropout,0.5820533621795055,0.41580149837471336,0.0021451394457811194
+Logistic Regression,2397,Enrolled,Enrolled,0.1477624806356015,0.6630700832544449,0.18916743610995362
+Logistic Regression,2687,Dropout,Dropout,0.9970413249217963,0.002953001998592485,5.6730796112270605e-06
+Logistic Regression,2804,Graduate,Graduate,0.007579153062104588,0.060791605143458584,0.9316292417944367
+Logistic Regression,475,Graduate,Enrolled,0.038645136119574985,0.5335655316177674,0.42778933226265764
+Logistic Regression,2639,Graduate,Graduate,0.007701867008336823,0.02650764459212727,0.9657904883995359
+Logistic Regression,806,Graduate,Graduate,0.026477840330656217,0.11708513929393945,0.8564370203754044
+Logistic Regression,4085,Dropout,Dropout,0.9478743967423484,0.04496881562665757,0.007156787630994103
+Logistic Regression,3134,Enrolled,Enrolled,0.08644992714600859,0.7910665656992844,0.12248350715470721
+Logistic Regression,54,Dropout,Enrolled,0.062052720337121794,0.7069629195281806,0.2309843601346975
+Logistic Regression,2259,Graduate,Graduate,0.018072916521148993,0.06550563682239723,0.9164214466564538
+Logistic Regression,2657,Enrolled,Graduate,0.08099283738132056,0.2887042256410225,0.6303029369776569
+Logistic Regression,133,Dropout,Dropout,0.9280250904132058,0.07040716319731345,0.0015677463894807923
+Logistic Regression,2203,Dropout,Dropout,0.6353938482338167,0.15438136830007132,0.21022478346611193
+Logistic Regression,446,Graduate,Graduate,0.0060868430174344425,0.08831929010976027,0.9055938668728052
+Logistic Regression,1038,Graduate,Graduate,0.10720332624439467,0.16941147744484958,0.7233851963107558
+Logistic Regression,1206,Graduate,Graduate,0.3864978657574584,0.08450444279052177,0.5289976914520197
+Logistic Regression,2846,Dropout,Dropout,0.9231339541270855,0.0698335191743424,0.007032526698572154
+Logistic Regression,1100,Dropout,Graduate,0.019190178065653575,0.2642561194870947,0.7165537024472517
+Logistic Regression,1359,Dropout,Dropout,0.9884746902975945,0.011496687993757805,2.8621708647704983e-05
+Logistic Regression,1256,Graduate,Graduate,0.008591032264670072,0.08392164102272975,0.9074873267126002
+Logistic Regression,2676,Dropout,Dropout,0.809797310375023,0.18988603223368686,0.000316657391290215
+Logistic Regression,3226,Graduate,Enrolled,0.02881302362816701,0.5717334870596876,0.39945348931214525
+Logistic Regression,890,Graduate,Graduate,0.03214988185592844,0.11242768310333069,0.8554224350407408
+Logistic Regression,3303,Graduate,Graduate,0.014396306548258244,0.04721410204278866,0.9383895914089532
+Logistic Regression,3259,Graduate,Graduate,0.060668113816827574,0.3342443702895812,0.6050875158935911
+Logistic Regression,2186,Enrolled,Enrolled,0.07167417941953459,0.532522350842844,0.3958034697376213
+Logistic Regression,778,Enrolled,Enrolled,0.07422994987885323,0.7349478449456981,0.19082220517544862
+Logistic Regression,734,Dropout,Dropout,0.9860693415594561,0.013784750593447921,0.0001459078470960643
+Logistic Regression,1692,Graduate,Graduate,0.018389321458058844,0.05914072552120853,0.9224699530207326
+Logistic Regression,2054,Graduate,Graduate,0.010633413071291044,0.08033852458403762,0.9090280623446713
+Logistic Regression,3096,Graduate,Graduate,0.009781389566219439,0.06504863024802571,0.9251699801857549
+Logistic Regression,2873,Graduate,Dropout,0.6413024273038618,0.11152508929339806,0.2471724834027401
+Logistic Regression,1892,Dropout,Dropout,0.8805324411621674,0.10582863037663877,0.013638928461193911
+Logistic Regression,1439,Graduate,Graduate,0.026048189331041856,0.3088763637819674,0.6650754468869907
+Logistic Regression,502,Enrolled,Dropout,0.6591921115999968,0.32257189996729096,0.018235988432712288
+Random Forest,2791,Graduate,Graduate,0.05,0.1,0.85
+Random Forest,3588,Graduate,Graduate,0.22,0.255,0.525
+Random Forest,3304,Graduate,Graduate,0.06,0.075,0.865
+Random Forest,1550,Graduate,Graduate,0.305,0.07,0.625
+Random Forest,919,Graduate,Graduate,0.065,0.21,0.725
+Random Forest,3144,Graduate,Graduate,0.06,0.01,0.93
+Random Forest,1191,Graduate,Graduate,0.07,0.23,0.7
+Random Forest,433,Dropout,Dropout,0.66,0.26,0.08
+Random Forest,3721,Dropout,Dropout,0.935,0.035,0.03
+Random Forest,2,Dropout,Dropout,0.95,0.025,0.025
+Random Forest,477,Dropout,Dropout,0.95,0.02,0.03
+Random Forest,976,Graduate,Graduate,0.175,0.285,0.54
+Random Forest,1463,Dropout,Enrolled,0.4,0.515,0.085
+Random Forest,3402,Graduate,Graduate,0.09,0.12,0.79
+Random Forest,2766,Graduate,Graduate,0.11,0.165,0.725
+Random Forest,309,Dropout,Dropout,0.72,0.21,0.07
+Random Forest,905,Graduate,Graduate,0.01,0.085,0.905
+Random Forest,3799,Dropout,Dropout,0.87,0.12,0.01
+Random Forest,4022,Graduate,Graduate,0.135,0.25,0.615
+Random Forest,1852,Graduate,Graduate,0.19,0.305,0.505
+Random Forest,536,Dropout,Dropout,0.78,0.145,0.075
+Random Forest,217,Dropout,Dropout,0.835,0.145,0.02
+Random Forest,2990,Graduate,Graduate,0.23,0.22,0.55
+Random Forest,617,Graduate,Graduate,0.075,0.135,0.79
+Random Forest,3442,Graduate,Graduate,0.095,0.155,0.75
+Random Forest,598,Graduate,Graduate,0.1,0.225,0.675
+Random Forest,3501,Dropout,Dropout,0.545,0.215,0.24
+Random Forest,2841,Graduate,Graduate,0.225,0.115,0.66
+Random Forest,4358,Dropout,Dropout,0.595,0.355,0.05
+Random Forest,2000,Dropout,Dropout,0.555,0.345,0.1
+Random Forest,1205,Graduate,Dropout,0.47,0.385,0.145
+Random Forest,3653,Enrolled,Graduate,0.15,0.42,0.43
+Random Forest,4077,Dropout,Dropout,0.74,0.19,0.07
+Random Forest,1350,Graduate,Dropout,0.425,0.225,0.35
+Random Forest,245,Graduate,Graduate,0.06,0.135,0.805
+Random Forest,3059,Graduate,Graduate,0.015,0.145,0.84
+Random Forest,2814,Graduate,Dropout,0.435,0.36,0.205
+Random Forest,3882,Dropout,Dropout,0.695,0.235,0.07
+Random Forest,3580,Graduate,Graduate,0.155,0.335,0.51
+Random Forest,3824,Enrolled,Dropout,0.54,0.395,0.065
+Random Forest,2749,Dropout,Enrolled,0.195,0.455,0.35
+Random Forest,414,Graduate,Graduate,0.06,0.11,0.83
+Random Forest,144,Graduate,Graduate,0.045,0.05,0.905
+Random Forest,2507,Graduate,Graduate,0.11,0.345,0.545
+Random Forest,3130,Graduate,Graduate,0.16,0.275,0.565
+Random Forest,770,Graduate,Graduate,0.035,0.055,0.91
+Random Forest,4061,Graduate,Enrolled,0.17,0.53,0.3
+Random Forest,4181,Dropout,Dropout,0.945,0.055,0.0
+Random Forest,2615,Dropout,Enrolled,0.385,0.405,0.21
+Random Forest,1068,Graduate,Graduate,0.04,0.255,0.705
+Random Forest,189,Graduate,Graduate,0.185,0.185,0.63
+Random Forest,138,Enrolled,Graduate,0.04,0.34,0.62
+Random Forest,420,Graduate,Graduate,0.07,0.105,0.825
+Random Forest,2581,Dropout,Dropout,0.925,0.075,0.0
+Random Forest,2297,Graduate,Enrolled,0.21,0.43,0.36
+Random Forest,429,Graduate,Enrolled,0.245,0.43,0.325
+Random Forest,1302,Graduate,Dropout,0.445,0.375,0.18
+Random Forest,3082,Graduate,Graduate,0.085,0.16,0.755
+Random Forest,3178,Graduate,Graduate,0.035,0.135,0.83
+Random Forest,2431,Graduate,Graduate,0.105,0.195,0.7
+Random Forest,3393,Graduate,Graduate,0.095,0.19,0.715
+Random Forest,2291,Graduate,Enrolled,0.165,0.5,0.335
+Random Forest,3590,Enrolled,Dropout,0.74,0.215,0.045
+Random Forest,2828,Enrolled,Graduate,0.07,0.205,0.725
+Random Forest,4334,Graduate,Graduate,0.045,0.17,0.785
+Random Forest,4323,Dropout,Dropout,0.8,0.165,0.035
+Random Forest,3181,Dropout,Dropout,0.485,0.395,0.12
+Random Forest,4317,Graduate,Graduate,0.06,0.135,0.805
+Random Forest,3999,Dropout,Graduate,0.135,0.245,0.62
+Random Forest,1405,Dropout,Dropout,0.7,0.265,0.035
+Random Forest,3834,Graduate,Graduate,0.105,0.335,0.56
+Random Forest,1591,Dropout,Dropout,0.37,0.26,0.37
+Random Forest,791,Dropout,Dropout,0.895,0.09,0.015
+Random Forest,3099,Dropout,Dropout,0.755,0.195,0.05
+Random Forest,3917,Graduate,Graduate,0.055,0.12,0.825
+Random Forest,1800,Dropout,Enrolled,0.255,0.505,0.24
+Random Forest,1837,Enrolled,Enrolled,0.26,0.47,0.27
+Random Forest,3297,Dropout,Dropout,0.575,0.365,0.06
+Random Forest,807,Enrolled,Enrolled,0.385,0.43,0.185
+Random Forest,1853,Graduate,Graduate,0.115,0.08,0.805
+Random Forest,1053,Graduate,Enrolled,0.07,0.525,0.405
+Random Forest,1866,Dropout,Dropout,0.91,0.075,0.015
+Random Forest,2417,Graduate,Graduate,0.37,0.13,0.5
+Random Forest,1224,Graduate,Graduate,0.01,0.09,0.9
+Random Forest,988,Dropout,Dropout,0.455,0.445,0.1
+Random Forest,4033,Dropout,Dropout,0.46,0.25,0.29
+Random Forest,1152,Enrolled,Enrolled,0.365,0.465,0.17
+Random Forest,3995,Dropout,Dropout,0.67,0.305,0.025
+Random Forest,1375,Dropout,Dropout,0.71,0.095,0.195
+Random Forest,2800,Graduate,Graduate,0.065,0.085,0.85
+Random Forest,2479,Dropout,Enrolled,0.405,0.43,0.165
+Random Forest,1735,Graduate,Graduate,0.17,0.3,0.53
+Random Forest,295,Graduate,Graduate,0.045,0.08,0.875
+Random Forest,1864,Dropout,Dropout,0.78,0.135,0.085
+Random Forest,3730,Graduate,Enrolled,0.155,0.43,0.415
+Random Forest,2282,Dropout,Dropout,0.52,0.36,0.12
+Random Forest,2271,Graduate,Graduate,0.125,0.215,0.66
+Random Forest,1321,Enrolled,Graduate,0.065,0.175,0.76
+Random Forest,2548,Graduate,Graduate,0.115,0.065,0.82
+Random Forest,4093,Graduate,Graduate,0.075,0.18,0.745
+Random Forest,1171,Graduate,Graduate,0.065,0.055,0.88
+Random Forest,423,Graduate,Graduate,0.03,0.095,0.875
+Random Forest,3885,Graduate,Graduate,0.14,0.13,0.73
+Random Forest,2927,Graduate,Enrolled,0.115,0.535,0.35
+Random Forest,1968,Enrolled,Dropout,0.46,0.415,0.125
+Random Forest,3676,Graduate,Dropout,0.625,0.265,0.11
+Random Forest,2329,Dropout,Dropout,0.88,0.08,0.04
+Random Forest,2775,Graduate,Graduate,0.02,0.015,0.965
+Random Forest,701,Dropout,Enrolled,0.335,0.39,0.275
+Random Forest,3564,Dropout,Dropout,0.855,0.145,0.0
+Random Forest,3312,Enrolled,Enrolled,0.345,0.39,0.265
+Random Forest,2020,Dropout,Dropout,0.87,0.11,0.02
+Random Forest,3557,Dropout,Dropout,0.97,0.015,0.015
+Random Forest,3237,Enrolled,Enrolled,0.32,0.425,0.255
+Random Forest,2206,Dropout,Dropout,0.795,0.145,0.06
+Random Forest,3029,Graduate,Enrolled,0.3,0.48,0.22
+Random Forest,3480,Graduate,Graduate,0.015,0.13,0.855
+Random Forest,367,Enrolled,Enrolled,0.15,0.46,0.39
+Random Forest,3280,Graduate,Graduate,0.185,0.175,0.64
+Random Forest,1398,Graduate,Graduate,0.195,0.345,0.46
+Random Forest,1199,Graduate,Graduate,0.115,0.1,0.785
+Random Forest,3415,Enrolled,Graduate,0.12,0.15,0.73
+Random Forest,3935,Enrolled,Enrolled,0.365,0.38,0.255
+Random Forest,3860,Dropout,Dropout,0.52,0.39,0.09
+Random Forest,21,Enrolled,Graduate,0.125,0.355,0.52
+Random Forest,1954,Enrolled,Enrolled,0.135,0.54,0.325
+Random Forest,707,Graduate,Graduate,0.07,0.07,0.86
+Random Forest,108,Dropout,Graduate,0.095,0.41,0.495
+Random Forest,3937,Enrolled,Enrolled,0.41,0.49,0.1
+Random Forest,3528,Dropout,Enrolled,0.285,0.565,0.15
+Random Forest,1836,Graduate,Enrolled,0.245,0.39,0.365
+Random Forest,843,Graduate,Graduate,0.02,0.035,0.945
+Random Forest,3647,Dropout,Dropout,0.96,0.025,0.015
+Random Forest,1706,Dropout,Graduate,0.385,0.215,0.4
+Random Forest,2340,Dropout,Dropout,0.975,0.0,0.025
+Random Forest,551,Dropout,Dropout,0.675,0.225,0.1
+Random Forest,2837,Enrolled,Enrolled,0.305,0.43,0.265
+Random Forest,4006,Graduate,Graduate,0.04,0.07,0.89
+Random Forest,3605,Graduate,Enrolled,0.24,0.475,0.285
+Random Forest,3978,Graduate,Graduate,0.05,0.09,0.86
+Random Forest,3249,Graduate,Graduate,0.025,0.085,0.89
+Random Forest,2952,Enrolled,Graduate,0.35,0.285,0.365
+Random Forest,2294,Dropout,Dropout,0.8,0.165,0.035
+Random Forest,499,Graduate,Graduate,0.02,0.14,0.84
+Random Forest,1566,Graduate,Graduate,0.07,0.035,0.895
+Random Forest,1538,Dropout,Dropout,0.76,0.215,0.025
+Random Forest,383,Graduate,Graduate,0.04,0.105,0.855
+Random Forest,3194,Enrolled,Enrolled,0.31,0.43,0.26
+Random Forest,667,Graduate,Graduate,0.115,0.115,0.77
+Random Forest,1344,Dropout,Dropout,0.405,0.245,0.35
+Random Forest,1150,Graduate,Graduate,0.085,0.215,0.7
+Random Forest,3930,Graduate,Graduate,0.13,0.045,0.825
+Random Forest,750,Graduate,Enrolled,0.195,0.45,0.355
+Random Forest,201,Graduate,Graduate,0.05,0.1,0.85
+Random Forest,1811,Graduate,Graduate,0.045,0.06,0.895
+Random Forest,3719,Dropout,Dropout,0.595,0.235,0.17
+Random Forest,902,Graduate,Graduate,0.105,0.285,0.61
+Random Forest,3476,Graduate,Graduate,0.09,0.15,0.76
+Random Forest,1397,Graduate,Graduate,0.085,0.175,0.74
+Random Forest,2523,Dropout,Dropout,0.975,0.025,0.0
+Random Forest,492,Graduate,Graduate,0.075,0.285,0.64
+Random Forest,1663,Graduate,Graduate,0.05,0.02,0.93
+Random Forest,4170,Enrolled,Enrolled,0.37,0.47,0.16
+Random Forest,1378,Dropout,Dropout,0.8,0.16,0.04
+Random Forest,2398,Graduate,Graduate,0.065,0.08,0.855
+Random Forest,977,Graduate,Graduate,0.205,0.34,0.455
+Random Forest,3847,Dropout,Dropout,0.845,0.145,0.01
+Random Forest,4150,Graduate,Graduate,0.225,0.03,0.745
+Random Forest,4396,Graduate,Graduate,0.075,0.075,0.85
+Random Forest,2504,Dropout,Dropout,0.965,0.015,0.02
+Random Forest,4018,Graduate,Graduate,0.1,0.03,0.87
+Random Forest,3209,Graduate,Enrolled,0.26,0.415,0.325
+Random Forest,4230,Graduate,Graduate,0.05,0.135,0.815
+Random Forest,3954,Dropout,Dropout,0.53,0.43,0.04
+Random Forest,760,Graduate,Graduate,0.225,0.145,0.63
+Random Forest,4278,Graduate,Graduate,0.205,0.11,0.685
+Random Forest,3271,Graduate,Graduate,0.07,0.195,0.735
+Random Forest,2407,Dropout,Dropout,0.875,0.095,0.03
+Random Forest,2403,Graduate,Graduate,0.065,0.105,0.83
+Random Forest,364,Enrolled,Graduate,0.125,0.35,0.525
+Random Forest,3697,Enrolled,Enrolled,0.33,0.55,0.12
+Random Forest,2716,Enrolled,Dropout,0.745,0.18,0.075
+Random Forest,3220,Dropout,Dropout,0.74,0.23,0.03
+Random Forest,3896,Enrolled,Dropout,0.695,0.275,0.03
+Random Forest,1410,Dropout,Dropout,0.865,0.105,0.03
+Random Forest,361,Dropout,Dropout,0.485,0.41,0.105
+Random Forest,3592,Dropout,Graduate,0.28,0.225,0.495
+Random Forest,743,Dropout,Enrolled,0.385,0.515,0.1
+Random Forest,1431,Dropout,Dropout,0.67,0.295,0.035
+Random Forest,2726,Graduate,Graduate,0.08,0.255,0.665
+Random Forest,1899,Graduate,Graduate,0.11,0.25,0.64
+Random Forest,1599,Dropout,Dropout,0.49,0.285,0.225
+Random Forest,4373,Enrolled,Graduate,0.145,0.31,0.545
+Random Forest,1095,Dropout,Dropout,0.755,0.17,0.075
+Random Forest,809,Enrolled,Graduate,0.105,0.24,0.655
+Random Forest,4026,Graduate,Graduate,0.2,0.36,0.44
+Random Forest,2248,Dropout,Dropout,0.74,0.245,0.015
+Random Forest,1919,Enrolled,Enrolled,0.22,0.445,0.335
+Random Forest,3471,Graduate,Graduate,0.305,0.195,0.5
+Random Forest,2806,Graduate,Graduate,0.165,0.195,0.64
+Random Forest,629,Graduate,Enrolled,0.125,0.48,0.395
+Random Forest,4213,Graduate,Dropout,0.38,0.335,0.285
+Random Forest,1829,Enrolled,Graduate,0.115,0.355,0.53
+Random Forest,2691,Graduate,Enrolled,0.215,0.47,0.315
+Random Forest,1425,Graduate,Dropout,0.455,0.1,0.445
+Random Forest,1606,Graduate,Graduate,0.22,0.355,0.425
+Random Forest,547,Enrolled,Enrolled,0.29,0.395,0.315
+Random Forest,1401,Graduate,Graduate,0.1,0.215,0.685
+Random Forest,2024,Enrolled,Enrolled,0.325,0.55,0.125
+Random Forest,3649,Dropout,Dropout,0.62,0.27,0.11
+Random Forest,2643,Dropout,Enrolled,0.38,0.48,0.14
+Random Forest,3926,Graduate,Graduate,0.03,0.04,0.93
+Random Forest,673,Graduate,Graduate,0.105,0.255,0.64
+Random Forest,3128,Graduate,Graduate,0.205,0.22,0.575
+Random Forest,969,Enrolled,Enrolled,0.41,0.51,0.08
+Random Forest,4082,Enrolled,Enrolled,0.305,0.38,0.315
+Random Forest,2752,Dropout,Dropout,0.915,0.065,0.02
+Random Forest,2781,Dropout,Dropout,0.845,0.135,0.02
+Random Forest,1993,Graduate,Graduate,0.04,0.275,0.685
+Random Forest,3100,Graduate,Graduate,0.02,0.155,0.825
+Random Forest,3408,Dropout,Dropout,0.71,0.235,0.055
+Random Forest,1213,Graduate,Graduate,0.275,0.315,0.41
+Random Forest,2770,Graduate,Graduate,0.035,0.075,0.89
+Random Forest,1087,Graduate,Graduate,0.185,0.18,0.635
+Random Forest,2247,Enrolled,Enrolled,0.34,0.59,0.07
+Random Forest,4081,Enrolled,Enrolled,0.285,0.565,0.15
+Random Forest,1560,Enrolled,Enrolled,0.23,0.44,0.33
+Random Forest,1748,Dropout,Dropout,0.965,0.025,0.01
+Random Forest,600,Dropout,Dropout,0.975,0.01,0.015
+Random Forest,662,Graduate,Graduate,0.135,0.09,0.775
+Random Forest,1623,Dropout,Dropout,0.505,0.3,0.195
+Random Forest,300,Graduate,Graduate,0.085,0.265,0.65
+Random Forest,1856,Graduate,Graduate,0.27,0.24,0.49
+Random Forest,1936,Graduate,Graduate,0.245,0.315,0.44
+Random Forest,4276,Dropout,Dropout,0.84,0.125,0.035
+Random Forest,1572,Dropout,Dropout,0.94,0.04,0.02
+Random Forest,1683,Dropout,Enrolled,0.265,0.42,0.315
+Random Forest,1360,Dropout,Dropout,0.585,0.33,0.085
+Random Forest,331,Dropout,Dropout,0.775,0.185,0.04
+Random Forest,1862,Dropout,Dropout,0.915,0.075,0.01
+Random Forest,632,Graduate,Graduate,0.075,0.025,0.9
+Random Forest,1212,Graduate,Graduate,0.1,0.19,0.71
+Random Forest,3276,Dropout,Dropout,0.41,0.295,0.295
+Random Forest,482,Dropout,Dropout,0.87,0.09,0.04
+Random Forest,205,Graduate,Dropout,0.58,0.17,0.25
+Random Forest,2496,Graduate,Graduate,0.165,0.255,0.58
+Random Forest,1006,Graduate,Graduate,0.025,0.08,0.895
+Random Forest,2382,Dropout,Graduate,0.23,0.275,0.495
+Random Forest,3222,Graduate,Graduate,0.075,0.055,0.87
+Random Forest,3831,Enrolled,Graduate,0.165,0.39,0.445
+Random Forest,1428,Enrolled,Enrolled,0.2,0.54,0.26
+Random Forest,973,Graduate,Dropout,0.445,0.285,0.27
+Random Forest,838,Dropout,Dropout,0.865,0.09,0.045
+Random Forest,1728,Dropout,Dropout,0.91,0.06,0.03
+Random Forest,3290,Dropout,Dropout,0.64,0.28,0.08
+Random Forest,3684,Dropout,Enrolled,0.425,0.435,0.14
+Random Forest,1097,Graduate,Enrolled,0.185,0.605,0.21
+Random Forest,421,Graduate,Graduate,0.175,0.26,0.565
+Random Forest,3764,Graduate,Graduate,0.09,0.315,0.595
+Random Forest,747,Graduate,Graduate,0.295,0.165,0.54
+Random Forest,3753,Graduate,Graduate,0.05,0.075,0.875
+Random Forest,2861,Graduate,Graduate,0.075,0.3,0.625
+Random Forest,1530,Enrolled,Dropout,0.61,0.25,0.14
+Random Forest,3858,Dropout,Dropout,0.815,0.115,0.07
+Random Forest,2472,Dropout,Enrolled,0.29,0.555,0.155
+Random Forest,3158,Enrolled,Enrolled,0.255,0.565,0.18
+Random Forest,799,Enrolled,Graduate,0.22,0.35,0.43
+Random Forest,273,Graduate,Graduate,0.075,0.1,0.825
+Random Forest,2320,Dropout,Dropout,0.735,0.175,0.09
+Random Forest,2209,Dropout,Dropout,0.89,0.07,0.04
+Random Forest,76,Dropout,Dropout,0.42,0.38,0.2
+Random Forest,2924,Graduate,Graduate,0.07,0.15,0.78
+Random Forest,955,Dropout,Dropout,0.525,0.305,0.17
+Random Forest,1338,Dropout,Enrolled,0.27,0.5,0.23
+Random Forest,1276,Graduate,Graduate,0.165,0.335,0.5
+Random Forest,2812,Graduate,Graduate,0.15,0.045,0.805
+Random Forest,782,Graduate,Graduate,0.05,0.025,0.925
+Random Forest,1412,Graduate,Enrolled,0.27,0.42,0.31
+Random Forest,1774,Enrolled,Dropout,0.455,0.365,0.18
+Random Forest,3921,Graduate,Graduate,0.035,0.065,0.9
+Random Forest,2619,Graduate,Graduate,0.065,0.055,0.88
+Random Forest,3423,Dropout,Graduate,0.155,0.22,0.625
+Random Forest,852,Graduate,Graduate,0.025,0.05,0.925
+Random Forest,511,Dropout,Dropout,0.94,0.05,0.01
+Random Forest,3482,Dropout,Dropout,0.765,0.225,0.01
+Random Forest,1119,Graduate,Graduate,0.045,0.13,0.825
+Random Forest,226,Graduate,Graduate,0.21,0.29,0.5
+Random Forest,215,Enrolled,Graduate,0.15,0.3,0.55
+Random Forest,233,Graduate,Enrolled,0.085,0.5,0.415
+Random Forest,167,Graduate,Enrolled,0.155,0.445,0.4
+Random Forest,2467,Enrolled,Graduate,0.07,0.35,0.58
+Random Forest,1314,Enrolled,Graduate,0.12,0.36,0.52
+Random Forest,3866,Dropout,Dropout,0.82,0.125,0.055
+Random Forest,730,Dropout,Dropout,0.6,0.245,0.155
+Random Forest,4180,Enrolled,Dropout,0.545,0.365,0.09
+Random Forest,3105,Dropout,Graduate,0.15,0.28,0.57
+Random Forest,2401,Graduate,Graduate,0.11,0.27,0.62
+Random Forest,1761,Dropout,Enrolled,0.26,0.415,0.325
+Random Forest,1346,Graduate,Graduate,0.115,0.04,0.845
+Random Forest,2834,Graduate,Graduate,0.125,0.325,0.55
+Random Forest,3287,Dropout,Dropout,0.72,0.185,0.095
+Random Forest,4291,Graduate,Dropout,0.505,0.275,0.22
+Random Forest,837,Enrolled,Enrolled,0.31,0.585,0.105
+Random Forest,2777,Enrolled,Graduate,0.095,0.41,0.495
+Random Forest,1031,Enrolled,Enrolled,0.27,0.46,0.27
+Random Forest,3238,Graduate,Graduate,0.1,0.09,0.81
+Random Forest,1315,Graduate,Graduate,0.06,0.125,0.815
+Random Forest,1859,Enrolled,Dropout,0.585,0.315,0.1
+Random Forest,289,Graduate,Graduate,0.09,0.155,0.755
+Random Forest,3620,Dropout,Enrolled,0.17,0.515,0.315
+Random Forest,356,Graduate,Graduate,0.14,0.18,0.68
+Random Forest,84,Graduate,Graduate,0.19,0.36,0.45
+Random Forest,1518,Enrolled,Graduate,0.41,0.105,0.485
+Random Forest,3089,Dropout,Dropout,0.87,0.08,0.05
+Random Forest,3338,Dropout,Enrolled,0.395,0.425,0.18
+Random Forest,637,Enrolled,Enrolled,0.33,0.545,0.125
+Random Forest,1158,Graduate,Graduate,0.11,0.36,0.53
+Random Forest,4402,Enrolled,Graduate,0.19,0.215,0.595
+Random Forest,260,Graduate,Enrolled,0.14,0.485,0.375
+Random Forest,4352,Dropout,Graduate,0.19,0.105,0.705
+Random Forest,1208,Dropout,Dropout,0.945,0.025,0.03
+Random Forest,2801,Dropout,Dropout,0.805,0.155,0.04
+Random Forest,3123,Graduate,Graduate,0.015,0.02,0.965
+Random Forest,4129,Graduate,Graduate,0.035,0.11,0.855
+Random Forest,56,Dropout,Dropout,0.915,0.055,0.03
+Random Forest,3891,Enrolled,Graduate,0.055,0.09,0.855
+Random Forest,1336,Enrolled,Graduate,0.08,0.25,0.67
+Random Forest,966,Dropout,Dropout,0.88,0.11,0.01
+Random Forest,2996,Graduate,Graduate,0.185,0.25,0.565
+Random Forest,1582,Dropout,Dropout,0.675,0.28,0.045
+Random Forest,354,Dropout,Dropout,0.805,0.15,0.045
+Random Forest,85,Graduate,Graduate,0.075,0.09,0.835
+Random Forest,2965,Graduate,Graduate,0.18,0.19,0.63
+Random Forest,1614,Graduate,Graduate,0.06,0.175,0.765
+Random Forest,2587,Enrolled,Dropout,0.56,0.375,0.065
+Random Forest,2220,Graduate,Graduate,0.115,0.23,0.655
+Random Forest,77,Graduate,Graduate,0.115,0.11,0.775
+Random Forest,1732,Dropout,Dropout,0.48,0.415,0.105
+Random Forest,2550,Graduate,Graduate,0.145,0.235,0.62
+Random Forest,3675,Graduate,Graduate,0.04,0.175,0.785
+Random Forest,3045,Graduate,Enrolled,0.24,0.485,0.275
+Random Forest,2396,Dropout,Dropout,0.925,0.075,0.0
+Random Forest,4407,Graduate,Graduate,0.105,0.16,0.735
+Random Forest,2596,Dropout,Enrolled,0.265,0.385,0.35
+Random Forest,2725,Enrolled,Enrolled,0.38,0.575,0.045
+Random Forest,1843,Enrolled,Graduate,0.32,0.185,0.495
+Random Forest,2499,Dropout,Dropout,0.805,0.12,0.075
+Random Forest,1347,Enrolled,Enrolled,0.03,0.66,0.31
+Random Forest,4189,Graduate,Graduate,0.24,0.3,0.46
+Random Forest,330,Enrolled,Enrolled,0.11,0.57,0.32
+Random Forest,3523,Enrolled,Enrolled,0.445,0.455,0.1
+Random Forest,742,Dropout,Graduate,0.105,0.43,0.465
+Random Forest,2107,Graduate,Graduate,0.115,0.14,0.745
+Random Forest,2664,Graduate,Graduate,0.08,0.19,0.73
+Random Forest,1901,Graduate,Graduate,0.27,0.3,0.43
+Random Forest,3017,Graduate,Graduate,0.01,0.1,0.89
+Random Forest,1846,Dropout,Enrolled,0.2,0.435,0.365
+Random Forest,2198,Dropout,Enrolled,0.415,0.485,0.1
+Random Forest,3699,Dropout,Dropout,0.755,0.22,0.025
+Random Forest,3174,Enrolled,Graduate,0.09,0.15,0.76
+Random Forest,3572,Dropout,Dropout,0.525,0.3,0.175
+Random Forest,2433,Enrolled,Enrolled,0.32,0.555,0.125
+Random Forest,1454,Enrolled,Enrolled,0.14,0.625,0.235
+Random Forest,4325,Graduate,Graduate,0.295,0.275,0.43
+Random Forest,4205,Graduate,Graduate,0.01,0.02,0.97
+Random Forest,3349,Dropout,Dropout,0.65,0.305,0.045
+Random Forest,484,Graduate,Graduate,0.05,0.31,0.64
+Random Forest,1577,Enrolled,Enrolled,0.295,0.54,0.165
+Random Forest,2035,Enrolled,Dropout,0.42,0.32,0.26
+Random Forest,4235,Enrolled,Enrolled,0.34,0.435,0.225
+Random Forest,2446,Dropout,Graduate,0.25,0.195,0.555
+Random Forest,431,Graduate,Graduate,0.14,0.335,0.525
+Random Forest,2428,Dropout,Enrolled,0.33,0.34,0.33
+Random Forest,703,Dropout,Dropout,0.54,0.45,0.01
+Random Forest,4415,Dropout,Dropout,0.76,0.19,0.05
+Random Forest,274,Graduate,Graduate,0.04,0.045,0.915
+Random Forest,3240,Enrolled,Enrolled,0.19,0.63,0.18
+Random Forest,3034,Graduate,Enrolled,0.09,0.58,0.33
+Random Forest,4247,Graduate,Graduate,0.23,0.2,0.57
+Random Forest,651,Enrolled,Enrolled,0.325,0.405,0.27
+Random Forest,1383,Graduate,Graduate,0.04,0.065,0.895
+Random Forest,3321,Dropout,Dropout,0.84,0.08,0.08
+Random Forest,3076,Dropout,Enrolled,0.39,0.455,0.155
+Random Forest,1947,Graduate,Enrolled,0.14,0.58,0.28
+Random Forest,2413,Graduate,Dropout,0.625,0.11,0.265
+Random Forest,3561,Graduate,Graduate,0.075,0.13,0.795
+Random Forest,4178,Graduate,Graduate,0.05,0.105,0.845
+Random Forest,3190,Dropout,Dropout,0.96,0.04,0.0
+Random Forest,2760,Dropout,Graduate,0.145,0.355,0.5
+Random Forest,921,Graduate,Graduate,0.07,0.32,0.61
+Random Forest,2811,Dropout,Dropout,0.505,0.37,0.125
+Random Forest,1041,Graduate,Graduate,0.165,0.25,0.585
+Random Forest,2211,Graduate,Graduate,0.04,0.095,0.865
+Random Forest,3570,Graduate,Enrolled,0.19,0.605,0.205
+Random Forest,796,Graduate,Graduate,0.09,0.12,0.79
+Random Forest,1820,Enrolled,Dropout,0.475,0.385,0.14
+Random Forest,1250,Graduate,Graduate,0.09,0.085,0.825
+Random Forest,2870,Graduate,Graduate,0.28,0.225,0.495
+Random Forest,4322,Dropout,Dropout,0.665,0.14,0.195
+Random Forest,2439,Dropout,Dropout,0.89,0.05,0.06
+Random Forest,3843,Dropout,Dropout,0.485,0.485,0.03
+Random Forest,3263,Graduate,Graduate,0.1,0.085,0.815
+Random Forest,731,Graduate,Enrolled,0.15,0.595,0.255
+Random Forest,1009,Graduate,Graduate,0.05,0.055,0.895
+Random Forest,1545,Graduate,Graduate,0.09,0.405,0.505
+Random Forest,199,Enrolled,Dropout,0.49,0.3,0.21
+Random Forest,52,Enrolled,Enrolled,0.235,0.565,0.2
+Random Forest,713,Graduate,Graduate,0.065,0.155,0.78
+Random Forest,459,Graduate,Graduate,0.025,0.105,0.87
+Random Forest,1422,Graduate,Graduate,0.05,0.085,0.865
+Random Forest,2213,Dropout,Enrolled,0.175,0.495,0.33
+Random Forest,1787,Graduate,Graduate,0.36,0.26,0.38
+Random Forest,4175,Graduate,Graduate,0.065,0.405,0.53
+Random Forest,2046,Dropout,Dropout,0.935,0.03,0.035
+Random Forest,2368,Enrolled,Graduate,0.205,0.345,0.45
+Random Forest,1680,Enrolled,Enrolled,0.26,0.67,0.07
+Random Forest,3002,Dropout,Graduate,0.115,0.12,0.765
+Random Forest,186,Enrolled,Dropout,0.63,0.29,0.08
+Random Forest,351,Graduate,Graduate,0.075,0.11,0.815
+Random Forest,3275,Graduate,Graduate,0.24,0.28,0.48
+Random Forest,2133,Graduate,Graduate,0.055,0.19,0.755
+Random Forest,4209,Graduate,Graduate,0.1,0.185,0.715
+Random Forest,618,Graduate,Graduate,0.11,0.17,0.72
+Random Forest,4195,Graduate,Enrolled,0.155,0.445,0.4
+Random Forest,737,Dropout,Dropout,0.525,0.43,0.045
+Random Forest,3299,Dropout,Dropout,0.935,0.02,0.045
+Random Forest,4259,Dropout,Enrolled,0.305,0.51,0.185
+Random Forest,2236,Enrolled,Dropout,0.445,0.435,0.12
+Random Forest,728,Graduate,Dropout,0.44,0.4,0.16
+Random Forest,1001,Dropout,Dropout,0.94,0.04,0.02
+Random Forest,1002,Graduate,Enrolled,0.305,0.355,0.34
+Random Forest,3970,Graduate,Graduate,0.12,0.27,0.61
+Random Forest,2347,Graduate,Enrolled,0.255,0.38,0.365
+Random Forest,2322,Dropout,Dropout,0.585,0.31,0.105
+Random Forest,4184,Graduate,Graduate,0.225,0.32,0.455
+Random Forest,658,Graduate,Enrolled,0.115,0.52,0.365
+Random Forest,4012,Dropout,Dropout,0.9,0.09,0.01
+Random Forest,3003,Dropout,Graduate,0.05,0.13,0.82
+Random Forest,1181,Graduate,Enrolled,0.19,0.48,0.33
+Random Forest,1675,Dropout,Dropout,0.67,0.285,0.045
+Random Forest,3350,Enrolled,Graduate,0.14,0.175,0.685
+Random Forest,1508,Graduate,Graduate,0.11,0.08,0.81
+Random Forest,3363,Dropout,Dropout,0.925,0.05,0.025
+Random Forest,865,Graduate,Graduate,0.055,0.115,0.83
+Random Forest,230,Graduate,Graduate,0.165,0.34,0.495
+Random Forest,1010,Graduate,Graduate,0.11,0.135,0.755
+Random Forest,699,Dropout,Enrolled,0.38,0.46,0.16
+Random Forest,26,Graduate,Graduate,0.075,0.19,0.735
+Random Forest,1909,Graduate,Graduate,0.05,0.065,0.885
+Random Forest,1717,Enrolled,Dropout,0.7,0.245,0.055
+Random Forest,463,Graduate,Graduate,0.265,0.33,0.405
+Random Forest,1365,Dropout,Dropout,0.945,0.045,0.01
+Random Forest,3640,Graduate,Graduate,0.13,0.08,0.79
+Random Forest,2289,Dropout,Dropout,0.89,0.095,0.015
+Random Forest,387,Graduate,Dropout,0.505,0.22,0.275
+Random Forest,862,Dropout,Dropout,0.415,0.215,0.37
+Random Forest,3326,Graduate,Graduate,0.255,0.36,0.385
+Random Forest,2048,Graduate,Graduate,0.165,0.05,0.785
+Random Forest,1981,Graduate,Graduate,0.06,0.205,0.735
+Random Forest,3633,Graduate,Graduate,0.19,0.3,0.51
+Random Forest,3906,Graduate,Graduate,0.02,0.08,0.9
+Random Forest,4217,Graduate,Graduate,0.06,0.075,0.865
+Random Forest,4320,Enrolled,Enrolled,0.185,0.51,0.305
+Random Forest,1388,Dropout,Dropout,0.83,0.135,0.035
+Random Forest,1139,Graduate,Graduate,0.055,0.18,0.765
+Random Forest,3740,Dropout,Enrolled,0.105,0.555,0.34
+Random Forest,2909,Dropout,Dropout,0.57,0.355,0.075
+Random Forest,3919,Graduate,Graduate,0.05,0.125,0.825
+Random Forest,3150,Enrolled,Enrolled,0.38,0.47,0.15
+Random Forest,2265,Enrolled,Enrolled,0.31,0.515,0.175
+Random Forest,1561,Enrolled,Enrolled,0.33,0.37,0.3
+Random Forest,18,Graduate,Enrolled,0.17,0.46,0.37
+Random Forest,1166,Dropout,Graduate,0.195,0.385,0.42
+Random Forest,191,Enrolled,Dropout,0.725,0.24,0.035
+Random Forest,3909,Dropout,Dropout,0.945,0.04,0.015
+Random Forest,3230,Graduate,Graduate,0.065,0.19,0.745
+Random Forest,2989,Enrolled,Enrolled,0.2,0.48,0.32
+Random Forest,2700,Dropout,Dropout,0.595,0.155,0.25
+Random Forest,820,Graduate,Graduate,0.12,0.435,0.445
+Random Forest,777,Dropout,Graduate,0.08,0.3,0.62
+Random Forest,723,Dropout,Dropout,0.925,0.06,0.015
+Random Forest,3642,Graduate,Graduate,0.15,0.22,0.63
+Random Forest,4246,Dropout,Dropout,0.445,0.295,0.26
+Random Forest,308,Graduate,Graduate,0.11,0.05,0.84
+Random Forest,2253,Dropout,Dropout,0.97,0.025,0.005
+Random Forest,2610,Graduate,Graduate,0.06,0.375,0.565
+Random Forest,216,Graduate,Graduate,0.04,0.21,0.75
+Random Forest,540,Graduate,Graduate,0.13,0.195,0.675
+Random Forest,3627,Enrolled,Graduate,0.13,0.325,0.545
+Random Forest,3895,Graduate,Graduate,0.03,0.105,0.865
+Random Forest,2082,Graduate,Graduate,0.075,0.07,0.855
+Random Forest,3394,Enrolled,Enrolled,0.13,0.505,0.365
+Random Forest,3314,Dropout,Dropout,0.89,0.105,0.005
+Random Forest,4050,Dropout,Dropout,0.85,0.07,0.08
+Random Forest,1785,Enrolled,Enrolled,0.335,0.525,0.14
+Random Forest,2484,Graduate,Graduate,0.09,0.205,0.705
+Random Forest,1669,Graduate,Graduate,0.265,0.255,0.48
+Random Forest,3587,Graduate,Graduate,0.14,0.18,0.68
+Random Forest,950,Graduate,Graduate,0.16,0.26,0.58
+Random Forest,652,Graduate,Graduate,0.17,0.315,0.515
+Random Forest,2190,Enrolled,Graduate,0.31,0.305,0.385
+Random Forest,3918,Enrolled,Enrolled,0.17,0.575,0.255
+Random Forest,1442,Graduate,Graduate,0.08,0.055,0.865
+Random Forest,4311,Enrolled,Dropout,0.535,0.435,0.03
+Random Forest,168,Graduate,Graduate,0.075,0.215,0.71
+Random Forest,1438,Graduate,Graduate,0.08,0.05,0.87
+Random Forest,2616,Dropout,Dropout,0.56,0.31,0.13
+Random Forest,3104,Graduate,Graduate,0.06,0.08,0.86
+Random Forest,1567,Graduate,Enrolled,0.195,0.41,0.395
+Random Forest,677,Enrolled,Enrolled,0.245,0.48,0.275
+Random Forest,1418,Graduate,Graduate,0.12,0.23,0.65
+Random Forest,839,Graduate,Graduate,0.07,0.28,0.65
+Random Forest,4020,Dropout,Dropout,0.67,0.235,0.095
+Random Forest,3929,Enrolled,Enrolled,0.215,0.565,0.22
+Random Forest,3927,Dropout,Dropout,0.44,0.155,0.405
+Random Forest,3094,Dropout,Dropout,0.79,0.135,0.075
+Random Forest,1113,Enrolled,Enrolled,0.305,0.54,0.155
+Random Forest,418,Graduate,Graduate,0.02,0.18,0.8
+Random Forest,3897,Graduate,Graduate,0.035,0.185,0.78
+Random Forest,3678,Graduate,Graduate,0.07,0.17,0.76
+Random Forest,1860,Dropout,Dropout,0.87,0.1,0.03
+Random Forest,1472,Graduate,Graduate,0.085,0.195,0.72
+Random Forest,939,Dropout,Dropout,0.705,0.165,0.13
+Random Forest,3458,Graduate,Graduate,0.09,0.18,0.73
+Random Forest,633,Graduate,Enrolled,0.135,0.475,0.39
+Random Forest,1656,Graduate,Graduate,0.065,0.145,0.79
+Random Forest,3786,Dropout,Dropout,0.375,0.3,0.325
+Random Forest,3934,Dropout,Dropout,0.79,0.17,0.04
+Random Forest,1727,Enrolled,Dropout,0.4,0.325,0.275
+Random Forest,1468,Graduate,Graduate,0.135,0.04,0.825
+Random Forest,2196,Enrolled,Enrolled,0.265,0.58,0.155
+Random Forest,2028,Graduate,Graduate,0.02,0.085,0.895
+Random Forest,242,Graduate,Graduate,0.055,0.155,0.79
+Random Forest,4194,Dropout,Dropout,0.825,0.15,0.025
+Random Forest,2069,Dropout,Dropout,0.605,0.32,0.075
+Random Forest,3462,Dropout,Dropout,0.635,0.215,0.15
+Random Forest,1406,Graduate,Graduate,0.02,0.035,0.945
+Random Forest,3714,Dropout,Dropout,0.92,0.075,0.005
+Random Forest,3285,Graduate,Graduate,0.14,0.235,0.625
+Random Forest,2367,Graduate,Graduate,0.07,0.27,0.66
+Random Forest,4135,Graduate,Graduate,0.12,0.355,0.525
+Random Forest,4003,Graduate,Graduate,0.0,0.04,0.96
+Random Forest,3577,Dropout,Dropout,0.595,0.31,0.095
+Random Forest,4392,Enrolled,Graduate,0.115,0.44,0.445
+Random Forest,4112,Graduate,Enrolled,0.135,0.5,0.365
+Random Forest,156,Graduate,Graduate,0.06,0.2,0.74
+Random Forest,1813,Graduate,Graduate,0.155,0.395,0.45
+Random Forest,664,Graduate,Graduate,0.12,0.14,0.74
+Random Forest,1187,Dropout,Enrolled,0.465,0.51,0.025
+Random Forest,2192,Dropout,Dropout,0.54,0.28,0.18
+Random Forest,2111,Graduate,Graduate,0.08,0.07,0.85
+Random Forest,2126,Dropout,Graduate,0.04,0.13,0.83
+Random Forest,2554,Enrolled,Enrolled,0.265,0.64,0.095
+Random Forest,2159,Dropout,Enrolled,0.425,0.495,0.08
+Random Forest,2879,Dropout,Dropout,0.45,0.28,0.27
+Random Forest,1017,Graduate,Graduate,0.13,0.135,0.735
+Random Forest,3211,Enrolled,Enrolled,0.335,0.49,0.175
+Random Forest,3971,Graduate,Graduate,0.07,0.2,0.73
+Random Forest,4128,Graduate,Graduate,0.2,0.19,0.61
+Random Forest,4126,Enrolled,Enrolled,0.08,0.525,0.395
+Random Forest,517,Dropout,Enrolled,0.295,0.535,0.17
+Random Forest,2978,Graduate,Graduate,0.095,0.315,0.59
+Random Forest,1817,Graduate,Graduate,0.095,0.18,0.725
+Random Forest,3439,Dropout,Enrolled,0.35,0.56,0.09
+Random Forest,3972,Graduate,Enrolled,0.2,0.42,0.38
+Random Forest,1815,Enrolled,Graduate,0.195,0.27,0.535
+Random Forest,3518,Dropout,Dropout,0.495,0.395,0.11
+Random Forest,2440,Dropout,Dropout,0.94,0.045,0.015
+Random Forest,891,Dropout,Dropout,0.865,0.075,0.06
+Random Forest,3080,Graduate,Graduate,0.085,0.26,0.655
+Random Forest,176,Graduate,Enrolled,0.225,0.53,0.245
+Random Forest,3212,Graduate,Graduate,0.06,0.33,0.61
+Random Forest,641,Enrolled,Enrolled,0.185,0.69,0.125
+Random Forest,1012,Graduate,Graduate,0.055,0.2,0.745
+Random Forest,3172,Dropout,Dropout,0.41,0.255,0.335
+Random Forest,3308,Graduate,Graduate,0.01,0.035,0.955
+Random Forest,1809,Graduate,Graduate,0.175,0.23,0.595
+Random Forest,680,Graduate,Graduate,0.175,0.2,0.625
+Random Forest,2968,Graduate,Graduate,0.305,0.21,0.485
+Random Forest,1408,Dropout,Dropout,0.65,0.25,0.1
+Random Forest,3641,Dropout,Dropout,0.975,0.015,0.01
+Random Forest,2855,Dropout,Graduate,0.065,0.465,0.47
+Random Forest,2973,Graduate,Enrolled,0.16,0.665,0.175
+Random Forest,286,Enrolled,Graduate,0.075,0.355,0.57
+Random Forest,4044,Graduate,Graduate,0.105,0.11,0.785
+Random Forest,1013,Dropout,Dropout,0.94,0.035,0.025
+Random Forest,3183,Enrolled,Enrolled,0.31,0.66,0.03
+Random Forest,3301,Graduate,Graduate,0.025,0.055,0.92
+Random Forest,1648,Dropout,Graduate,0.05,0.16,0.79
+Random Forest,323,Graduate,Graduate,0.235,0.35,0.415
+Random Forest,2851,Graduate,Graduate,0.15,0.04,0.81
+Random Forest,1271,Graduate,Enrolled,0.075,0.5,0.425
+Random Forest,4272,Graduate,Graduate,0.03,0.08,0.89
+Random Forest,1471,Enrolled,Enrolled,0.215,0.53,0.255
+Random Forest,75,Dropout,Enrolled,0.38,0.51,0.11
+Random Forest,621,Dropout,Enrolled,0.41,0.54,0.05
+Random Forest,3762,Graduate,Graduate,0.065,0.115,0.82
+Random Forest,2593,Dropout,Graduate,0.12,0.405,0.475
+Random Forest,871,Dropout,Dropout,0.685,0.165,0.15
+Random Forest,565,Graduate,Graduate,0.075,0.15,0.775
+Random Forest,776,Graduate,Graduate,0.135,0.13,0.735
+Random Forest,4015,Dropout,Enrolled,0.355,0.51,0.135
+Random Forest,1457,Enrolled,Graduate,0.135,0.255,0.61
+Random Forest,4177,Enrolled,Enrolled,0.25,0.565,0.185
+Random Forest,1756,Enrolled,Enrolled,0.155,0.48,0.365
+Random Forest,1796,Graduate,Graduate,0.065,0.045,0.89
+Random Forest,591,Enrolled,Enrolled,0.17,0.59,0.24
+Random Forest,3487,Dropout,Dropout,0.91,0.05,0.04
+Random Forest,1783,Enrolled,Enrolled,0.28,0.675,0.045
+Random Forest,89,Enrolled,Dropout,0.67,0.32,0.01
+Random Forest,696,Graduate,Graduate,0.18,0.065,0.755
+Random Forest,4149,Graduate,Graduate,0.1,0.12,0.78
+Random Forest,908,Enrolled,Dropout,0.455,0.425,0.12
+Random Forest,869,Graduate,Graduate,0.31,0.185,0.505
+Random Forest,2106,Enrolled,Enrolled,0.315,0.39,0.295
+Random Forest,1502,Graduate,Graduate,0.135,0.16,0.705
+Random Forest,2724,Graduate,Graduate,0.11,0.4,0.49
+Random Forest,252,Graduate,Graduate,0.06,0.135,0.805
+Random Forest,3380,Dropout,Enrolled,0.4,0.505,0.095
+Random Forest,3942,Graduate,Enrolled,0.155,0.495,0.35
+Random Forest,450,Graduate,Graduate,0.035,0.105,0.86
+Random Forest,1149,Graduate,Graduate,0.03,0.145,0.825
+Random Forest,2710,Graduate,Graduate,0.085,0.195,0.72
+Random Forest,1965,Graduate,Graduate,0.245,0.235,0.52
+Random Forest,4204,Dropout,Graduate,0.295,0.31,0.395
+Random Forest,4169,Dropout,Dropout,0.755,0.185,0.06
+Random Forest,335,Graduate,Graduate,0.07,0.085,0.845
+Random Forest,3379,Graduate,Graduate,0.03,0.06,0.91
+Random Forest,2468,Dropout,Enrolled,0.38,0.42,0.2
+Random Forest,2397,Enrolled,Enrolled,0.135,0.52,0.345
+Random Forest,2687,Dropout,Dropout,0.915,0.08,0.005
+Random Forest,2804,Graduate,Graduate,0.055,0.1,0.845
+Random Forest,475,Graduate,Graduate,0.1,0.275,0.625
+Random Forest,2639,Graduate,Graduate,0.14,0.17,0.69
+Random Forest,806,Graduate,Graduate,0.08,0.09,0.83
+Random Forest,4085,Dropout,Dropout,0.515,0.27,0.215
+Random Forest,3134,Enrolled,Enrolled,0.135,0.48,0.385
+Random Forest,54,Dropout,Enrolled,0.2,0.57,0.23
+Random Forest,2259,Graduate,Graduate,0.095,0.135,0.77
+Random Forest,2657,Enrolled,Graduate,0.105,0.275,0.62
+Random Forest,133,Dropout,Dropout,0.59,0.225,0.185
+Random Forest,2203,Dropout,Dropout,0.61,0.17,0.22
+Random Forest,446,Graduate,Graduate,0.065,0.09,0.845
+Random Forest,1038,Graduate,Graduate,0.31,0.3,0.39
+Random Forest,1206,Graduate,Graduate,0.325,0.105,0.57
+Random Forest,2846,Dropout,Dropout,0.83,0.09,0.08
+Random Forest,1100,Dropout,Enrolled,0.165,0.44,0.395
+Random Forest,1359,Dropout,Dropout,0.945,0.045,0.01
+Random Forest,1256,Graduate,Graduate,0.04,0.045,0.915
+Random Forest,2676,Dropout,Dropout,0.66,0.26,0.08
+Random Forest,3226,Graduate,Graduate,0.18,0.38,0.44
+Random Forest,890,Graduate,Graduate,0.06,0.035,0.905
+Random Forest,3303,Graduate,Graduate,0.085,0.125,0.79
+Random Forest,3259,Graduate,Graduate,0.055,0.04,0.905
+Random Forest,2186,Enrolled,Graduate,0.2,0.23,0.57
+Random Forest,778,Enrolled,Graduate,0.12,0.225,0.655
+Random Forest,734,Dropout,Dropout,0.87,0.105,0.025
+Random Forest,1692,Graduate,Graduate,0.05,0.05,0.9
+Random Forest,2054,Graduate,Graduate,0.125,0.08,0.795
+Random Forest,3096,Graduate,Graduate,0.065,0.06,0.875
+Random Forest,2873,Graduate,Graduate,0.385,0.125,0.49
+Random Forest,1892,Dropout,Dropout,0.635,0.27,0.095
+Random Forest,1439,Graduate,Graduate,0.1,0.335,0.565
+Random Forest,502,Enrolled,Dropout,0.56,0.365,0.075
+MLP,2791,Graduate,Graduate,0.0126436036080122,0.08742397278547287,0.8999323844909668
+MLP,3588,Graduate,Graduate,0.3470230996608734,0.22949521243572235,0.4234817326068878
+MLP,3304,Graduate,Graduate,0.022137565538287163,0.03927569091320038,0.9385867714881897
+MLP,1550,Graduate,Graduate,0.03081808239221573,0.002058541402220726,0.9671233892440796
+MLP,919,Graduate,Graduate,0.07645706832408905,0.37938427925109863,0.5441586375236511
+MLP,3144,Graduate,Graduate,0.023194240406155586,0.020307525992393494,0.9564982056617737
+MLP,1191,Graduate,Graduate,0.16440972685813904,0.34860968589782715,0.4869806468486786
+MLP,433,Dropout,Dropout,0.8150171637535095,0.18128430843353271,0.003698627231642604
+MLP,3721,Dropout,Dropout,0.9994358420372009,0.0005584583850577474,5.76258253204287e-06
+MLP,2,Dropout,Dropout,0.9957624077796936,0.004196529742330313,4.104942854610272e-05
+MLP,477,Dropout,Dropout,0.9997747540473938,0.0001304237957810983,9.492434037383646e-05
+MLP,976,Graduate,Graduate,0.04191179201006889,0.3104386329650879,0.6476495265960693
+MLP,1463,Dropout,Enrolled,0.22560103237628937,0.7727155089378357,0.0016834912821650505
+MLP,3402,Graduate,Graduate,0.023697691038250923,0.17932504415512085,0.7969772815704346
+MLP,2766,Graduate,Graduate,0.26493388414382935,0.21452246606349945,0.5205435752868652
+MLP,309,Dropout,Dropout,0.9671310186386108,0.03265775740146637,0.0002112678048433736
+MLP,905,Graduate,Graduate,0.013837357051670551,0.08399992436170578,0.9021627902984619
+MLP,3799,Dropout,Dropout,0.9172940254211426,0.08260355144739151,0.00010249443585053086
+MLP,4022,Graduate,Graduate,0.10232150554656982,0.14362885057926178,0.7540496587753296
+MLP,1852,Graduate,Graduate,0.026698095723986626,0.3363175392150879,0.6369844079017639
+MLP,536,Dropout,Dropout,0.8372932076454163,0.16239236295223236,0.0003143706708215177
+MLP,217,Dropout,Dropout,0.8358896374702454,0.1613447070121765,0.0027656371239572763
+MLP,2990,Graduate,Graduate,0.39523398876190186,0.18717548251152039,0.41759052872657776
+MLP,617,Graduate,Graduate,0.024743860587477684,0.14813575148582458,0.8271204233169556
+MLP,3442,Graduate,Graduate,0.15569640696048737,0.3199881613254547,0.5243154168128967
+MLP,598,Graduate,Graduate,0.094622902572155,0.26760709285736084,0.6377699971199036
+MLP,3501,Dropout,Dropout,0.9433712363243103,0.056235525757074356,0.00039330116123892367
+MLP,2841,Graduate,Graduate,0.006517838221043348,0.02574598416686058,0.9677361845970154
+MLP,4358,Dropout,Enrolled,0.40619221329689026,0.5936428308486938,0.00016493711154907942
+MLP,2000,Dropout,Enrolled,0.39987626671791077,0.597557783126831,0.0025659187231212854
+MLP,1205,Graduate,Dropout,0.4839896857738495,0.3364189565181732,0.17959141731262207
+MLP,3653,Enrolled,Enrolled,0.13226677477359772,0.46700266003608704,0.4007306694984436
+MLP,4077,Dropout,Dropout,0.9502109885215759,0.046778082847595215,0.0030109917279332876
+MLP,1350,Graduate,Enrolled,0.3191954493522644,0.4150007367134094,0.26580384373664856
+MLP,245,Graduate,Graduate,0.011012241244316101,0.038720302283763885,0.950267493724823
+MLP,3059,Graduate,Graduate,0.02279612235724926,0.11685440689325333,0.8603494763374329
+MLP,2814,Graduate,Enrolled,0.34874242544174194,0.4375907778739929,0.2136668562889099
+MLP,3882,Dropout,Dropout,0.8459588289260864,0.15136197209358215,0.002679217839613557
+MLP,3580,Graduate,Graduate,0.14797458052635193,0.36779072880744934,0.4842347204685211
+MLP,3824,Enrolled,Enrolled,0.3183826208114624,0.6788700819015503,0.002747325459495187
+MLP,2749,Dropout,Enrolled,0.1512642502784729,0.6022505164146423,0.24648517370224
+MLP,414,Graduate,Graduate,0.012618720531463623,0.0706716924905777,0.9167096018791199
+MLP,144,Graduate,Graduate,0.010686432011425495,0.12892264127731323,0.8603909611701965
+MLP,2507,Graduate,Graduate,0.062229275703430176,0.3850221335887909,0.5527486205101013
+MLP,3130,Graduate,Graduate,0.06049418821930885,0.4018028974533081,0.5377029180526733
+MLP,770,Graduate,Graduate,0.02303239330649376,0.08814907819032669,0.8888185620307922
+MLP,4061,Graduate,Enrolled,0.1523156613111496,0.7021468281745911,0.14553752541542053
+MLP,4181,Dropout,Dropout,0.9896824955940247,0.010316343046724796,1.1907046655323938e-06
+MLP,2615,Dropout,Dropout,0.6422015428543091,0.3288738429546356,0.02892462909221649
+MLP,1068,Graduate,Graduate,0.01343726646155119,0.28339433670043945,0.7031683325767517
+MLP,189,Graduate,Graduate,0.1848064512014389,0.1306261122226715,0.684567391872406
+MLP,138,Enrolled,Graduate,0.02621731162071228,0.4798588454723358,0.4939239025115967
+MLP,420,Graduate,Graduate,0.016311125829815865,0.1814187616109848,0.8022700548171997
+MLP,2581,Dropout,Dropout,0.9893920421600342,0.010589798912405968,1.813357630453538e-05
+MLP,2297,Graduate,Graduate,0.13835738599300385,0.3102596402168274,0.5513829588890076
+MLP,429,Graduate,Enrolled,0.047983452677726746,0.8276920914649963,0.12432451546192169
+MLP,1302,Graduate,Enrolled,0.4011232852935791,0.5755627751350403,0.0233139768242836
+MLP,3082,Graduate,Graduate,0.025886328890919685,0.06394362449645996,0.9101700782775879
+MLP,3178,Graduate,Graduate,0.019479762762784958,0.4139213562011719,0.5665988922119141
+MLP,2431,Graduate,Graduate,0.0766819417476654,0.1390555053949356,0.7842625379562378
+MLP,3393,Graduate,Graduate,0.018655862659215927,0.2654658257961273,0.7158783674240112
+MLP,2291,Graduate,Enrolled,0.041937582194805145,0.7020885944366455,0.25597384572029114
+MLP,3590,Enrolled,Dropout,0.6575117111206055,0.3415865898132324,0.000901697319932282
+MLP,2828,Enrolled,Graduate,0.0353621169924736,0.23023182153701782,0.734406054019928
+MLP,4334,Graduate,Graduate,0.019653629511594772,0.13161438703536987,0.8487319946289062
+MLP,4323,Dropout,Dropout,0.869129478931427,0.1306467056274414,0.00022379436995834112
+MLP,3181,Dropout,Dropout,0.69117671251297,0.3020743131637573,0.00674893893301487
+MLP,4317,Graduate,Graduate,0.022197740152478218,0.11953920125961304,0.8582630157470703
+MLP,3999,Dropout,Graduate,0.06681979447603226,0.13532207906246185,0.7978580594062805
+MLP,1405,Dropout,Enrolled,0.45885130763053894,0.541010856628418,0.00013780113658867776
+MLP,3834,Graduate,Enrolled,0.10501085966825485,0.493428498506546,0.4015606641769409
+MLP,1591,Dropout,Dropout,0.39964988827705383,0.35247814655303955,0.2478719800710678
+MLP,791,Dropout,Dropout,0.9753872156143188,0.024605151265859604,7.636951522727031e-06
+MLP,3099,Dropout,Dropout,0.7311517000198364,0.2685129940509796,0.0003353012434672564
+MLP,3917,Graduate,Graduate,0.0688152015209198,0.357738733291626,0.5734460949897766
+MLP,1800,Dropout,Enrolled,0.0974806696176529,0.8469338417053223,0.055585481226444244
+MLP,1837,Enrolled,Enrolled,0.128573477268219,0.7767020463943481,0.09472444653511047
+MLP,3297,Dropout,Dropout,0.5320156216621399,0.46560853719711304,0.0023758900351822376
+MLP,807,Enrolled,Dropout,0.6823182106018066,0.31033578515052795,0.0073459092527627945
+MLP,1853,Graduate,Graduate,0.08724287897348404,0.23842792212963104,0.6743292212486267
+MLP,1053,Graduate,Enrolled,0.04985944181680679,0.8737045526504517,0.07643602788448334
+MLP,1866,Dropout,Dropout,0.9660027027130127,0.03391721472144127,8.008419536054134e-05
+MLP,2417,Graduate,Graduate,0.2045537233352661,0.1312170922756195,0.664229154586792
+MLP,1224,Graduate,Graduate,0.009581522084772587,0.13225282728672028,0.8581656813621521
+MLP,988,Dropout,Enrolled,0.209962859749794,0.7840592861175537,0.0059778462164103985
+MLP,4033,Dropout,Dropout,0.464833527803421,0.33714020252227783,0.19802628457546234
+MLP,1152,Enrolled,Enrolled,0.059862490743398666,0.9202988743782043,0.019838640466332436
+MLP,3995,Dropout,Dropout,0.7956370115280151,0.20355667173862457,0.0008062960696406662
+MLP,1375,Dropout,Dropout,0.6341457962989807,0.20728245377540588,0.1585717499256134
+MLP,2800,Graduate,Graduate,0.050924863666296005,0.12101507931947708,0.8280600905418396
+MLP,2479,Dropout,Enrolled,0.2509292960166931,0.6606274843215942,0.08844325691461563
+MLP,1735,Graduate,Graduate,0.0972684845328331,0.4435405433177948,0.4591909646987915
+MLP,295,Graduate,Graduate,0.014992388896644115,0.17410311102867126,0.8109044432640076
+MLP,1864,Dropout,Dropout,0.9561585187911987,0.04306356608867645,0.0007779182633385062
+MLP,3730,Graduate,Enrolled,0.08569149672985077,0.7391808032989502,0.17512769997119904
+MLP,2282,Dropout,Dropout,0.6540714502334595,0.3320777416229248,0.013850766234099865
+MLP,2271,Graduate,Graduate,0.11101535707712173,0.29414182901382446,0.594842791557312
+MLP,1321,Enrolled,Graduate,0.12005917727947235,0.3552344739437103,0.5247063636779785
+MLP,2548,Graduate,Graduate,0.03831474110484123,0.096259705722332,0.8654255270957947
+MLP,4093,Graduate,Graduate,0.03303353860974312,0.1935129314661026,0.7734535336494446
+MLP,1171,Graduate,Graduate,0.035970646888017654,0.0594232976436615,0.90460604429245
+MLP,423,Graduate,Graduate,0.023610420525074005,0.08128724247217178,0.895102322101593
+MLP,3885,Graduate,Graduate,0.03889995440840721,0.20225194096565247,0.7588480710983276
+MLP,2927,Graduate,Enrolled,0.02904689311981201,0.6767379641532898,0.29421520233154297
+MLP,1968,Enrolled,Dropout,0.5063814520835876,0.49238359928131104,0.0012349659809842706
+MLP,3676,Graduate,Dropout,0.7053101062774658,0.28690141439437866,0.007788472343236208
+MLP,2329,Dropout,Dropout,0.9969995617866516,0.002994881710037589,5.593334662989946e-06
+MLP,2775,Graduate,Graduate,0.024062681943178177,0.149057999253273,0.8268793225288391
+MLP,701,Dropout,Dropout,0.43083256483078003,0.3914511799812317,0.17771629989147186
+MLP,3564,Dropout,Dropout,0.9623830318450928,0.03760973736643791,7.2440971052856185e-06
+MLP,3312,Enrolled,Enrolled,0.07917420566082001,0.8706895709037781,0.05013630539178848
+MLP,2020,Dropout,Dropout,0.9633732438087463,0.036604851484298706,2.1916423065704294e-05
+MLP,3557,Dropout,Dropout,0.9909239411354065,0.008985130116343498,9.100160241359845e-05
+MLP,3237,Enrolled,Enrolled,0.1640348732471466,0.747437059879303,0.08852808177471161
+MLP,2206,Dropout,Dropout,0.9541122317314148,0.045440997928380966,0.00044681865256279707
+MLP,3029,Graduate,Enrolled,0.1547391414642334,0.5256142020225525,0.3196466863155365
+MLP,3480,Graduate,Graduate,0.009226137772202492,0.16653543710708618,0.8242384195327759
+MLP,367,Enrolled,Enrolled,0.05189026519656181,0.8641749024391174,0.08393481373786926
+MLP,3280,Graduate,Graduate,0.022249553352594376,0.23319824039936066,0.7445522546768188
+MLP,1398,Graduate,Graduate,0.05187859758734703,0.23777219653129578,0.7103492021560669
+MLP,1199,Graduate,Graduate,0.033306051045656204,0.08367312699556351,0.8830208778381348
+MLP,3415,Enrolled,Enrolled,0.1406112015247345,0.5706546902656555,0.2887340784072876
+MLP,3935,Enrolled,Enrolled,0.26804912090301514,0.591997504234314,0.13995328545570374
+MLP,3860,Dropout,Enrolled,0.34789353609085083,0.6359168291091919,0.01618959754705429
+MLP,21,Enrolled,Graduate,0.04418504610657692,0.28982439637184143,0.6659905910491943
+MLP,1954,Enrolled,Enrolled,0.14379489421844482,0.8258503675460815,0.030354836955666542
+MLP,707,Graduate,Graduate,0.026928575709462166,0.022669129073619843,0.9504023194313049
+MLP,108,Dropout,Enrolled,0.20059333741664886,0.40368106961250305,0.3957256078720093
+MLP,3937,Enrolled,Enrolled,0.3530820906162262,0.6259591579437256,0.020958729088306427
+MLP,3528,Dropout,Enrolled,0.21647712588310242,0.7679321765899658,0.015590719878673553
+MLP,1836,Graduate,Enrolled,0.063849076628685,0.5535326600074768,0.3826182782649994
+MLP,843,Graduate,Graduate,0.030320309102535248,0.3169875741004944,0.6526921391487122
+MLP,3647,Dropout,Dropout,0.9557042717933655,0.04320165514945984,0.001094092964194715
+MLP,1706,Dropout,Dropout,0.5637902617454529,0.26937171816825867,0.16683800518512726
+MLP,2340,Dropout,Dropout,0.999026894569397,0.0009695406770333648,3.556089268386131e-06
+MLP,551,Dropout,Dropout,0.934088945388794,0.0649535208940506,0.0009575391304679215
+MLP,2837,Enrolled,Enrolled,0.07166574895381927,0.6963984966278076,0.2319357842206955
+MLP,4006,Graduate,Graduate,0.032823558896780014,0.07814056426286697,0.8890358209609985
+MLP,3605,Graduate,Dropout,0.5268827080726624,0.44377362728118896,0.029343649744987488
+MLP,3978,Graduate,Graduate,0.052796680480241776,0.11707661300897598,0.8301267027854919
+MLP,3249,Graduate,Graduate,0.07304567843675613,0.07844598591327667,0.848508358001709
+MLP,2952,Enrolled,Enrolled,0.2430143654346466,0.6137460470199585,0.1432395577430725
+MLP,2294,Dropout,Dropout,0.8407973051071167,0.1423269808292389,0.016875701025128365
+MLP,499,Graduate,Graduate,0.012789596803486347,0.17693988978862762,0.8102704882621765
+MLP,1566,Graduate,Graduate,0.007563852239400148,0.05312303081154823,0.9393131136894226
+MLP,1538,Dropout,Dropout,0.9693323373794556,0.030627314001321793,4.033389632240869e-05
+MLP,383,Graduate,Graduate,0.02959982492029667,0.21188731491565704,0.7585129141807556
+MLP,3194,Enrolled,Enrolled,0.3444385528564453,0.5527713894844055,0.10279006510972977
+MLP,667,Graduate,Graduate,0.007917727343738079,0.006520060356706381,0.9855622053146362
+MLP,1344,Dropout,Enrolled,0.39807167649269104,0.5028904676437378,0.09903790801763535
+MLP,1150,Graduate,Graduate,0.04664955660700798,0.26725879311561584,0.6860916614532471
+MLP,3930,Graduate,Graduate,0.019262412562966347,0.029136572033166885,0.951600968837738
+MLP,750,Graduate,Enrolled,0.22125321626663208,0.4869615435600281,0.29178521037101746
+MLP,201,Graduate,Graduate,0.009718912653625011,0.02471991814672947,0.9655611515045166
+MLP,1811,Graduate,Graduate,0.028597962111234665,0.06716979295015335,0.9042322635650635
+MLP,3719,Dropout,Dropout,0.9359772205352783,0.059493537992239,0.004529224708676338
+MLP,902,Graduate,Graduate,0.049150340259075165,0.14941003918647766,0.8014395833015442
+MLP,3476,Graduate,Graduate,0.05045630410313606,0.026062816381454468,0.9234809279441833
+MLP,1397,Graduate,Graduate,0.33397310972213745,0.17639543116092682,0.48963141441345215
+MLP,2523,Dropout,Dropout,0.9636167883872986,0.03632640093564987,5.6756794947432354e-05
+MLP,492,Graduate,Graduate,0.07647915929555893,0.4574102759361267,0.4661105275154114
+MLP,1663,Graduate,Graduate,0.010077167302370071,0.061450254172086716,0.928472638130188
+MLP,4170,Enrolled,Dropout,0.7721031308174133,0.22503536939620972,0.002861487679183483
+MLP,1378,Dropout,Dropout,0.986979603767395,0.012873475439846516,0.00014695829304400831
+MLP,2398,Graduate,Graduate,0.12492915987968445,0.13279102742671967,0.7422798275947571
+MLP,977,Graduate,Graduate,0.019155051559209824,0.4390142261981964,0.5418307185173035
+MLP,3847,Dropout,Dropout,0.912547767162323,0.08739317208528519,5.9046644310001284e-05
+MLP,4150,Graduate,Graduate,0.18201781809329987,0.01917918771505356,0.7988029718399048
+MLP,4396,Graduate,Graduate,0.0275861993432045,0.13516514003276825,0.837248682975769
+MLP,2504,Dropout,Dropout,0.9741175174713135,0.025753594934940338,0.00012894526298623532
+MLP,4018,Graduate,Graduate,0.025712458416819572,0.04760783165693283,0.9266797304153442
+MLP,3209,Graduate,Enrolled,0.18407662212848663,0.6181120276451111,0.1978113353252411
+MLP,4230,Graduate,Graduate,0.010375268757343292,0.2845506966114044,0.7050740122795105
+MLP,3954,Dropout,Enrolled,0.32109248638153076,0.6776376366615295,0.001269900007173419
+MLP,760,Graduate,Graduate,0.037096161395311356,0.09045297652482986,0.8724508285522461
+MLP,4278,Graduate,Graduate,0.2639062702655792,0.2177123725414276,0.5183813571929932
+MLP,3271,Graduate,Graduate,0.01340494304895401,0.14022892713546753,0.8463661074638367
+MLP,2407,Dropout,Dropout,0.9929567575454712,0.006760023534297943,0.00028326764004305005
+MLP,2403,Graduate,Graduate,0.03363557904958725,0.2352982461452484,0.731066107749939
+MLP,364,Enrolled,Enrolled,0.12620826065540314,0.5593002438545227,0.3144914209842682
+MLP,3697,Enrolled,Enrolled,0.38104817271232605,0.60496985912323,0.013982006348669529
+MLP,2716,Enrolled,Dropout,0.9728755950927734,0.02666093409061432,0.0004634959914255887
+MLP,3220,Dropout,Dropout,0.7765802145004272,0.22306524217128754,0.00035450333962216973
+MLP,3896,Enrolled,Dropout,0.7848657965660095,0.21437546610832214,0.0007586668943986297
+MLP,1410,Dropout,Dropout,0.9498900175094604,0.04979928955435753,0.0003107531229034066
+MLP,361,Dropout,Enrolled,0.4327579736709595,0.5655181407928467,0.001723823370411992
+MLP,3592,Dropout,Dropout,0.8790902495384216,0.08415644615888596,0.03675337880849838
+MLP,743,Dropout,Enrolled,0.18197858333587646,0.7988278865814209,0.019193533807992935
+MLP,1431,Dropout,Dropout,0.8608447313308716,0.13786782324314117,0.0012875196989625692
+MLP,2726,Graduate,Graduate,0.0833776667714119,0.19880549609661102,0.7178168296813965
+MLP,1899,Graduate,Enrolled,0.11360926181077957,0.5288746356964111,0.3575161099433899
+MLP,1599,Dropout,Dropout,0.8253298401832581,0.16793912649154663,0.0067310272715985775
+MLP,4373,Enrolled,Enrolled,0.05502602458000183,0.8326396346092224,0.11233428120613098
+MLP,1095,Dropout,Dropout,0.9793924689292908,0.020541630685329437,6.599742482649162e-05
+MLP,809,Enrolled,Graduate,0.05124570429325104,0.2521227300167084,0.6966316103935242
+MLP,4026,Graduate,Enrolled,0.0543115995824337,0.5624898672103882,0.3831985294818878
+MLP,2248,Dropout,Dropout,0.9588052034378052,0.0411837175488472,1.1100350093329325e-05
+MLP,1919,Enrolled,Enrolled,0.1226915493607521,0.7706311345100403,0.10667741298675537
+MLP,3471,Graduate,Graduate,0.29124322533607483,0.08673498779535294,0.6220217943191528
+MLP,2806,Graduate,Graduate,0.04294310137629509,0.139375239610672,0.8176816701889038
+MLP,629,Graduate,Enrolled,0.15881206095218658,0.654539167881012,0.18664872646331787
+MLP,4213,Graduate,Graduate,0.15410569310188293,0.34011465311050415,0.5057796239852905
+MLP,1829,Enrolled,Graduate,0.027549415826797485,0.47023361921310425,0.5022169947624207
+MLP,2691,Graduate,Graduate,0.12894666194915771,0.32570990920066833,0.5453434586524963
+MLP,1425,Graduate,Graduate,0.19487135112285614,0.353116512298584,0.4520121216773987
+MLP,1606,Graduate,Enrolled,0.17463000118732452,0.4375416934490204,0.3878283202648163
+MLP,547,Enrolled,Enrolled,0.3117556571960449,0.6716096997261047,0.016634678468108177
+MLP,1401,Graduate,Graduate,0.06047060713171959,0.26584306359291077,0.6736863851547241
+MLP,2024,Enrolled,Enrolled,0.23356281220912933,0.73732990026474,0.02910727448761463
+MLP,3649,Dropout,Dropout,0.8418247103691101,0.1542854607105255,0.003889883868396282
+MLP,2643,Dropout,Dropout,0.5119798183441162,0.4754752814769745,0.012544912286102772
+MLP,3926,Graduate,Graduate,0.02208365499973297,0.049073442816734314,0.9288429021835327
+MLP,673,Graduate,Graduate,0.05473363772034645,0.38105010986328125,0.5642162561416626
+MLP,3128,Graduate,Enrolled,0.18626531958580017,0.4720821976661682,0.34165242314338684
+MLP,969,Enrolled,Enrolled,0.11237963289022446,0.8842414021492004,0.0033790101297199726
+MLP,4082,Enrolled,Enrolled,0.3180294632911682,0.5892831087112427,0.09268737584352493
+MLP,2752,Dropout,Dropout,0.9523264169692993,0.04560661315917969,0.002066991990432143
+MLP,2781,Dropout,Dropout,0.9523050785064697,0.04766150191426277,3.332489723106846e-05
+MLP,1993,Graduate,Graduate,0.014787535183131695,0.24142318964004517,0.7437891960144043
+MLP,3100,Graduate,Graduate,0.008924130350351334,0.20247648656368256,0.78859943151474
+MLP,3408,Dropout,Dropout,0.5821977257728577,0.40870216488838196,0.009100066497921944
+MLP,1213,Graduate,Graduate,0.46527716517448425,0.06093209236860275,0.4737906754016876
+MLP,2770,Graduate,Graduate,0.014248444698750973,0.09508998692035675,0.8906615972518921
+MLP,1087,Graduate,Dropout,0.5433585047721863,0.2109249234199524,0.24571655690670013
+MLP,2247,Enrolled,Enrolled,0.11106469482183456,0.8772172331809998,0.011718123219907284
+MLP,4081,Enrolled,Enrolled,0.0631883293390274,0.9137524962425232,0.023059086874127388
+MLP,1560,Enrolled,Enrolled,0.034502964466810226,0.8693132996559143,0.09618379175662994
+MLP,1748,Dropout,Dropout,0.9935803413391113,0.006406828295439482,1.2787147170456592e-05
+MLP,600,Dropout,Dropout,0.9980242252349854,0.0017971649067476392,0.00017854066391009837
+MLP,662,Graduate,Graduate,0.07608649879693985,0.09814327955245972,0.8257701992988586
+MLP,1623,Dropout,Enrolled,0.4571276307106018,0.5284963250160217,0.014375961385667324
+MLP,300,Graduate,Graduate,0.044603168964385986,0.24606329202651978,0.7093335390090942
+MLP,1856,Graduate,Enrolled,0.32135796546936035,0.5091611742973328,0.16948090493679047
+MLP,1936,Graduate,Enrolled,0.3244698941707611,0.425611287355423,0.2499188631772995
+MLP,4276,Dropout,Dropout,0.964667558670044,0.03515127673745155,0.00018124327471014112
+MLP,1572,Dropout,Dropout,0.9997901320457458,0.00020596534886863083,3.901385298377136e-06
+MLP,1683,Dropout,Enrolled,0.10676395148038864,0.8221321105957031,0.07110390067100525
+MLP,1360,Dropout,Enrolled,0.4038546085357666,0.5957984328269958,0.0003469259536359459
+MLP,331,Dropout,Dropout,0.7372680902481079,0.2626287341117859,0.0001031496431096457
+MLP,1862,Dropout,Dropout,0.9703923463821411,0.02958587370812893,2.1776317225885577e-05
+MLP,632,Graduate,Graduate,0.012744814157485962,0.06961538642644882,0.9176397919654846
+MLP,1212,Graduate,Graduate,0.008895531296730042,0.10091394186019897,0.8901905417442322
+MLP,3276,Dropout,Dropout,0.6365247368812561,0.34051188826560974,0.022963350638747215
+MLP,482,Dropout,Dropout,0.6811330914497375,0.31828927993774414,0.0005775763420388103
+MLP,205,Graduate,Dropout,0.5724177956581116,0.017024440690875053,0.41055771708488464
+MLP,2496,Graduate,Graduate,0.274778813123703,0.29425275325775146,0.4309684634208679
+MLP,1006,Graduate,Graduate,0.013033377006649971,0.08181045204401016,0.905156135559082
+MLP,2382,Dropout,Enrolled,0.2948112487792969,0.5658116936683655,0.13937707245349884
+MLP,3222,Graduate,Graduate,0.02573978714644909,0.08072542399168015,0.893534779548645
+MLP,3831,Enrolled,Enrolled,0.22280363738536835,0.5734984874725342,0.20369797945022583
+MLP,1428,Enrolled,Enrolled,0.05507555976510048,0.6156079173088074,0.32931649684906006
+MLP,973,Graduate,Dropout,0.731927216053009,0.24148468673229218,0.02658807672560215
+MLP,838,Dropout,Dropout,0.9795193076133728,0.020441697910428047,3.898562499671243e-05
+MLP,1728,Dropout,Dropout,0.9955701231956482,0.004399622790515423,3.022561941179447e-05
+MLP,3290,Dropout,Dropout,0.8407595157623291,0.1587969958782196,0.0004435168521013111
+MLP,3684,Dropout,Enrolled,0.291243314743042,0.6138752698898315,0.09488143026828766
+MLP,1097,Graduate,Enrolled,0.21441717445850372,0.6315028667449951,0.15407997369766235
+MLP,421,Graduate,Enrolled,0.13804756104946136,0.47308623790740967,0.38886621594429016
+MLP,3764,Graduate,Graduate,0.016452942043542862,0.35683444142341614,0.6267125606536865
+MLP,747,Graduate,Graduate,0.0021635342855006456,0.08112780004739761,0.9167085886001587
+MLP,3753,Graduate,Graduate,0.04919654503464699,0.2643336355686188,0.6864697933197021
+MLP,2861,Graduate,Graduate,0.03853601962327957,0.4260232746601105,0.5354407429695129
+MLP,1530,Enrolled,Enrolled,0.22963018715381622,0.7107434868812561,0.05962635204195976
+MLP,3858,Dropout,Dropout,0.9502078890800476,0.04866865649819374,0.0011234859703108668
+MLP,2472,Dropout,Enrolled,0.3392831087112427,0.641434371471405,0.0192825086414814
+MLP,3158,Enrolled,Enrolled,0.24039407074451447,0.7362493872642517,0.02335655502974987
+MLP,799,Enrolled,Enrolled,0.1988317221403122,0.7390505075454712,0.062117744237184525
+MLP,273,Graduate,Graduate,0.033521391451358795,0.22355514764785767,0.7429234385490417
+MLP,2320,Dropout,Dropout,0.49836811423301697,0.492696076631546,0.008935707621276379
+MLP,2209,Dropout,Dropout,0.9854760766029358,0.014487126842141151,3.679407382151112e-05
+MLP,76,Dropout,Dropout,0.7860525846481323,0.20779144763946533,0.006155902519822121
+MLP,2924,Graduate,Graduate,0.004279454238712788,0.10266508907079697,0.8930554389953613
+MLP,955,Dropout,Dropout,0.9448091387748718,0.050205081701278687,0.004985842853784561
+MLP,1338,Dropout,Enrolled,0.27038848400115967,0.6404032111167908,0.08920833468437195
+MLP,1276,Graduate,Enrolled,0.20080140233039856,0.5370993614196777,0.26209917664527893
+MLP,2812,Graduate,Graduate,0.03563479706645012,0.05742533504962921,0.9069398641586304
+MLP,782,Graduate,Graduate,0.012393869459629059,0.07264108210802078,0.914965033531189
+MLP,1412,Graduate,Graduate,0.04077717661857605,0.2021300196647644,0.7570928335189819
+MLP,1774,Enrolled,Enrolled,0.3067016303539276,0.6557348966598511,0.037563543766736984
+MLP,3921,Graduate,Graduate,0.011915000155568123,0.07405742257833481,0.9140275716781616
+MLP,2619,Graduate,Graduate,0.025876779109239578,0.024748552590608597,0.9493746757507324
+MLP,3423,Dropout,Graduate,0.0468953400850296,0.15882837772369385,0.7942762970924377
+MLP,852,Graduate,Graduate,0.01639486476778984,0.02061384730041027,0.9629913568496704
+MLP,511,Dropout,Dropout,0.9825621843338013,0.017305657267570496,0.0001321647287113592
+MLP,3482,Dropout,Dropout,0.9206804037094116,0.0792088583111763,0.00011071811604779214
+MLP,1119,Graduate,Graduate,0.04016656056046486,0.22686579823493958,0.7329676747322083
+MLP,226,Graduate,Graduate,0.1674235612154007,0.17265546321868896,0.6599209904670715
+MLP,215,Enrolled,Graduate,0.024844294413924217,0.4568750262260437,0.5182807445526123
+MLP,233,Graduate,Graduate,0.09701652079820633,0.37254422903060913,0.5304392576217651
+MLP,167,Graduate,Enrolled,0.1283099502325058,0.6848080158233643,0.18688207864761353
+MLP,2467,Enrolled,Graduate,0.029722588136792183,0.32590916752815247,0.6443682312965393
+MLP,1314,Enrolled,Enrolled,0.2462756633758545,0.6078441143035889,0.14588020741939545
+MLP,3866,Dropout,Dropout,0.9519709348678589,0.047974929213523865,5.416236672317609e-05
+MLP,730,Dropout,Dropout,0.6471537351608276,0.349912166595459,0.002934114309027791
+MLP,4180,Enrolled,Dropout,0.590343713760376,0.4088253974914551,0.0008308979449793696
+MLP,3105,Dropout,Graduate,0.05186546966433525,0.32110634446144104,0.6270281672477722
+MLP,2401,Graduate,Enrolled,0.15336059033870697,0.5076276063919067,0.3390118479728699
+MLP,1761,Dropout,Enrolled,0.34276872873306274,0.4046475291252136,0.25258374214172363
+MLP,1346,Graduate,Graduate,0.10645408183336258,0.06607160717248917,0.8274743556976318
+MLP,2834,Graduate,Graduate,0.06182534247636795,0.39156150817871094,0.5466130971908569
+MLP,3287,Dropout,Dropout,0.9879561066627502,0.00823468342423439,0.003809127723798156
+MLP,4291,Graduate,Enrolled,0.3577955663204193,0.53089439868927,0.11131008714437485
+MLP,837,Enrolled,Enrolled,0.07545001059770584,0.9193788170814514,0.0051711848936975
+MLP,2777,Enrolled,Enrolled,0.04931620508432388,0.7944607734680176,0.15622304379940033
+MLP,1031,Enrolled,Enrolled,0.29750731587409973,0.6566420793533325,0.04585057869553566
+MLP,3238,Graduate,Graduate,0.061951056122779846,0.14459699392318726,0.7934519648551941
+MLP,1315,Graduate,Graduate,0.0429665669798851,0.36089015007019043,0.5961433053016663
+MLP,1859,Enrolled,Enrolled,0.4514141082763672,0.536178469657898,0.01240744348615408
+MLP,289,Graduate,Graduate,0.015792831778526306,0.07617904245853424,0.9080281257629395
+MLP,3620,Dropout,Enrolled,0.007402370218187571,0.9180575013160706,0.07454013079404831
+MLP,356,Graduate,Graduate,0.04022664949297905,0.19679616391658783,0.7629772424697876
+MLP,84,Graduate,Graduate,0.026291584596037865,0.47793376445770264,0.49577462673187256
+MLP,1518,Enrolled,Graduate,0.3336971402168274,0.26362597942352295,0.40267688035964966
+MLP,3089,Dropout,Dropout,0.9573696851730347,0.042302265763282776,0.00032812071731314063
+MLP,3338,Dropout,Dropout,0.7051039338111877,0.14985233545303345,0.14504374563694
+MLP,637,Enrolled,Enrolled,0.1634354144334793,0.8040345311164856,0.03253011032938957
+MLP,1158,Graduate,Graduate,0.04825038090348244,0.43960127234458923,0.5121484398841858
+MLP,4402,Enrolled,Dropout,0.4762493669986725,0.27268239855766296,0.2510681748390198
+MLP,260,Graduate,Graduate,0.05690924823284149,0.3438996970653534,0.5991910696029663
+MLP,4352,Dropout,Graduate,0.17633213102817535,0.21178412437438965,0.6118837594985962
+MLP,1208,Dropout,Dropout,0.9996986389160156,0.00028679793467745185,1.4533124158333521e-05
+MLP,2801,Dropout,Dropout,0.9533812403678894,0.04651515185832977,0.00010369571100454777
+MLP,3123,Graduate,Graduate,0.03907589241862297,0.25881099700927734,0.7021130323410034
+MLP,4129,Graduate,Graduate,0.0718793272972107,0.37857282161712646,0.5495478510856628
+MLP,56,Dropout,Dropout,0.9935321807861328,0.006366982124745846,0.00010079659841721877
+MLP,3891,Enrolled,Graduate,0.06543231755495071,0.15730376541614532,0.777263879776001
+MLP,1336,Enrolled,Enrolled,0.03326883539557457,0.5613588094711304,0.40537241101264954
+MLP,966,Dropout,Dropout,0.9493291974067688,0.050590451806783676,8.03624716354534e-05
+MLP,2996,Graduate,Graduate,0.09388798475265503,0.057017982006073,0.8490940928459167
+MLP,1582,Dropout,Dropout,0.5438698530197144,0.4556209146976471,0.0005092461942695081
+MLP,354,Dropout,Dropout,0.8700608611106873,0.12972919642925262,0.0002099448611261323
+MLP,85,Graduate,Graduate,0.06252793967723846,0.10676538944244385,0.8307066559791565
+MLP,2965,Graduate,Graduate,0.2429700791835785,0.3685682415962219,0.3884616792201996
+MLP,1614,Graduate,Graduate,0.008856268599629402,0.041362565010786057,0.9497811794281006
+MLP,2587,Enrolled,Enrolled,0.2749183773994446,0.7187705636024475,0.006311072036623955
+MLP,2220,Graduate,Graduate,0.09056583046913147,0.44720569252967834,0.4622285068035126
+MLP,77,Graduate,Graduate,0.2556414306163788,0.23005282878875732,0.5143057107925415
+MLP,1732,Dropout,Dropout,0.7578364014625549,0.24090330302715302,0.0012602967908605933
+MLP,2550,Graduate,Graduate,0.025061199441552162,0.02335318550467491,0.9515856504440308
+MLP,3675,Graduate,Graduate,0.022213071584701538,0.201344296336174,0.7764426469802856
+MLP,3045,Graduate,Enrolled,0.3535187840461731,0.6177884936332703,0.028692729771137238
+MLP,2396,Dropout,Dropout,0.8017775416374207,0.19800260663032532,0.0002198550064349547
+MLP,4407,Graduate,Graduate,0.1389281153678894,0.2234070599079132,0.6376648545265198
+MLP,2596,Dropout,Enrolled,0.2685202956199646,0.6899574398994446,0.04152224212884903
+MLP,2725,Enrolled,Dropout,0.8432878851890564,0.15480506420135498,0.0019070567796006799
+MLP,1843,Enrolled,Enrolled,0.20053596794605255,0.422229140996933,0.37723490595817566
+MLP,2499,Dropout,Dropout,0.9513829350471497,0.04807787388563156,0.0005391225568018854
+MLP,1347,Enrolled,Graduate,0.07811931520700455,0.391142874956131,0.5307378768920898
+MLP,4189,Graduate,Dropout,0.5938200950622559,0.21349966526031494,0.19268019497394562
+MLP,330,Enrolled,Enrolled,0.0773797333240509,0.8080037832260132,0.11461649090051651
+MLP,3523,Enrolled,Enrolled,0.28083792328834534,0.7007352113723755,0.018426772207021713
+MLP,742,Dropout,Enrolled,0.20411540567874908,0.4888548254966736,0.3070297837257385
+MLP,2107,Graduate,Graduate,0.13870899379253387,0.33376234769821167,0.5275285840034485
+MLP,2664,Graduate,Graduate,0.2525472342967987,0.2711124122142792,0.47634029388427734
+MLP,1901,Graduate,Graduate,0.0939614474773407,0.38854914903640747,0.5174894332885742
+MLP,3017,Graduate,Graduate,0.005426496732980013,0.15459240972995758,0.8399810791015625
+MLP,1846,Dropout,Enrolled,0.12736760079860687,0.6461055278778076,0.2265268713235855
+MLP,2198,Dropout,Enrolled,0.40883180499076843,0.5663060545921326,0.024862175807356834
+MLP,3699,Dropout,Enrolled,0.24316194653511047,0.7559378743171692,0.0009001222206279635
+MLP,3174,Enrolled,Graduate,0.029855459928512573,0.05670078471302986,0.9134437441825867
+MLP,3572,Dropout,Dropout,0.8975309729576111,0.10046244412660599,0.0020065230783075094
+MLP,2433,Enrolled,Enrolled,0.20931674540042877,0.7219055891036987,0.06877761334180832
+MLP,1454,Enrolled,Enrolled,0.026529937982559204,0.9282351732254028,0.04523494467139244
+MLP,4325,Graduate,Graduate,0.06566984206438065,0.22103409469127655,0.7132960557937622
+MLP,4205,Graduate,Graduate,0.07043261080980301,0.3019707202911377,0.6275966167449951
+MLP,3349,Dropout,Dropout,0.7339613437652588,0.26583704352378845,0.00020155227684881538
+MLP,484,Graduate,Graduate,0.021786730736494064,0.42733871936798096,0.5508745312690735
+MLP,1577,Enrolled,Enrolled,0.036978092044591904,0.9227321743965149,0.04028967767953873
+MLP,2035,Enrolled,Dropout,0.5968852639198303,0.3924481272697449,0.010666639544069767
+MLP,4235,Enrolled,Enrolled,0.33098307251930237,0.5307329893112183,0.13828393816947937
+MLP,2446,Dropout,Graduate,0.11145687848329544,0.16027070581912994,0.7282724380493164
+MLP,431,Graduate,Graduate,0.050622422248125076,0.457488089799881,0.49188950657844543
+MLP,2428,Dropout,Enrolled,0.1574687510728836,0.4916612505912781,0.3508701026439667
+MLP,703,Dropout,Dropout,0.9128264784812927,0.0870320200920105,0.00014148639456834644
+MLP,4415,Dropout,Dropout,0.7991705536842346,0.19729916751384735,0.0035302292089909315
+MLP,274,Graduate,Graduate,0.010170885361731052,0.03770511597394943,0.9521239399909973
+MLP,3240,Enrolled,Enrolled,0.05310530215501785,0.8576096296310425,0.08928515017032623
+MLP,3034,Graduate,Enrolled,0.05084715411067009,0.5303688049316406,0.4187839925289154
+MLP,4247,Graduate,Graduate,0.0707252249121666,0.4581752419471741,0.4710995554924011
+MLP,651,Enrolled,Enrolled,0.3898012340068817,0.5684003233909607,0.04179845005273819
+MLP,1383,Graduate,Graduate,0.042328380048274994,0.4498228132724762,0.5078487992286682
+MLP,3321,Dropout,Dropout,0.981103777885437,0.018081286922097206,0.0008149665081873536
+MLP,3076,Dropout,Enrolled,0.35382863879203796,0.6186515092849731,0.027519887313246727
+MLP,1947,Graduate,Enrolled,0.09276990592479706,0.7875559329986572,0.11967414617538452
+MLP,2413,Graduate,Dropout,0.8763427734375,0.012908175587654114,0.1107490211725235
+MLP,3561,Graduate,Graduate,0.11584163457155228,0.16763824224472046,0.7165201306343079
+MLP,4178,Graduate,Graduate,0.027515040710568428,0.20692823827266693,0.7655567526817322
+MLP,3190,Dropout,Dropout,0.9582679867744446,0.04169652983546257,3.55476004187949e-05
+MLP,2760,Dropout,Enrolled,0.18957190215587616,0.4125351905822754,0.39789286255836487
+MLP,921,Graduate,Graduate,0.014077616855502129,0.2011178880929947,0.7848045825958252
+MLP,2811,Dropout,Dropout,0.9145721793174744,0.08247825503349304,0.0029495395720005035
+MLP,1041,Graduate,Graduate,0.06006510928273201,0.17015740275382996,0.7697774767875671
+MLP,2211,Graduate,Graduate,0.06084735319018364,0.36529043316841125,0.5738621950149536
+MLP,3570,Graduate,Enrolled,0.025006677955389023,0.9507330060005188,0.02426034025847912
+MLP,796,Graduate,Graduate,0.06762032955884933,0.1606043130159378,0.7717753648757935
+MLP,1820,Enrolled,Enrolled,0.46327489614486694,0.5217458009719849,0.014979256317019463
+MLP,1250,Graduate,Graduate,0.0971074029803276,0.21179260313510895,0.691100001335144
+MLP,2870,Graduate,Graduate,0.016958115622401237,0.06745675206184387,0.9155851006507874
+MLP,4322,Dropout,Dropout,0.6606501936912537,0.3274725377559662,0.011877207085490227
+MLP,2439,Dropout,Dropout,0.9982103109359741,0.0009145287913270295,0.0008751885616220534
+MLP,3843,Dropout,Enrolled,0.3688524663448334,0.6294160485267639,0.0017314099241048098
+MLP,3263,Graduate,Graduate,0.09763233363628387,0.05663229152560234,0.8457353711128235
+MLP,731,Graduate,Enrolled,0.03778303787112236,0.7668576240539551,0.19535939395427704
+MLP,1009,Graduate,Graduate,0.036021143198013306,0.12383788079023361,0.8401409983634949
+MLP,1545,Graduate,Enrolled,0.07049106806516647,0.709787905216217,0.21972094476222992
+MLP,199,Enrolled,Enrolled,0.07863790541887283,0.6272350549697876,0.29412710666656494
+MLP,52,Enrolled,Enrolled,0.20065446197986603,0.7620404362678528,0.0373050831258297
+MLP,713,Graduate,Enrolled,0.0372566394507885,0.5072228312492371,0.45552054047584534
+MLP,459,Graduate,Graduate,0.043231215327978134,0.127212256193161,0.8295564651489258
+MLP,1422,Graduate,Graduate,0.009948157705366611,0.0396692119538784,0.9503825902938843
+MLP,2213,Dropout,Enrolled,0.1930231750011444,0.601421058177948,0.20555570721626282
+MLP,1787,Graduate,Dropout,0.5768051147460938,0.2662401497364044,0.15695473551750183
+MLP,4175,Graduate,Enrolled,0.018822992220520973,0.7940235137939453,0.18715351819992065
+MLP,2046,Dropout,Dropout,0.983866810798645,0.016043495386838913,8.96912461030297e-05
+MLP,2368,Enrolled,Dropout,0.42515501379966736,0.3745686113834381,0.20027633011341095
+MLP,1680,Enrolled,Enrolled,0.09268812835216522,0.8961001038551331,0.01121173519641161
+MLP,3002,Dropout,Graduate,0.1597466766834259,0.09619026631116867,0.7440630793571472
+MLP,186,Enrolled,Dropout,0.5240024328231812,0.46676701307296753,0.009230568073689938
+MLP,351,Graduate,Graduate,0.026046859100461006,0.13428325951099396,0.8396698832511902
+MLP,3275,Graduate,Graduate,0.3523466885089874,0.11851045489311218,0.5291428565979004
+MLP,2133,Graduate,Graduate,0.029991189017891884,0.20953597128391266,0.76047283411026
+MLP,4209,Graduate,Graduate,0.030089428648352623,0.24410389363765717,0.7258066534996033
+MLP,618,Graduate,Graduate,0.01833745278418064,0.15277503430843353,0.8288875222206116
+MLP,4195,Graduate,Enrolled,0.15015365183353424,0.5217219591140747,0.32812440395355225
+MLP,737,Dropout,Dropout,0.6815820932388306,0.316730260848999,0.0016876631416380405
+MLP,3299,Dropout,Dropout,0.9956172704696655,0.004359972197562456,2.282142850162927e-05
+MLP,4259,Dropout,Enrolled,0.22697129845619202,0.7649607062339783,0.008067983202636242
+MLP,2236,Enrolled,Enrolled,0.4730527400970459,0.5156074166297913,0.011339876800775528
+MLP,728,Graduate,Enrolled,0.2753526568412781,0.5564662218093872,0.1681811362504959
+MLP,1001,Dropout,Dropout,0.9938092827796936,0.006076074205338955,0.00011473317863419652
+MLP,1002,Graduate,Dropout,0.34860432147979736,0.32527366280555725,0.3261220157146454
+MLP,3970,Graduate,Graduate,0.08556077629327774,0.3128812611103058,0.6015579700469971
+MLP,2347,Graduate,Enrolled,0.12897586822509766,0.690525233745575,0.18049892783164978
+MLP,2322,Dropout,Dropout,0.7396127581596375,0.2579197883605957,0.002467479556798935
+MLP,4184,Graduate,Graduate,0.10937166959047318,0.14681415259838104,0.74381422996521
+MLP,658,Graduate,Enrolled,0.04019046202301979,0.8402106165885925,0.11959896236658096
+MLP,4012,Dropout,Dropout,0.9657045602798462,0.03355865925550461,0.00073676323518157
+MLP,3003,Dropout,Graduate,0.01928025484085083,0.09013014286756516,0.8905896544456482
+MLP,1181,Graduate,Enrolled,0.0938892588019371,0.7830989956855774,0.1230117678642273
+MLP,1675,Dropout,Dropout,0.9517172574996948,0.04785735532641411,0.00042545588803477585
+MLP,3350,Enrolled,Graduate,0.0673920139670372,0.23473945260047913,0.6978684663772583
+MLP,1508,Graduate,Graduate,0.038263946771621704,0.10572987794876099,0.8560062050819397
+MLP,3363,Dropout,Dropout,0.9952865839004517,0.004711726680397987,1.6789573464848218e-06
+MLP,865,Graduate,Graduate,0.01964808814227581,0.10409991443157196,0.8762520551681519
+MLP,230,Graduate,Enrolled,0.18296577036380768,0.6411952376365662,0.17583902180194855
+MLP,1010,Graduate,Enrolled,0.0419340506196022,0.6539435982704163,0.3041224181652069
+MLP,699,Dropout,Dropout,0.5516295433044434,0.4464355409145355,0.0019349756184965372
+MLP,26,Graduate,Graduate,0.022333085536956787,0.1552758365869522,0.8223910927772522
+MLP,1909,Graduate,Enrolled,0.04445544630289078,0.5561156868934631,0.3994288742542267
+MLP,1717,Enrolled,Dropout,0.9231976866722107,0.07666776329278946,0.00013460207264870405
+MLP,463,Graduate,Enrolled,0.15917755663394928,0.5568007230758667,0.2840217053890228
+MLP,1365,Dropout,Dropout,0.999103844165802,0.0008552162325941026,4.0830349462339655e-05
+MLP,3640,Graduate,Graduate,0.11079959571361542,0.08029322326183319,0.8089072108268738
+MLP,2289,Dropout,Dropout,0.928833544254303,0.07105694711208344,0.000109475789940916
+MLP,387,Graduate,Dropout,0.40442341566085815,0.31314095854759216,0.2824355959892273
+MLP,862,Dropout,Enrolled,0.41759932041168213,0.5524635910987854,0.02993718907237053
+MLP,3326,Graduate,Enrolled,0.31880563497543335,0.5667784810066223,0.11441588401794434
+MLP,2048,Graduate,Graduate,0.028243621811270714,0.15630307793617249,0.815453290939331
+MLP,1981,Graduate,Graduate,0.015025795437395573,0.1959206461906433,0.7890535593032837
+MLP,3633,Graduate,Enrolled,0.14696954190731049,0.5279096961021423,0.3251207768917084
+MLP,3906,Graduate,Graduate,0.024264466017484665,0.15939505398273468,0.8163405060768127
+MLP,4217,Graduate,Graduate,0.06763134151697159,0.1768370419740677,0.7555315494537354
+MLP,4320,Enrolled,Enrolled,0.015125949867069721,0.9457303881645203,0.03914356231689453
+MLP,1388,Dropout,Dropout,0.9775426387786865,0.02236156165599823,9.584741928847507e-05
+MLP,1139,Graduate,Graduate,0.015127447433769703,0.2187521755695343,0.766120433807373
+MLP,3740,Dropout,Enrolled,0.03211456909775734,0.8881779313087463,0.07970742881298065
+MLP,2909,Dropout,Enrolled,0.3784956932067871,0.6164973974227905,0.005006952211260796
+MLP,3919,Graduate,Graduate,0.06263331323862076,0.23867394030094147,0.6986927390098572
+MLP,3150,Enrolled,Enrolled,0.48515212535858154,0.5040332674980164,0.010814551264047623
+MLP,2265,Enrolled,Enrolled,0.25924989581108093,0.7057122588157654,0.03503788635134697
+MLP,1561,Enrolled,Dropout,0.5174441337585449,0.3704914152622223,0.11206445842981339
+MLP,18,Graduate,Enrolled,0.10979849100112915,0.595956563949585,0.2942448854446411
+MLP,1166,Dropout,Graduate,0.03630644828081131,0.3073272407054901,0.6563662886619568
+MLP,191,Enrolled,Enrolled,0.315310001373291,0.6793317794799805,0.005358230322599411
+MLP,3909,Dropout,Dropout,0.9972584247589111,0.0027123147156089544,2.9269500373629853e-05
+MLP,3230,Graduate,Graduate,0.06402019411325455,0.2966996729373932,0.6392800807952881
+MLP,2989,Enrolled,Enrolled,0.08312583714723587,0.7369793057441711,0.17989487946033478
+MLP,2700,Dropout,Dropout,0.7697723507881165,0.19995266199111938,0.03027499094605446
+MLP,820,Graduate,Enrolled,0.09015657007694244,0.47866499423980713,0.43117833137512207
+MLP,777,Dropout,Enrolled,0.050812624394893646,0.6581997871398926,0.29098764061927795
+MLP,723,Dropout,Dropout,0.9986705780029297,0.0012879498535767198,4.152252950007096e-05
+MLP,3642,Graduate,Graduate,0.020817644894123077,0.11225921660661697,0.8669230937957764
+MLP,4246,Dropout,Dropout,0.8141401410102844,0.16977454721927643,0.016085317358374596
+MLP,308,Graduate,Graduate,0.08495775610208511,0.004185688216239214,0.9108565449714661
+MLP,2253,Dropout,Dropout,0.9998015761375427,0.0001826203806558624,1.582132972544059e-05
+MLP,2610,Graduate,Graduate,0.04465258866548538,0.1712731122970581,0.7840743064880371
+MLP,216,Graduate,Graduate,0.03998072072863579,0.16547837853431702,0.7945408821105957
+MLP,540,Graduate,Graduate,0.02417656220495701,0.14226776361465454,0.8335556983947754
+MLP,3627,Enrolled,Graduate,0.24635297060012817,0.2614661753177643,0.49218082427978516
+MLP,3895,Graduate,Graduate,0.03279929608106613,0.30953916907310486,0.6576615571975708
+MLP,2082,Graduate,Graduate,0.016384467482566833,0.1343890130519867,0.8492265343666077
+MLP,3394,Enrolled,Enrolled,0.08442603051662445,0.8469499945640564,0.06862395256757736
+MLP,3314,Dropout,Dropout,0.9896759390830994,0.010309153236448765,1.4900006135576405e-05
+MLP,4050,Dropout,Dropout,0.9947391152381897,0.0017943455604836345,0.003466546069830656
+MLP,1785,Enrolled,Enrolled,0.0677020400762558,0.911029040813446,0.021268917247653008
+MLP,2484,Graduate,Graduate,0.07632702589035034,0.30130675435066223,0.6223662495613098
+MLP,1669,Graduate,Dropout,0.38964754343032837,0.36833733320236206,0.24201515316963196
+MLP,3587,Graduate,Graduate,0.01760929822921753,0.17739790678024292,0.8049927949905396
+MLP,950,Graduate,Enrolled,0.10115178674459457,0.7318251132965088,0.16702313721179962
+MLP,652,Graduate,Graduate,0.10111431032419205,0.2340749353170395,0.6648107767105103
+MLP,2190,Enrolled,Enrolled,0.18136128783226013,0.5284973978996277,0.29014137387275696
+MLP,3918,Enrolled,Enrolled,0.07667713612318039,0.7562724351882935,0.16705046594142914
+MLP,1442,Graduate,Graduate,0.10248392820358276,0.06726952642202377,0.8302465081214905
+MLP,4311,Enrolled,Enrolled,0.09793555736541748,0.8995962142944336,0.0024681936483830214
+MLP,168,Graduate,Graduate,0.04076492413878441,0.15430563688278198,0.8049293756484985
+MLP,1438,Graduate,Graduate,0.049719784408807755,0.06776783615350723,0.8825124502182007
+MLP,2616,Dropout,Dropout,0.677967369556427,0.3194253742694855,0.002607261762022972
+MLP,3104,Graduate,Graduate,0.018186774104833603,0.06281040608882904,0.9190028309822083
+MLP,1567,Graduate,Enrolled,0.09773511439561844,0.6760277152061462,0.2262372374534607
+MLP,677,Enrolled,Dropout,0.5988864898681641,0.3695148527622223,0.03159862011671066
+MLP,1418,Graduate,Graduate,0.12846338748931885,0.2828238904476166,0.5887126922607422
+MLP,839,Graduate,Enrolled,0.04110926017165184,0.520327627658844,0.43856313824653625
+MLP,4020,Dropout,Dropout,0.7260236144065857,0.26540035009384155,0.008576016873121262
+MLP,3929,Enrolled,Enrolled,0.04912799224257469,0.8490555882453918,0.10181646049022675
+MLP,3927,Dropout,Dropout,0.8587716817855835,0.0784219279885292,0.0628063753247261
+MLP,3094,Dropout,Dropout,0.9372003674507141,0.06250955164432526,0.0002900395484175533
+MLP,1113,Enrolled,Enrolled,0.244717076420784,0.7394392490386963,0.01584361121058464
+MLP,418,Graduate,Graduate,0.05417129769921303,0.2551700174808502,0.690658688545227
+MLP,3897,Graduate,Graduate,0.008064032532274723,0.07957201451063156,0.9123639464378357
+MLP,3678,Graduate,Graduate,0.020208988338708878,0.09621088951826096,0.8835800886154175
+MLP,1860,Dropout,Dropout,0.8680922389030457,0.13179998099803925,0.00010780413140309975
+MLP,1472,Graduate,Graduate,0.041800886392593384,0.12698586285114288,0.8312132358551025
+MLP,939,Dropout,Dropout,0.6761652231216431,0.10257560759782791,0.2212591916322708
+MLP,3458,Graduate,Graduate,0.014269490726292133,0.06001662835478783,0.9257138967514038
+MLP,633,Graduate,Enrolled,0.0035576678346842527,0.8622429370880127,0.13419944047927856
+MLP,1656,Graduate,Graduate,0.022987795993685722,0.19777925312519073,0.7792329788208008
+MLP,3786,Dropout,Dropout,0.5078809857368469,0.3215254247188568,0.17059358954429626
+MLP,3934,Dropout,Dropout,0.9591296315193176,0.04071902111172676,0.00015136455476749688
+MLP,1727,Enrolled,Dropout,0.6898466944694519,0.22605347633361816,0.08409981429576874
+MLP,1468,Graduate,Graduate,0.07531948387622833,0.07698472589254379,0.8476958274841309
+MLP,2196,Enrolled,Enrolled,0.18524035811424255,0.7783269882202148,0.03643263503909111
+MLP,2028,Graduate,Graduate,0.034512534737586975,0.2739282250404358,0.6915592551231384
+MLP,242,Graduate,Graduate,0.01878359541296959,0.09289247542619705,0.8883239030838013
+MLP,4194,Dropout,Dropout,0.9679288864135742,0.032046519219875336,2.4583598133176565e-05
+MLP,2069,Dropout,Dropout,0.78515625,0.20139288902282715,0.013450892642140388
+MLP,3462,Dropout,Dropout,0.9887461066246033,0.010217367671430111,0.0010364899644628167
+MLP,1406,Graduate,Graduate,0.03734593838453293,0.1036180630326271,0.8590360283851624
+MLP,3714,Dropout,Dropout,0.9949414134025574,0.0050556957721710205,2.891331405407982e-06
+MLP,3285,Graduate,Enrolled,0.042739998549222946,0.5480474233627319,0.40921249985694885
+MLP,2367,Graduate,Dropout,0.5938925743103027,0.10719917714595795,0.2989082336425781
+MLP,4135,Graduate,Enrolled,0.03512871265411377,0.4993956387042999,0.4654757082462311
+MLP,4003,Graduate,Graduate,0.05508126690983772,0.2974325716495514,0.64748615026474
+MLP,3577,Dropout,Dropout,0.7788093686103821,0.22112572193145752,6.488295184681192e-05
+MLP,4392,Enrolled,Enrolled,0.056678835302591324,0.6154458522796631,0.32787537574768066
+MLP,4112,Graduate,Enrolled,0.01657087542116642,0.6278107166290283,0.35561835765838623
+MLP,156,Graduate,Graduate,0.020556209608912468,0.10399795323610306,0.8754458427429199
+MLP,1813,Graduate,Enrolled,0.11633790284395218,0.4798722267150879,0.40378984808921814
+MLP,664,Graduate,Graduate,0.0244602058082819,0.19452178478240967,0.7810179591178894
+MLP,1187,Dropout,Enrolled,0.2384590059518814,0.7593188285827637,0.0022221782710403204
+MLP,2192,Dropout,Dropout,0.6189781427383423,0.37547415494918823,0.005547690205276012
+MLP,2111,Graduate,Graduate,0.011133392341434956,0.057820357382297516,0.9310463070869446
+MLP,2126,Dropout,Graduate,0.030719870701432228,0.12052138149738312,0.8487587571144104
+MLP,2554,Enrolled,Enrolled,0.18073709309101105,0.8066575527191162,0.012605412863194942
+MLP,2159,Dropout,Enrolled,0.39180988073349,0.5998661518096924,0.008323957212269306
+MLP,2879,Dropout,Enrolled,0.2839594781398773,0.594832181930542,0.12120833992958069
+MLP,1017,Graduate,Graduate,0.007592983543872833,0.05479957535862923,0.93760746717453
+MLP,3211,Enrolled,Enrolled,0.08329925686120987,0.8663483262062073,0.05035245791077614
+MLP,3971,Graduate,Graduate,0.03758366033434868,0.26904383301734924,0.6933725476264954
+MLP,4128,Graduate,Enrolled,0.32597675919532776,0.565581738948822,0.10844139009714127
+MLP,4126,Enrolled,Enrolled,0.04038478434085846,0.6793744564056396,0.2802407741546631
+MLP,517,Dropout,Dropout,0.5222830772399902,0.466063529253006,0.011653454974293709
+MLP,2978,Graduate,Graduate,0.11702940613031387,0.34634673595428467,0.5366238951683044
+MLP,1817,Graduate,Graduate,0.04795391112565994,0.4466046690940857,0.5054413676261902
+MLP,3439,Dropout,Enrolled,0.4468464255332947,0.552442729473114,0.0007108307909220457
+MLP,3972,Graduate,Enrolled,0.05710097402334213,0.8626980781555176,0.08020090311765671
+MLP,1815,Enrolled,Graduate,0.12239114940166473,0.2018115222454071,0.6757973432540894
+MLP,3518,Dropout,Enrolled,0.1495734453201294,0.8477123379707336,0.0027142176404595375
+MLP,2440,Dropout,Dropout,0.9951077699661255,0.004820008762180805,7.220648694783449e-05
+MLP,891,Dropout,Dropout,0.8364610075950623,0.10854292660951614,0.05499614030122757
+MLP,3080,Graduate,Graduate,0.06981620192527771,0.423803448677063,0.5063803195953369
+MLP,176,Graduate,Enrolled,0.04991478472948074,0.9156719446182251,0.03441324457526207
+MLP,3212,Graduate,Graduate,0.013288811780512333,0.45590466260910034,0.5308065414428711
+MLP,641,Enrolled,Enrolled,0.14322392642498016,0.8442416787147522,0.012534400448203087
+MLP,1012,Graduate,Graduate,0.016891639679670334,0.1837701052427292,0.7993382215499878
+MLP,3172,Dropout,Dropout,0.918722927570343,0.06978751718997955,0.011489530093967915
+MLP,3308,Graduate,Graduate,0.021489163860678673,0.0670202299952507,0.9114905595779419
+MLP,1809,Graduate,Graduate,0.1928173452615738,0.17328020930290222,0.6339024305343628
+MLP,680,Graduate,Graduate,0.0419231653213501,0.13332486152648926,0.8247520327568054
+MLP,2968,Graduate,Dropout,0.6075153350830078,0.04036153480410576,0.3521232008934021
+MLP,1408,Dropout,Dropout,0.9251744151115417,0.07290275394916534,0.001922890660353005
+MLP,3641,Dropout,Dropout,0.9947395920753479,0.0050866855308413506,0.0001737378042889759
+MLP,2855,Dropout,Graduate,0.06001069024205208,0.39425358176231384,0.5457356572151184
+MLP,2973,Graduate,Enrolled,0.12174428254365921,0.8282185792922974,0.05003710091114044
+MLP,286,Enrolled,Graduate,0.02000267431139946,0.3689451217651367,0.6110521554946899
+MLP,4044,Graduate,Graduate,0.005620123352855444,0.09348541498184204,0.9008944034576416
+MLP,1013,Dropout,Dropout,0.8963844776153564,0.10192017257213593,0.0016954091843217611
+MLP,3183,Enrolled,Enrolled,0.10871713608503342,0.8239604830741882,0.06732239574193954
+MLP,3301,Graduate,Graduate,0.009954152628779411,0.07070805132389069,0.919337809085846
+MLP,1648,Dropout,Graduate,0.04430638626217842,0.44716739654541016,0.5085262060165405
+MLP,323,Graduate,Enrolled,0.06974193453788757,0.8821420669555664,0.048116013407707214
+MLP,2851,Graduate,Graduate,0.16131220757961273,0.36839187145233154,0.47029590606689453
+MLP,1271,Graduate,Enrolled,0.07954231649637222,0.4725186824798584,0.44793903827667236
+MLP,4272,Graduate,Graduate,0.022819269448518753,0.21457327902317047,0.7626074552536011
+MLP,1471,Enrolled,Enrolled,0.16209270060062408,0.7298939228057861,0.1080133393406868
+MLP,75,Dropout,Enrolled,0.24112050235271454,0.7533376216888428,0.005541868042200804
+MLP,621,Dropout,Enrolled,0.31214237213134766,0.6794381737709045,0.0084194615483284
+MLP,3762,Graduate,Graduate,0.010675966739654541,0.17978322505950928,0.809540867805481
+MLP,2593,Dropout,Graduate,0.019041085615754128,0.48819515109062195,0.4927637577056885
+MLP,871,Dropout,Dropout,0.9766037464141846,0.019293060526251793,0.004103182349354029
+MLP,565,Graduate,Graduate,0.04330401495099068,0.363444060087204,0.5932518839836121
+MLP,776,Graduate,Graduate,0.04208182543516159,0.1435602456331253,0.8143579363822937
+MLP,4015,Dropout,Enrolled,0.12657584249973297,0.816928505897522,0.05649566650390625
+MLP,1457,Enrolled,Enrolled,0.15897993743419647,0.6149843335151672,0.2260356992483139
+MLP,4177,Enrolled,Enrolled,0.12281472235918045,0.8411300182342529,0.03605524078011513
+MLP,1756,Enrolled,Graduate,0.10479357093572617,0.43185439705848694,0.4633519947528839
+MLP,1796,Graduate,Graduate,0.015660321339964867,0.02307065762579441,0.961268961429596
+MLP,591,Enrolled,Enrolled,0.07834465801715851,0.8881698846817017,0.03348538279533386
+MLP,3487,Dropout,Dropout,0.9973422884941101,0.0023078161757439375,0.0003499022568576038
+MLP,1783,Enrolled,Enrolled,0.052510250359773636,0.9438908100128174,0.00359881273470819
+MLP,89,Enrolled,Dropout,0.6378544569015503,0.3620675206184387,7.802004256518558e-05
+MLP,696,Graduate,Graduate,0.05857317894697189,0.007833443582057953,0.9335933327674866
+MLP,4149,Graduate,Enrolled,0.13249334692955017,0.627947986125946,0.239558607339859
+MLP,908,Enrolled,Enrolled,0.22929194569587708,0.7074522376060486,0.06325581669807434
+MLP,869,Graduate,Enrolled,0.17713622748851776,0.4940110445022583,0.32885268330574036
+MLP,2106,Enrolled,Enrolled,0.278886079788208,0.6903939247131348,0.03071998991072178
+MLP,1502,Graduate,Graduate,0.2478306144475937,0.15975219011306763,0.5924171805381775
+MLP,2724,Graduate,Enrolled,0.12420810759067535,0.8284085392951965,0.047383345663547516
+MLP,252,Graduate,Graduate,0.005337771959602833,0.029783548787236214,0.9648786783218384
+MLP,3380,Dropout,Enrolled,0.1803140491247177,0.8139452338218689,0.005740738939493895
+MLP,3942,Graduate,Enrolled,0.06223563104867935,0.7325960397720337,0.20516829192638397
+MLP,450,Graduate,Graduate,0.04286089912056923,0.18743830919265747,0.769700825214386
+MLP,1149,Graduate,Graduate,0.03407874330878258,0.23256856203079224,0.733352780342102
+MLP,2710,Graduate,Graduate,0.021960705518722534,0.18917061388492584,0.7888686656951904
+MLP,1965,Graduate,Graduate,0.1371103972196579,0.11372275650501251,0.7491667866706848
+MLP,4204,Dropout,Graduate,0.30134573578834534,0.07406197488307953,0.6245923042297363
+MLP,4169,Dropout,Dropout,0.8873800039291382,0.11167707294225693,0.0009429194033145905
+MLP,335,Graduate,Graduate,0.03863401338458061,0.03677310049533844,0.924592912197113
+MLP,3379,Graduate,Graduate,0.0368916355073452,0.16518889367580414,0.7979194521903992
+MLP,2468,Dropout,Enrolled,0.417813777923584,0.5792112946510315,0.002974882023409009
+MLP,2397,Enrolled,Enrolled,0.18968503177165985,0.7044442296028137,0.10587073117494583
+MLP,2687,Dropout,Dropout,0.9991905093193054,0.0008065353613346815,2.998004219989525e-06
+MLP,2804,Graduate,Graduate,0.01606086455285549,0.05607131868600845,0.9278678297996521
+MLP,475,Graduate,Enrolled,0.04484562948346138,0.6963688731193542,0.2587854862213135
+MLP,2639,Graduate,Graduate,0.05203184112906456,0.0689869225025177,0.8789811730384827
+MLP,806,Graduate,Graduate,0.043495334684848785,0.10457552224397659,0.8519291281700134
+MLP,4085,Dropout,Dropout,0.929706335067749,0.06299320608377457,0.007300417870283127
+MLP,3134,Enrolled,Enrolled,0.06786826252937317,0.8721333742141724,0.05999837815761566
+MLP,54,Dropout,Enrolled,0.03695017099380493,0.8534585237503052,0.10959130525588989
+MLP,2259,Graduate,Graduate,0.009110343642532825,0.06640907377004623,0.9244805574417114
+MLP,2657,Enrolled,Graduate,0.11196647584438324,0.4141386151313782,0.473894864320755
+MLP,133,Dropout,Dropout,0.8984862565994263,0.09935727715492249,0.0021565479692071676
+MLP,2203,Dropout,Dropout,0.8410704731941223,0.08006442338228226,0.07886513322591782
+MLP,446,Graduate,Graduate,0.009069699794054031,0.06360597163438797,0.9273242950439453
+MLP,1038,Graduate,Graduate,0.06920468062162399,0.33015018701553345,0.6006450653076172
+MLP,1206,Graduate,Dropout,0.5457714796066284,0.0225794930011034,0.43164902925491333
+MLP,2846,Dropout,Dropout,0.8484284281730652,0.14360260963439941,0.007968992926180363
+MLP,1100,Dropout,Enrolled,0.03627302125096321,0.5382803082466125,0.42544662952423096
+MLP,1359,Dropout,Dropout,0.9924382567405701,0.007550597190856934,1.1100420124421362e-05
+MLP,1256,Graduate,Graduate,0.007307867053896189,0.05917841196060181,0.9335137009620667
+MLP,2676,Dropout,Dropout,0.9581934213638306,0.04163247346878052,0.00017403237870894372
+MLP,3226,Graduate,Enrolled,0.046929724514484406,0.7559435367584229,0.19712671637535095
+MLP,890,Graduate,Graduate,0.11015645414590836,0.08450841158628464,0.8053351640701294
+MLP,3303,Graduate,Graduate,0.029460784047842026,0.04105215519666672,0.9294871091842651
+MLP,3259,Graduate,Graduate,0.05596216395497322,0.3722101151943207,0.57182776927948
+MLP,2186,Enrolled,Enrolled,0.0998850017786026,0.6127514839172363,0.2873634994029999
+MLP,778,Enrolled,Enrolled,0.08242949843406677,0.7832112908363342,0.1343591958284378
+MLP,734,Dropout,Dropout,0.9856423735618591,0.01417291909456253,0.00018468529742676765
+MLP,1692,Graduate,Graduate,0.01801176182925701,0.06233817711472511,0.9196500182151794
+MLP,2054,Graduate,Graduate,0.01352247130125761,0.06741108745336533,0.9190664291381836
+MLP,3096,Graduate,Graduate,0.011192945763468742,0.03973478078842163,0.9490723013877869
+MLP,2873,Graduate,Dropout,0.7979415655136108,0.06351418048143387,0.13854433596134186
+MLP,1892,Dropout,Dropout,0.8349864482879639,0.14330576360225677,0.021707816049456596
+MLP,1439,Graduate,Graduate,0.026642898097634315,0.4570337235927582,0.516323447227478
+MLP,502,Enrolled,Dropout,0.5316466689109802,0.4367539584636688,0.03159939497709274

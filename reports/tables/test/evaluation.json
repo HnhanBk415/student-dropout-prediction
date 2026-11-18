@@ -1,0 +1,201 @@
+{
+  "created_utc": "2026-11-18T06:27:03Z",
+  "notebook": "notebooks/evaluation/07_evaluate_test.ipynb",
+  "source_manifest": "reports/tables/comparison/validation_manifest.json",
+  "source_manifest_sha256": "8d3a918ef0830b64747790066d919c5122d078de3796adfad5a40f8d0f9bc72a",
+  "input_sha256": {
+    "data/raw/data.csv": "19737f02127e85ef29af536e46888a7721b6c530c3e1c6aedfbb09109c030a71",
+    "data/splits/splits.json": "177f06ae8c349363a8af089d57ee3cba683d297596f9d766859a8a22e3034acd",
+    "common/metrics.py": "c553c5520e5c867fa497b37a4e0c79b6c5b191ad5478458f31fb9439f7c627e0",
+    "common/preprocessing.py": "2bfbfc0093e3cbff4ce52b7705def81a1d814d69acce5e4c64361eeae11dedb1",
+    "artifacts/dummy_pipeline.json": "50578c42f0dec2148ab9617660886f6075566eef9e0b80d65be08940e03b9bc8",
+    "artifacts/dummy_pipeline.joblib": "22d5968c42326cd02b619b4b61c2b115d604b8b4b783d54ffb730b8e98d17e5c",
+    "reports/tables/dummy/validation_summary.csv": "56a8bfb86b7898bcce21dc48f8a07600f17ea85ee2f84840d26bce70718f8884",
+    "reports/tables/dummy/validation_per_class.csv": "5b308d62d886e4edfc8eb67573ba4336f4f63d7043090b0ff385aa0bfa8dfdcc",
+    "reports/tables/dummy/validation_confusion.csv": "56d14ff98ae81e32168b3f75ed988c1d1c6c9a6ea87cc8c89805e5fd98e570f2",
+    "artifacts/logistic_pipeline.json": "cbf5d255d21907e18736e2f80163c4b923a98817eff57301d01b23879c7cf56e",
+    "artifacts/logistic_pipeline.joblib": "abc3afd20b13bb518c548c6bb6c99bcd9ee01ca4ba004f34f7dc98cb289569b1",
+    "reports/tables/logistic/validation_summary.csv": "471b9ffc6e25851fdae5d8ae8ccfc8d149c7876e4f552fa892bafc8b0f626ac4",
+    "reports/tables/logistic/validation_per_class.csv": "bb1de866580dd82d3c852073e90245912c1a65650481cf56093b15ffdd392c0e",
+    "reports/tables/logistic/validation_confusion.csv": "ae6dc8a2cae37d077130ffbadbb407a3d076bf23409b60a91b70cee9256585b5",
+    "artifacts/random_forest_pipeline.json": "16f0202adc7870699309fa19a9e1c126d7e29aff7ca2e7a733f340ea8800ad93",
+    "artifacts/random_forest_pipeline.joblib": "bec509611bcea611a43852a97e28cca7ba17cb82cb34e30a0ba7abf60f548a38",
+    "reports/tables/random_forest/validation_summary.csv": "c6894f074ab2cf2f8f6e12d0050d5f79409191a14d759a7f8f20e5833abcd2c0",
+    "reports/tables/random_forest/validation_per_class.csv": "c80cad5254e8e6c457b945ee8bb3c56a452c5c64721117d3bedfede5d4ce81f4",
+    "reports/tables/random_forest/validation_confusion.csv": "6bcf0b6daa2d63cb9eefc61176459196044a475093ad72b7cd1e5af0063dd59e",
+    "artifacts/mlp_best.json": "7ebbe422d650cd4b950390f3842e6b09230f796060712b43809d7332c77807bd",
+    "artifacts/mlp_best.pt": "6a3c459d78600eecce1e49bfe98bde6fe127528fd986b64abdd2d63870f85c01",
+    "artifacts/mlp_preprocessor.joblib": "2e4b396ca7e15f7ac3f0cdd90297e9d16108d13c2ec9ddf14da0369cedcedbf1",
+    "reports/tables/mlp/validation_summary.csv": "c85cc9fb248af0c190ac5df13ffff3558a206414a4618d2170aade3d616be9b8",
+    "reports/tables/mlp/validation_per_class.csv": "432f66003ee234d90ce5c040be4b36a4bdbd83b5b27a5f8d055e0904e736a2d7",
+    "reports/tables/mlp/validation_confusion.csv": "a91787e447a9e809ab2376e9f5f9cc0802abaa3d89b8e0efe50ef3a42faf0f34"
+  },
+  "hash_mode": "binary_for_models_lf_for_text",
+  "labels": [
+    "Dropout",
+    "Enrolled",
+    "Graduate"
+  ],
+  "feature_columns": [
+    "Application order",
+    "Previous qualification (grade)",
+    "Admission grade",
+    "Age at enrollment",
+    "Curricular units 1st sem (credited)",
+    "Curricular units 1st sem (enrolled)",
+    "Curricular units 1st sem (evaluations)",
+    "Curricular units 1st sem (approved)",
+    "Curricular units 1st sem (grade)",
+    "Curricular units 1st sem (without evaluations)",
+    "Curricular units 2nd sem (credited)",
+    "Curricular units 2nd sem (enrolled)",
+    "Curricular units 2nd sem (evaluations)",
+    "Curricular units 2nd sem (approved)",
+    "Curricular units 2nd sem (grade)",
+    "Curricular units 2nd sem (without evaluations)",
+    "Unemployment rate",
+    "Inflation rate",
+    "GDP",
+    "Marital status",
+    "Application mode",
+    "Course",
+    "Previous qualification",
+    "Nacionality",
+    "Mother's qualification",
+    "Father's qualification",
+    "Mother's occupation",
+    "Father's occupation",
+    "Daytime/evening attendance",
+    "Displaced",
+    "Educational special needs",
+    "Debtor",
+    "Tuition fees up to date",
+    "Gender",
+    "Scholarship holder",
+    "International"
+  ],
+  "n_train": 3096,
+  "n_validation": 664,
+  "n_test": 664,
+  "test_rows_sha256": "098dfe0131dd60f6b03e15f7603e6d12fccd20c3e5f370238f7783e60b217668",
+  "selected_model_on_validation": "Random Forest",
+  "selection_metric": "macro_f1",
+  "validation_reloaded_matches": true,
+  "runtime": {
+    "python": "3.13.14",
+    "sklearn": "1.9.1",
+    "torch": "2.15.0+cpu",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "joblib": "1.6.0"
+  },
+  "model_load_warnings": [
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator SimpleImputer from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator StandardScaler from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator Pipeline from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator SimpleImputer from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator OneHotEncoder from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator Pipeline from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator SimpleImputer from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator SimpleImputer from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator StandardScaler from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator Pipeline from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator SimpleImputer from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator OneHotEncoder from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator Pipeline from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator SimpleImputer from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator ColumnTransformer from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator LogisticRegression from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    },
+    {
+      "model": "Logistic Regression",
+      "message": "Trying to unpickle estimator Pipeline from version 1.9.0 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations"
+    }
+  ],
+  "test": {
+    "Dummy": {
+      "accuracy": 0.5,
+      "macro_f1": 0.2222222222222222,
+      "dropout_recall": 0.0,
+      "dropout_precision": 0.0,
+      "dropout_f2": 0.0
+    },
+    "Logistic Regression": {
+      "accuracy": 0.7319277108433735,
+      "macro_f1": 0.6959991385539559,
+      "dropout_recall": 0.6948356807511737,
+      "dropout_precision": 0.8268156424581006,
+      "dropout_f2": 0.7177497575169738
+    },
+    "Random Forest": {
+      "accuracy": 0.7545180722891566,
+      "macro_f1": 0.7033582842066622,
+      "dropout_recall": 0.7370892018779343,
+      "dropout_precision": 0.8177083333333334,
+      "dropout_f2": 0.7519157088122606
+    },
+    "MLP": {
+      "accuracy": 0.7228915662650602,
+      "macro_f1": 0.6938143898772253,
+      "dropout_recall": 0.6995305164319249,
+      "dropout_precision": 0.8142076502732241,
+      "dropout_f2": 0.7198067632850241
+    }
+  },
+  "output_sha256": {
+    "reports/tables/test/test_summary.csv": "e813067117d718c0b24a9f29d6586c5e0a3fecaa02e776d3f049262a6feb5413",
+    "reports/tables/test/test_per_class.csv": "218aef303932d7c33321e9f2ff2eaa8ea093d564ede3577ec5e3b4bbfe751b2a",
+    "reports/tables/test/test_confusion.csv": "cd8eb5759b1b647c3e0a5c29c1824425a7c9eb5c60e6158fedfdb5f5c5321cd6",
+    "reports/tables/test/predictions_test.csv": "a07809df15be5d857c7fb7a48e3fa0648c2346f2f4ff4eb732a41e54eeeef68f",
+    "reports/tables/test/validation_vs_test.csv": "382850b5b20d1225b08c61d9957f4b3a83de6fde88b9d9a200d82e84234bb6ac",
+    "reports/figures/test/metric_comparison.png": "c730888bc46ebc44096722e1be181296bae2c60cfbb57f54a137a4ab5a746eea",
+    "reports/figures/test/confusion_matrices.png": "b7afed07d7d4fc51ac1e4f89ef8a5a75c3f18ae38adc7aed3ad9dd719702034c"
+  }
+}
