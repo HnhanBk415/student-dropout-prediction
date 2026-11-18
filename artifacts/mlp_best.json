@@ -1,10 +1,13 @@
 {
   "model": "MLP (PyTorch)",
-  "created_utc": "2026-11-15T05:31:54Z",
-  "notebook": "notebooks/models/mlp/04_mlp.ipynb",
+  "created_utc": "2026-11-18T02:21:26Z",
+  "notebook": "notebooks/models/mlp/05_mlp.ipynb",
   "torch_version": "2.15.0+cpu",
   "sklearn_version": "1.9.1",
+  "device": "cpu",
   "data_sha256": "19737f02127e85ef29af536e46888a7721b6c530c3e1c6aedfbb09109c030a71",
+  "split_file_sha256": "177f06ae8c349363a8af089d57ee3cba683d297596f9d766859a8a22e3034acd",
+  "hash_line_endings": "lf",
   "split_seed": 42,
   "labels": [
     "Dropout",
@@ -17,37 +20,56 @@
   "preprocessor": "artifacts/mlp_preprocessor.joblib",
   "best_config": {
     "hidden_sizes": [
-      128,
       64
     ],
-    "dropout": 0.4,
+    "dropout": 0.2,
     "class_weight": "balanced",
     "lr": 0.001,
     "weight_decay": 0.0001,
     "batch_size": 64,
     "optimizer": "AdamW",
-    "max_epochs": 300,
-    "patience": 30,
-    "early_stopping_metric": "validation_macro_f1",
     "seed": 42
   },
-  "best_epoch": 14,
+  "best_epoch": 17,
+  "trained_epochs": 17,
+  "epoch_selection": {
+    "rule": "median_internal_best_epochs",
+    "internal_best_epochs": [
+      27,
+      14,
+      17
+    ]
+  },
   "config_search": {
+    "scope": "outer_train_only",
+    "internal_split": {
+      "source": "data/splits/splits.json",
+      "fold": 1,
+      "n_fit": 2476,
+      "n_stop": 620
+    },
+    "n_features_after_preprocess": 226,
     "n_configs": 12,
     "seeds": [
       42,
       43,
       44
     ],
-    "selection_metric": "validation_macro_f1_mean",
-    "macro_f1_mean": 0.7053953862081114,
-    "macro_f1_std": 0.006321798339393679
+    "max_epochs": 300,
+    "patience": 30,
+    "early_stopping_metric": "internal_macro_f1",
+    "selection_metric": "internal_macro_f1_mean",
+    "config_id": 1,
+    "macro_f1_mean": 0.7144740401711736,
+    "macro_f1_std": 0.00210771817082287
   },
+  "n_train": 3096,
+  "n_validation": 664,
   "validation": {
-    "accuracy": 0.7530120481927711,
-    "macro_f1": 0.707458827893957,
-    "dropout_recall": 0.7464788732394366,
-    "dropout_precision": 0.8238341968911918,
-    "dropout_f2": 0.7607655502392344
+    "accuracy": 0.7108433734939759,
+    "macro_f1": 0.6832748160962181,
+    "dropout_recall": 0.6995305164319249,
+    "dropout_precision": 0.8054054054054054,
+    "dropout_f2": 0.7184185149469624
   }
 }
