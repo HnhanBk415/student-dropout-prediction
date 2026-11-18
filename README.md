@@ -89,7 +89,7 @@ Các nhánh sử dụng cùng bộ chia và hàm tính metric. Báo cáo ghi rõ
 - Visual Studio Code, cài hai extension **Python** và **Jupyter** của Microsoft.
 - Dữ liệu gốc của dự án.
 
-Project có thể chạy hoàn toàn bằng **CPU**, không bắt buộc có GPU.
+Project có thể chạy hoàn toàn bằng **CPU**, không bắt buộc có **GPU**.
 
 Môi trường đã dùng để kiểm tra:
 
