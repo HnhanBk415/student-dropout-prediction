@@ -1,0 +1,48 @@
+{
+  "model": "RandomForestClassifier",
+  "created_utc": "2026-11-14T18:12:15+00:00",
+  "notebook": "notebooks/models/random_forest/04_random_forest.ipynb",
+  "python_version": "3.13.14",
+  "sklearn_version": "1.9.1",
+  "numpy_version": "2.5.4",
+  "pandas_version": "3.1.1",
+  "joblib_version": "1.6.0",
+  "data_sha256": "19737f02127e85ef29af536e46888a7721b6c530c3e1c6aedfbb09109c030a71",
+  "split_file_sha256": "177f06ae8c349363a8af089d57ee3cba683d297596f9d766859a8a22e3034acd",
+  "hash_line_endings": "lf",
+  "split_seed": 42,
+  "labels": [
+    "Dropout",
+    "Enrolled",
+    "Graduate"
+  ],
+  "n_features_in": 36,
+  "n_features_after_preprocess": 232,
+  "scale_numeric": false,
+  "best_config": {
+    "n_estimators": 200,
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "class_weight": "balanced",
+    "max_features": "sqrt",
+    "bootstrap": true,
+    "random_state": 42
+  },
+  "cross_validation": {
+    "n_folds": 5,
+    "n_configs": 16,
+    "config_id": 14,
+    "selection_metric": "macro_f1",
+    "macro_f1_mean": 0.7195599733035561,
+    "macro_f1_std": 0.021341270281831783
+  },
+  "validation_n_samples": 664,
+  "validation": {
+    "macro_f1": 0.7292909040615697,
+    "accuracy": 0.7771084337349398,
+    "dropout_recall": 0.7511737089201878,
+    "dropout_precision": 0.8163265306122449,
+    "dropout_f2": 0.7633587786259542
+  },
+  "permutation_repeats": 8
+}
