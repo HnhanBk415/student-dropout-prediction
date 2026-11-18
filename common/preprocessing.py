@@ -1,5 +1,8 @@
 """Danh sách nhóm cột và hàm tạo bộ tiền xử lý cho bộ dữ liệu UCI 697."""
 
+import numpy as np
+import pandas as pd
+
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
@@ -60,10 +63,71 @@ BINARY_COLUMNS = (
 FEATURE_COLUMNS = NUMERIC_COLUMNS + CATEGORICAL_COLUMNS + BINARY_COLUMNS
 
 
+def numeric_quality_report(frame):
+    """Kiểm tra giá trị sai nghĩa, trả bảng số vi phạm và giữ nguyên dữ liệu đầu vào."""
+    records = []
+    numeric = {}
+
+    def record(column, rule, invalid):
+        records.append({
+            "column": column,
+            "rule": rule,
+            "invalid_count": int(invalid.sum()),
+        })
+
+    for column in NUMERIC_COLUMNS:
+        original = frame[column]
+        values = pd.to_numeric(original, errors="coerce")
+        record(column, "non_numeric", original.notna() & values.isna())
+        record(column, "infinite", pd.Series(
+            np.isinf(values.to_numpy(dtype=float, na_value=np.nan)), index=frame.index,
+        ))
+        # Ô thiếu vẫn được xử lý bởi imputer khi fit; ô vô hạn đã được ghi nhận riêng.
+        numeric[column] = values.where(np.isfinite(values))
+
+    # Số học phần và số lượt đánh giá là số đếm nguyên, không âm.
+    count_columns = [
+        column for column in NUMERIC_COLUMNS
+        if column.startswith("Curricular units ") and "(grade)" not in column
+    ]
+    for column in count_columns:
+        values = numeric[column]
+        record(column, "negative_count", values.lt(0))
+        record(column, "non_integer_count", values.notna() & values.mod(1).ne(0))
+
+    age = numeric["Age at enrollment"]
+    record("Age at enrollment", "non_positive_age", age.le(0))
+    record("Age at enrollment", "non_integer_age", age.notna() & age.mod(1).ne(0))
+
+    # Các khoảng điểm và thứ tự nguyện vọng lấy từ mô tả biến của bộ dữ liệu.
+    ranges = {
+        "Application order": (0, 9),
+        "Previous qualification (grade)": (0, 200),
+        "Admission grade": (0, 200),
+        "Curricular units 1st sem (grade)": (0, 20),
+        "Curricular units 2nd sem (grade)": (0, 20),
+    }
+    for column, (lower, upper) in ranges.items():
+        values = numeric[column]
+        record(column, f"outside_{lower}_{upper}", values.lt(lower) | values.gt(upper))
+    order = numeric["Application order"]
+    record("Application order", "non_integer_order", order.notna() & order.mod(1).ne(0))
+
+    for semester in ("1st", "2nd"):
+        approved = f"Curricular units {semester} sem (approved)"
+        enrolled = f"Curricular units {semester} sem (enrolled)"
+        record(approved, "approved_exceeds_enrolled", numeric[approved].gt(numeric[enrolled]))
+
+    # GDP và lạm phát có thể âm. Các cột này chỉ kiểm tra kiểu số và giá trị vô hạn.
+    return pd.DataFrame(records, columns=["column", "rule", "invalid_count"])
+
+
 # Tạo bộ xử lý. Notebook huấn luyện sẽ fit bằng phần dữ liệu dùng để học.
 # Logistic và MLP dùng scale_numeric=True để chuẩn hóa cột số.
 # Random Forest có thể dùng False để giữ thang đo gốc.
 # X dùng tên cột CSV đã bỏ khoảng trắng ở đầu và cuối.
+# EDA giữ giá trị hiếm hợp lệ và số 0 có ý nghĩa; hàm này chuẩn hóa và mã hóa dữ liệu.
+# StandardScaler học thang đo từ phần fit, các điểm nằm xa trung bình vẫn được giữ.
 def make_preprocessor(*, scale_numeric=True):
 
     numeric_steps = [("fill_missing", SimpleImputer(strategy="median"))]

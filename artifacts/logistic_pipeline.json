@@ -1,8 +1,8 @@
 {
   "model": "LogisticRegression",
-  "created_utc": "2026-11-13T02:26:42Z",
+  "created_utc": "2026-11-18T07:37:53Z",
   "notebook": "notebooks/models/logistic/02_logistic_regression.ipynb",
-  "sklearn_version": "1.9.0",
+  "sklearn_version": "1.9.1",
   "data_sha256": "19737f02127e85ef29af536e46888a7721b6c530c3e1c6aedfbb09109c030a71",
   "split_seed": 42,
   "labels": [

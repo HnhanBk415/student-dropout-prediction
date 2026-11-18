@@ -1,0 +1,13 @@
+model,true_label,Dropout,Enrolled,Graduate
+Dummy,Dropout,0,0,213
+Dummy,Enrolled,0,0,119
+Dummy,Graduate,0,0,332
+Logistic Regression,Dropout,158,41,14
+Logistic Regression,Enrolled,24,72,23
+Logistic Regression,Graduate,15,61,256
+Random Forest,Dropout,160,28,25
+Random Forest,Enrolled,23,67,29
+Random Forest,Graduate,13,30,289
+MLP,Dropout,149,50,14
+MLP,Enrolled,20,82,17
+MLP,Graduate,16,75,241
