@@ -1,6 +1,6 @@
 {
   "model": "RandomForestClassifier",
-  "created_utc": "2026-11-14T18:12:15+00:00",
+  "created_utc": "2026-11-18T13:02:58+00:00",
   "notebook": "notebooks/models/random_forest/04_random_forest.ipynb",
   "python_version": "3.13.14",
   "sklearn_version": "1.9.1",

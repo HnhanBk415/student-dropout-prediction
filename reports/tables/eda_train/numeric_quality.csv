@@ -1,0 +1,69 @@
+column,rule,invalid_count
+Application order,non_numeric,0
+Application order,infinite,0
+Previous qualification (grade),non_numeric,0
+Previous qualification (grade),infinite,0
+Admission grade,non_numeric,0
+Admission grade,infinite,0
+Age at enrollment,non_numeric,0
+Age at enrollment,infinite,0
+Curricular units 1st sem (credited),non_numeric,0
+Curricular units 1st sem (credited),infinite,0
+Curricular units 1st sem (enrolled),non_numeric,0
+Curricular units 1st sem (enrolled),infinite,0
+Curricular units 1st sem (evaluations),non_numeric,0
+Curricular units 1st sem (evaluations),infinite,0
+Curricular units 1st sem (approved),non_numeric,0
+Curricular units 1st sem (approved),infinite,0
+Curricular units 1st sem (grade),non_numeric,0
+Curricular units 1st sem (grade),infinite,0
+Curricular units 1st sem (without evaluations),non_numeric,0
+Curricular units 1st sem (without evaluations),infinite,0
+Curricular units 2nd sem (credited),non_numeric,0
+Curricular units 2nd sem (credited),infinite,0
+Curricular units 2nd sem (enrolled),non_numeric,0
+Curricular units 2nd sem (enrolled),infinite,0
+Curricular units 2nd sem (evaluations),non_numeric,0
+Curricular units 2nd sem (evaluations),infinite,0
+Curricular units 2nd sem (approved),non_numeric,0
+Curricular units 2nd sem (approved),infinite,0
+Curricular units 2nd sem (grade),non_numeric,0
+Curricular units 2nd sem (grade),infinite,0
+Curricular units 2nd sem (without evaluations),non_numeric,0
+Curricular units 2nd sem (without evaluations),infinite,0
+Unemployment rate,non_numeric,0
+Unemployment rate,infinite,0
+Inflation rate,non_numeric,0
+Inflation rate,infinite,0
+GDP,non_numeric,0
+GDP,infinite,0
+Curricular units 1st sem (credited),negative_count,0
+Curricular units 1st sem (credited),non_integer_count,0
+Curricular units 1st sem (enrolled),negative_count,0
+Curricular units 1st sem (enrolled),non_integer_count,0
+Curricular units 1st sem (evaluations),negative_count,0
+Curricular units 1st sem (evaluations),non_integer_count,0
+Curricular units 1st sem (approved),negative_count,0
+Curricular units 1st sem (approved),non_integer_count,0
+Curricular units 1st sem (without evaluations),negative_count,0
+Curricular units 1st sem (without evaluations),non_integer_count,0
+Curricular units 2nd sem (credited),negative_count,0
+Curricular units 2nd sem (credited),non_integer_count,0
+Curricular units 2nd sem (enrolled),negative_count,0
+Curricular units 2nd sem (enrolled),non_integer_count,0
+Curricular units 2nd sem (evaluations),negative_count,0
+Curricular units 2nd sem (evaluations),non_integer_count,0
+Curricular units 2nd sem (approved),negative_count,0
+Curricular units 2nd sem (approved),non_integer_count,0
+Curricular units 2nd sem (without evaluations),negative_count,0
+Curricular units 2nd sem (without evaluations),non_integer_count,0
+Age at enrollment,non_positive_age,0
+Age at enrollment,non_integer_age,0
+Application order,outside_0_9,0
+Previous qualification (grade),outside_0_200,0
+Admission grade,outside_0_200,0
+Curricular units 1st sem (grade),outside_0_20,0
+Curricular units 2nd sem (grade),outside_0_20,0
+Application order,non_integer_order,0
+Curricular units 1st sem (approved),approved_exceeds_enrolled,0
+Curricular units 2nd sem (approved),approved_exceeds_enrolled,0
